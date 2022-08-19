@@ -23,7 +23,7 @@ Tässä sivulla pääset tutustumaan tiimiimme ja heidän rooleihin yrityksessä
 ## Kuva tiimistä
 
 
-![](https://openclipart.org/image/400px/svg_to_png/18171/johnny-automatic-pirates.png)
+![](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-AC8393-/core/-/raw/master/assets/tiimikuva.png?inline=false)
 
 
 ## Kotisivut
