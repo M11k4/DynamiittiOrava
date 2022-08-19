@@ -3,9 +3,9 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty projektisuunnitelma |
-| Laatija: | |
-| Versio: | |
-| Päivämäärä: | |
+| Laatija: | Niko Kauppinen |
+| Versio: | 0.1 |
+| Päivämäärä: | 00.00.2022 |
 
 ![](https://openclipart.org/image/400px/167242)
 
@@ -249,12 +249,12 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](riskitaulukko.md)
 
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* [Projektisopimus](..//10-Projektinhallinta/projektisuunnitelma.md)
-* [Vaatimusmäärittely](../20-Vaatimustenhallinta/vaatimusmaarittely.md)
+* Projektisopimus <--(..//10-Projektinhallinta/projektisuunnitelma.md)-->
+* Vaatimusmäärittely <--(../20-Vaatimustenhallinta/vaatimusmaarittely.md)-->
 * [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
 * [Yleistestisuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
-* [Viestintäsuunnitelma](..//10-Projektinhallinta/viestintasuunnitelma.md)
-* [Riskihallintasuunnitelma](../10-Projektinhallinta/riskihallinta-suunnitelma.md)
+* Viestintäsuunnitelma <--(..//10-Projektinhallinta/viestintasuunnitelma.md)-->
+* Riskihallintasuunnitelma <--(../10-Projektinhallinta/riskihallinta-suunnitelma.md)-->
 * [Muu annettu dokumentaatio]()
 
 
