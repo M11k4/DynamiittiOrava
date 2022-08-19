@@ -166,7 +166,7 @@ Step11 --> Step12
 || Asiakas_A voi soittaa tuntemalleen henkilölle Asiakas_B |
 || Asiakas_A voi soittaa tuntemattomalle henkilölle, jos soitto on sallittu |
 
->Jokainen ominaisuus kannattaa kuvata itsenäisenä dokumenttina, koska niihin liittyy paljon tarkentavaa tietoa. Tutustu esimerkkinä [FEAT0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md). Kuvauksen tekemiseen käytetään tarvittaessa seuraavaa [pohjaa](pohja/../pohjat/pohja-ominaisuus.md). 
+>Jokainen ominaisuus kannattaa kuvata itsenäisenä dokumenttina, koska niihin liittyy paljon tarkentavaa tietoa. Tutustu esimerkkinä FEAT0001 <!--(20-Vaatimustenhallinta/ominaisuus-FEA0001.md)-->. Kuvauksen tekemiseen käytetään tarvittaessa seuraavaa pohjaa <!--(pohja/../pohjat/pohja-ominaisuus.md)-->. 
 
 
 **Kirjataan ominaisuudet vielä MindMap-muotoon ja samalla linkitetään niihin liittyvät toiminnot**
@@ -209,7 +209,7 @@ Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehd
 
 | ID | Toiminnallisen vaatimuksen kuvaus | ominaisuus	|				
 |:-:|:-:|:-:|
-| [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | [Kirjautumis-ominaisuus](pohjat/pohja-ominaisuus.md) |
+| [FUNCREQ-C0001]() | Palveluun kirjautumisessa voidaan käyttää Facebook-tunnuksia | Kirjautumis-ominaisuus <!--(pohjat/pohja-ominaisuus.md)--> |
 | [FUNCREQ-C0002]() | Käyttöliittymää voidaan ohjata tarvittaessa äänikomennoilla | [Ääniohjaustuki-ominaisuus](pohjat(pohjat/pohja-ominaisuus.md)) |
 | [FUNCREQ-C0003]() | Käyttäjä voi vaihtaa kirjautumisikkunassa kielen | [Kirjatumis-ominaisuus]() |
 | [FUNCREQ-C0004]() | ... | ... |
@@ -219,7 +219,7 @@ Kaikkia vaatimuksia (myös ei-toiminnalliset vaatimukset) koskevat seuraavat ehd
 ![](../assets/work-to-do.png)
 
 >*Eri ominaisuuksien ja niihin liittyvien toiminnallisuuksien selkeyttämiseksi voidaan hyödyntää myös erilaisia kuvauksia. Kuvausten avulla pyritään hahmottamaan miltä tuotteen tulisi näyttää tai mitä on otettava huomioon käyttöliittymätoteutuksessa? Tähän tarkoitukseen voi soveltaa nykyaikaisia ns. MockUp/prototyyppityökaluja. Näiden välineiden avulla voidaan luoda helposti käyttöliittymästä nopea kokeiluverso, jota voidaan koekäyttää eri kohderyhmillä.* 
->*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä [Feature-FEA0001](20-Vaatimustenhallinta/ominaisuus-FEA0001.md)
+>*Ominaisuuksien toteutuksiin liittyvät prototyyppi kuvaukset kannataa liittää ominaisuuksien määrittelydokumentteihin, jolloin ne löytyvät asian mukaisesta paikasta. Tutustu esimerkkinä Feature-FEA0001 <!--(20-Vaatimustenhallinta/ominaisuus-FEA0001.md)-->
 >*Perinteisesti käyttöliittymä hahmotelmat ja kuvaukset on tehty piirtämällä käyttöliittymästä staattisia kuvia ja näitä on käytetty suunnittelun apuna. Tämä onnistuu myös soveltamalla apuna PlantUML-kuvauksia. (ks. alla) Kannattaa kuitenkin tutustua ja kokeilla arjolla olevia prototyyppi/MockUp-työkaluja tähän tarkoitukseen.*  
 
  * [Lisää tähän linkki prototyyppiin / MockUp-toteutukseen]()
