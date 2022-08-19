@@ -20,7 +20,7 @@
 
 | | |
 |:-:|:-:|
-| Use Case 1 <!--(FT1-kayttotapaus.md)--> | Onko olemassa käyttötapauksia? |
+| [Use Case 1](FT1-kayttotapaus.md) | Onko olemassa käyttötapauksia? |
 | [Vaatimus ReqID]() | Onko tiedossa vaatimuksia, joilla on vaikutusta ominaisuuteen? | 
 | [Rajaus ID]() | Onko olemassa rajoitteita, jotka on otettava huomioon | 
 | [Dokumentti ID]() | Muita lähteitä, joista pitää olla selvillä?  | 
