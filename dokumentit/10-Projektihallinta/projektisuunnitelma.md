@@ -255,7 +255,7 @@ Kustannusarvion esittäminen taulukon avulla:
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
 * [Projektisopimus](../10-Projektihallinta/projektisopimus.md)
-* [Vaatimusmäärittely](../20-Vaatimustenhallinta/vaatimusmaarittely.md)
+* Vaatimusmäärittely <!-- Hakasulkeet, jos tulee bäk!!(../20-Vaatimustenhallinta/vaatimusmaarittely.md) -->
 * [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
 * [Yleistestisuunnitelma](../50-Testaushallinta/yleistestaussuunnitelma.md)
 * [Viestintäsuunnitelma](../10-Projektihallinta/viestintasuunnitelma.md)
