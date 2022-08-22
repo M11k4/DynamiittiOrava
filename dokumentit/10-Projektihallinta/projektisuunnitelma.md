@@ -73,26 +73,27 @@ Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä te
 >kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
 >projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä tai alla olevassa kuvauksessa.
 
+
+[Tiimin esittely.](https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/10-Projektihallinta/esittely/)
+
+
 **Projektiorganisaation rakenne MindMap-muodossa**
 
 ```plantuml
 @startmindmap
 + Tuotos
 ++ Tuotantotiimi
-+++ Projektipäällikkö
-+++ Henkilö1
-+++ Henkilö2
-+++ Henkilö3
++++ Arnold Suksi, Projektipäällikkö
++++ Carola Kettunen, Pääohjelmoija/Arkkitehti
++++ Matti Urri, Ohjelmoija
++++ Kauno Koivisto, Ohjelmoija
 -- Tilaaja
---- Tilaajan edustaja1
---- Tilaajan edustaja2
-++ Laadunvalvonta organisaatio
+--- Tilaaja 1
+--- Tilaaja 2
+++ Laadunvalvonta organisaatio(Voi olla myös ulkopuolinen touimija)
 +++ Testipäällikkö
-+++ Testaaja
-+++ Käytettävyystestaaja
--- Verottaja
---- Itse Karhu
---- Virkailija
++++ Mauno Kara, Tietoturvatestaus
++++ Klaus Kähö, Käytettävyystestaaja
 @endmindmap
 ```
 
