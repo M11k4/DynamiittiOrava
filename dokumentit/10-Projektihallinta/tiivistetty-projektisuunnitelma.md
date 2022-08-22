@@ -97,9 +97,6 @@
 +++ Testipäällikkö
 +++ Mauno Kara, Tietoturvatestaus
 +++ Klaus Kähö, Käytettävyystestaaja
--- Verottaja
---- Valtio
---- Virkailija
 @endmindmap
 ```
 
