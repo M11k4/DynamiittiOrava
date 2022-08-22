@@ -77,9 +77,8 @@
 | | | |
 | | | |
 
-* Tässä voi olla linkki myös tiimin esittelyyn?
+[Tiimin esittely.](https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/10-Projektihallinta/esittely/)
 
-![](../assets/work-to-do.png)
 
 **Projektiorganisaation rakenne MindMap-muodossa**
 
@@ -87,19 +86,19 @@
 @startmindmap
 + Tuotos
 ++ Tuotantotiimi
-+++ Projektipäällikkö
-+++ Henkilö1
-+++ Henkilö2
-+++ Henkilö3
++++ Arnold Suksi, Projektipäällikkö
++++ Carola Kettunen, Pääohjelmoija/Arkkitehti
++++ Matti Urri, Ohjelmoija
++++ Kauno Koivisto, Ohjelmoija
 -- Tilaaja
---- Tilaajan edustaja1
---- Tilaajan edustaja2
-++ Laadunvalvonta organisaatio
+--- Tilaaja 1
+--- Tilaaja 2
+++ Laadunvalvonta organisaatio(Voi olla myös ulkopuolinen touimija)
 +++ Testipäällikkö
-+++ Testaaja
-+++ Käytettävyystestaaja
++++ Mauno Kara, Tietoturvatestaus
++++ Klaus Kähö, Käytettävyystestaaja
 -- Verottaja
---- Itse Karhu
+--- Valtio
 --- Virkailija
 @endmindmap
 ```
