@@ -1,4 +1,4 @@
-# Tiivistetty projektisuunnitelma (pohja)
+# Tiivistetty projektisuunnitelma
 
 |  |  |
 |:-:|:-:|
@@ -31,9 +31,15 @@ CodeCerub Oy:lle on tullut toimeksianto kehittää WIMMA Labin käyttöön sovel
 CodeCerub Oy lähtee luomaan ja kehittämään asiakastyönä [**WIMMA Lab**](https://www.wimmalab.org/):ille heidän toimintaa laajentavaa Foorumi-palvelua yhdessä Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson kanssa. Palvelun tarkoituksena on avata toimintaa erilaisille sidosryhmille ja tämän takia ollaan kehittämässä uusia sähköisiä palveluja. Foorumi tulee osaksi WIMMA Labin nykyisiä kotisivuja, joka toteutetaan asiakkaan vaatimalla tavalla. [Conduit ohjelmisto](https://github.com/gothinkster/realworld), joka toimii avoimella lähdekoodilla ([**open source**](https://en.wikipedia.org/wiki/Open_source)) saadaan asiakkaan vaatimuksien mukainen toteutus.
 Avoimeen lähdekoodiin päädyttiin tiukan aikataulun vuoksi. Avoin lähdekoodi tarjoaa täydelliset puitteet nopeaan käyttöönottoon ja säästetään myös aikaa mm kehitykseltä.
 
-Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympäristön, jossa pääsee tutustumaan foorumin perus rakenteeseen ja toiminnallisuuteen. Demo palveluun osoite alla.
+Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympäristön, jossa pääsee tutustumaan foorumin perus rakenteeseen ja toiminnallisuuteen.
+
+Demo palveluun osoite alla.
 
 [**DEMO**](http://conduit.abuser.eu/)
+
+Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon visuaalisuuteen, kuten väreihin, fontteihin ja yleiseen ilmeeseen valmiit pohjat ja kaikkea ei tarvitse tehdä aloittaen täysin ruohonjuuri tasolta. Suurimpina haasteina on saada integraatio onnistumaan ja saada toiminnallisuus täsmäämään odotetulla tavalla.
+
+
 
 
 
@@ -52,7 +58,9 @@ Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympär
 > Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
 > Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä-->
 
-Meillä suurimpana tavoitteena on saada foorumista paremmin asiakkaan tarpeisiin sopiva versio. Erityisen tärkeää projektin kannalta on saada foorumi integroitua mahdollisimman hyvin asiakkaan jo olemassa olevan nettisivun kanssa. On huolehdittava, että tämä tapahtuu saumattomasti ja on visuaalisesti ja käytännöllisellä tasolla sulautuva asiakkaan sivuihin nähden. On otettava huomioon sivun toteutus, sivun visuaalinen ilme, graafisuus, mittasuhteet, laitteiden yhteensopivuus ym.
+Meillä suurimpana tavoitteena on saada foorumista paremmin asiakkaan tarpeisiin sopiva versio. Erityisen tärkeää projektin kannalta on saada foorumi integroitua mahdollisimman hyvin asiakkaan jo olemassa olevan nettisivun kanssa. On huolehdittava, että tämä tapahtuu saumattomasti ja on visuaalisesti ja käytännöllisellä tasolla sulautuva asiakkaan sivuihin nähden. On otettava huomioon sivun toteutus, sivun visuaalinen ilme, graafisuus, mittasuhteet, laitteiden yhteensopivuus. Tietosuoja asiat ovat myös suuressa asemassa projektin toteuttamisen kannalta ja näihin on otettava huomiota heti alkumetreillä.
+
+Kongreettinen lopputulos on kokonaisuus, josta saa vaikutelman, kuin foorumi olisi ollut aina osa WIMMA Labin sivuja. Yleisilme on siis oltava samassa linjassa sivustojen kanssa ja olla käytettävyydeltään myös sointuva jo aikaisempaan sivuun. 
 
 
 ## 1.3 Rajaus ja liittymät
