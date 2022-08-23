@@ -12,6 +12,8 @@
 
 ## 1. Toimeksianto 
 
+>CodeCerub Oy:lle on tullut toimeksianto kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi asiakkaan kotisivuja.
+
 ## 1.1 Tausta ja lähtökohdat
 
 
