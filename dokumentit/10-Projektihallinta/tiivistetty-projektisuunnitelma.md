@@ -12,7 +12,7 @@
 
 ## 1. Toimeksianto 
 
->CodeCerub Oy:lle on tullut toimeksianto kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi asiakkaan kotisivuja.
+CodeCerub Oy:lle on tullut toimeksianto kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi asiakkaan kotisivuja.
 
 ## 1.1 Tausta ja lähtökohdat
 
@@ -25,6 +25,13 @@
 >Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen,
 >millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. 
 >Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+
+<!--https://ttc2070.pages.labranet.jamk.fi/fi/5-Harjoitusteht%C3%A4v%C3%A4t/toimeksianto0/-->
+
+CodeCerub Oy lähtee luomaan ja kehittämään asiakastyönä [WIMMA Lab](https://www.wimmalab.org/):ille heidän toimintaa laajentavaa Foorumi-palvelua Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. Palvelun tarkoituksena on avata toimintaa erilaisille sidosryhmille ja tämän takia ollaan kehittämässä uusia sähköisiä palveluja. Foorumi tulee osaksi WIMMA Labin nykyisiä kotisivuja, joka toteutetaan asiakkaan vaatimalla tavalla. [Conduit ohjelmisto](https://github.com/gothinkster/realworld), joka toimii avoimella lähdekoodilla (open source) saadaan asiakkaan vaatimuksien mukainen toteutus.
+Avoimeen lähdekoodiin päädyttiin tiukan aikataulun vuoksi. Avoin lähdekoodi tarjoaa täydelliset puitteet nopeaan käyttöönottoon ja säästetään myös aikaa mm kehitykseltä.
+
+
 
 ## 1.2 Tavoitteet ja tehtävät
 
