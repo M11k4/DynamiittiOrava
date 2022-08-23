@@ -19,17 +19,21 @@ CodeCerub Oy:lle on tullut toimeksianto kehittää WIMMA Labin käyttöön sovel
 
 ![](../assets/work-to-do.png)
 
->Kuvataan toimeksiantoa lyhyesti johdannon muodossa. Tarpeen mukaan ohjataan lukijaa tutustumaan tarvittaessa tarkemmin vaatimusmäärittelydokumenttiin.
+<!--Kuvataan toimeksiantoa lyhyesti johdannon muodossa. Tarpeen mukaan ohjataan lukijaa tutustumaan tarvittaessa tarkemmin vaatimusmäärittelydokumenttiin.
 >Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… 
 >Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. 
 >Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen,
 >millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. 
->Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.
+>Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.-->
 
 <!--https://ttc2070.pages.labranet.jamk.fi/fi/5-Harjoitusteht%C3%A4v%C3%A4t/toimeksianto0/-->
 
-CodeCerub Oy lähtee luomaan ja kehittämään asiakastyönä [WIMMA Lab](https://www.wimmalab.org/):ille heidän toimintaa laajentavaa Foorumi-palvelua Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. Palvelun tarkoituksena on avata toimintaa erilaisille sidosryhmille ja tämän takia ollaan kehittämässä uusia sähköisiä palveluja. Foorumi tulee osaksi WIMMA Labin nykyisiä kotisivuja, joka toteutetaan asiakkaan vaatimalla tavalla. [Conduit ohjelmisto](https://github.com/gothinkster/realworld), joka toimii avoimella lähdekoodilla (open source) saadaan asiakkaan vaatimuksien mukainen toteutus.
+CodeCerub Oy lähtee luomaan ja kehittämään asiakastyönä [**WIMMA Lab**](https://www.wimmalab.org/):ille heidän toimintaa laajentavaa Foorumi-palvelua yhdessä Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson kanssa. Palvelun tarkoituksena on avata toimintaa erilaisille sidosryhmille ja tämän takia ollaan kehittämässä uusia sähköisiä palveluja. Foorumi tulee osaksi WIMMA Labin nykyisiä kotisivuja, joka toteutetaan asiakkaan vaatimalla tavalla. [Conduit ohjelmisto](https://github.com/gothinkster/realworld), joka toimii avoimella lähdekoodilla ([**open source**](https://en.wikipedia.org/wiki/Open_source)) saadaan asiakkaan vaatimuksien mukainen toteutus.
 Avoimeen lähdekoodiin päädyttiin tiukan aikataulun vuoksi. Avoin lähdekoodi tarjoaa täydelliset puitteet nopeaan käyttöönottoon ja säästetään myös aikaa mm kehitykseltä.
+
+Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympäristön, jossa pääsee tutustumaan foorumin perus rakenteeseen ja toiminnallisuuteen. Demo palveluun osoite alla.
+
+[**DEMO**](http://conduit.abuser.eu/)
 
 
 
@@ -37,16 +41,18 @@ Avoimeen lähdekoodiin päädyttiin tiukan aikataulun vuoksi. Avoin lähdekoodi 
 
 ![](../assets/work-to-do.png)
 
-> ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
+<!-- ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 > Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
 > Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
 > Mitä toimintaa aiotaan kehittää ja miten?>
 > Visio tulevasta tilasta
 > Mikä on tuotettava lopputulos (konkreettinen)?
-> Mitkä ovat osa- tai välitulokset?>
+> Mitkä ovat osa- tai välitulokset?
 > Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
 > Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
-> Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä
+> Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä-->
+
+Meillä suurimpana tavoitteena on saada foorumista paremmin asiakkaan tarpeisiin sopiva versio. Erityisen tärkeää projektin kannalta on saada foorumi integroitua mahdollisimman hyvin asiakkaan jo olemassa olevan nettisivun kanssa. On huolehdittava, että tämä tapahtuu saumattomasti ja on visuaalisesti ja käytännöllisellä tasolla sulautuva asiakkaan sivuihin nähden. On otettava huomioon sivun toteutus, sivun visuaalinen ilme, graafisuus, mittasuhteet, laitteiden yhteensopivuus ym.
 
 
 ## 1.3 Rajaus ja liittymät
