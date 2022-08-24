@@ -113,7 +113,9 @@ Kongreettinen lopputulos on kokonaisuus, josta saa vaikutelman, kuin foorumi oli
 
 ![](../assets/work-to-do.png)
 
-> Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita? 
+<!-- Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita?-->
+
+Pyrimme toteuttamaan projektin täysin organisdaatiomme sisällä, mutta tarvittaessa konsultoimme muita yhteistyökumppaneitamme ottamaan koppia erinäisistä tehtävistä, joihin ei mahdollisesti riitä tiimillä aika taikka osaaminen. Esimerkiksi laadunvalvonnallisissa tehtävissä saatamme ottaa yhteyttä muihin toimijoihin.
 
 **Projektin eri osapuolet ja jäsenet**
 
@@ -137,7 +139,6 @@ Kongreettinen lopputulos on kokonaisuus, josta saa vaikutelman, kuin foorumi oli
 +++ Kauno Koivisto, Ohjelmoija
 -- Tilaaja
 --- Tilaaja 1
---- Tilaaja 2
 ++ Laadunvalvonta organisaatio(Voi olla myös ulkopuolinen touimija)
 +++ Testipäällikkö
 +++ Mauno Kara, Tietoturvatestaus
