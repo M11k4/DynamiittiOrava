@@ -83,7 +83,29 @@ Kongreettinen lopputulos on kokonaisuus, josta saa vaikutelman, kuin foorumi oli
 
 >Tarkastellaan projektin tavoitteita ja laaditaan tarvittaessa tueksi erillinen SWOT-kuvaus, jossa tarkastellaan projektia ja sen toimintaympäristöä eri näkökulmista. 
 
-![](https://openclipart.org/image/800px/247839)
+**SWOT Analyysi**
+
+```plantuml
+@startmindmap
++ SWOT
+++ VAHVUUDET
++++ Laaja osaaminen eri osa-alueilla
++++ Ammattitaitoa
++++ Kokenut tiimi
+++ HEIKKOUDET
++++ Projekti hallitsija ekaa kertaa ohajimissa
++++ Tiimi on vieras ohjaajalle
+++ MAHDOLLISUUDET
++++ Oppia paljon uutta projektin etenemisjärjestystä
++++ Vastoinkäymiset kääntyy opiksi
++++ Projekti valmistuu ajallaan
+++ UHAT
++++ Deadlinessä ei pysytä
++++ Sairastumiset
++++ Tehdään jotain väärin
++++ Jotain olennaista jää huomaamatta
+@endmindmap
+```
 
 ## 2. Projektiorganisaatio
 
