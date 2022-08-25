@@ -121,8 +121,13 @@ Pyrimme toteuttamaan projektin täysin organisaatiomme sisällä, mutta tarvitta
 
 | Nimi | Organisaatio | Vastuu |
 |:-:|:-:|:-:|
-| | | |
-| | | |
+| Niko Kauppinen | CodeCerub Oy | Projektinhallinta ja ohjaus, Projektin tiedotus|
+| Arnold Suksi | CodeCerub Oy | Projektipäällikkö, Projektin esimies |
+| Carola Kettunen | CodeCerub Oy | Pääohjelmoija, Ohjelmointi esimies |
+| Mirva Porkka | CodeCerub Oy | Asiakkaan yhteyshenkilö |
+| Mauno Kara | CodeCerub Oy | Tietoturva |
+
+
 
 [Tiimin esittely.](https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/10-Projektihallinta/esittely/)
 
