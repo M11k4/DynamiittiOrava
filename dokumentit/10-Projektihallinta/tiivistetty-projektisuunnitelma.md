@@ -115,7 +115,7 @@ Kongreettinen lopputulos on kokonaisuus, josta saa vaikutelman, kuin foorumi oli
 
 <!-- Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita?-->
 
-Pyrimme toteuttamaan projektin täysin organisdaatiomme sisällä, mutta tarvittaessa konsultoimme muita yhteistyökumppaneitamme ottamaan koppia erinäisistä tehtävistä, joihin ei mahdollisesti riitä tiimillä aika taikka osaaminen. Esimerkiksi laadunvalvonnallisissa tehtävissä saatamme ottaa yhteyttä muihin toimijoihin.
+Pyrimme toteuttamaan projektin täysin organisaatiomme sisällä, mutta tarvittaessa konsultoimme muita yhteistyökumppaneitamme ottamaan koppia erinäisistä tehtävistä, joihin ei mahdollisesti riitä tiimillä aika taikka osaaminen. Esimerkiksi laadunvalvonnallisissa tehtävissä saatamme ottaa yhteyttä muihin toimijoihin.
 
 **Projektin eri osapuolet ja jäsenet**
 
