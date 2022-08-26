@@ -199,9 +199,9 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 Project starts the 2022-8-20
 [Projekti timeline] Starts 2022-8-20 and ends 2022-11-15 
 [Määrittely] Starts 2022-8-20 and ends 2022-8-27
-[Suunittelu] Starts 2022-8-27 and ends 2022-10-16
-[Toteutus+suunnittelu] Starts 2022-10-7 and ends 2022-10-28
-[Testaus+korjaus] Starts 2022-10-28 and ends 2022-11-5
+[Suunittelu] Starts 2022-8-27 and ends 2022-9-17
+[Toteutus+suunnittelu] Starts 2022-9-17 and ends 2022-10-15
+[Testaus+korjaus] Starts 2022-10-15 and ends 2022-11-5
 [Hyväksyntätestaus] Starts 2022-11-5 and ends 2022-11-13
 [Luovutus] Starts 2022-11-13 and ends 2022-11-15
 ```
