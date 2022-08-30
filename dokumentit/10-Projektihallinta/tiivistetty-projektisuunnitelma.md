@@ -119,14 +119,18 @@ Pyrimme toteuttamaan projektin täysin organisaatiomme sisällä, mutta tarvitta
 
 **Projektin eri osapuolet ja jäsenet**
 
+Projektiin kuuluu myös muita jäseniä, jotka löytyy taulukon alta **"Tiimin esittely"** linkistä!
+
 | Nimi | Organisaatio | Vastuu |
 |:-:|:-:|:-:|
-| Niko Kauppinen | CodeCerub Oy | Projektinhallinta ja ohjaus, Projektin tiedotus|
-| Arnold Suksi | CodeCerub Oy | Projektipäällikkö, Projektin esimies |
+| Niko Kauppinen | CodeCerub Oy | Nuorempi projektipäällikkö, Projektinhallinta ja ohjaus, Projektin tiedotus|
+| Arnold Suksi | CodeCerub Oy | Vanhempi projektipäällikkö, Projektin esimies |
 | Carola Kettunen | CodeCerub Oy | Pääohjelmoija, Ohjelmointi esimies |
 | Mirva Porkka | CodeCerub Oy | Asiakkaan yhteyshenkilö |
-| Mauno Kara | CodeCerub Oy | Tietoturva |
-
+| Mauno Kara | CodeCerub Oy | Tietoturva päällikkö |
+| Kari Pitkäniemi | WIMMA Lab | Asiakkaan edustaja |
+| Teemu K | WIMMA Lab | Tekninen arkkitehti |
+| Marko Rintamäki | WIMMA Lab | Tuoteomistaja |
 
 
 [Tiimin esittely.](https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/10-Projektihallinta/esittely/)
@@ -138,13 +142,14 @@ Pyrimme toteuttamaan projektin täysin organisaatiomme sisällä, mutta tarvitta
 @startmindmap
 + Tuotos
 ++ Tuotantotiimi
-+++ Arnold Suksi, Projektipäällikkö
++++ Arnold Suksi, Vanhempi projektipäällikkö
++++ Niko Kauppinen, Nuorempi projektipäällikkö
 +++ Carola Kettunen, Pääohjelmoija/Arkkitehti
 +++ Matti Urri, Ohjelmoija
 +++ Kauno Koivisto, Ohjelmoija
 -- Tilaaja
 --- Tilaaja 1
-++ Laadunvalvonta organisaatio(Voi olla myös ulkopuolinen touimija)
+++ Laadunvalvonta organisaatio(Voi olla myös ulkopuolinen toimija)
 +++ Testipäällikkö
 +++ Mauno Kara, Tietoturvatestaus
 +++ Klaus Kähö, Käytettävyystestaaja
