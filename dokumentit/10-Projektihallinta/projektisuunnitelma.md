@@ -5,7 +5,7 @@
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | |
 | Versio: | |
-| Päivämäärä: | |
+| Päivämäärä: |  |
 
 ![](https://openclipart.org/image/400px/167242)
 
