@@ -3,7 +3,7 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Tiivistetty projektisuunnitelma |
-| Laatija: | Niko Kauppinen |
+| Laatija: | Niko, Taru |
 | Versio: | 0.1 |
 | Päivämäärä: | 00.00.2022 |
 
@@ -12,7 +12,7 @@
 
 ## 1. Toimeksianto 
 
-CodeCerub Oy:lle on tullut toimeksianto kehittää WIMMA Labin käyttöön soveltuva Foorumi-palvelu, joka liitetään osaksi asiakkaan kotisivuja.
+Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiitti Orava tiimin toimesta. Nettisivujen toteutukseen annettiin tiimille avoimet kädet ja tällä tavalla sivut myös lähdemme toteuttamaan.
 
 ## 1.1 Tausta ja lähtökohdat
 
@@ -32,10 +32,6 @@ CodeCerub Oy lähtee luomaan ja kehittämään asiakastyönä [**WIMMA Lab**](ht
 Avoimeen lähdekoodiin päädyttiin tiukan aikataulun vuoksi. Avoin lähdekoodi tarjoaa täydelliset puitteet nopeaan käyttöönottoon ja säästetään myös aikaa mm kehitykseltä.
 
 Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympäristön, jossa pääsee tutustumaan foorumin perus rakenteeseen ja toiminnallisuuteen.
-
-Demo palveluun osoite alla.
-
-[**DEMO**](http://conduit.abuser.eu/)
 
 Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon visuaalisuuteen, kuten väreihin, fontteihin ja yleiseen ilmeeseen valmiit pohjat ja kaikkea ei tarvitse tehdä aloittaen täysin ruohonjuuri tasolta. Suurimpina haasteina on saada integraatio onnistumaan ja saada toiminnallisuus täsmäämään odotetulla tavalla.
 
