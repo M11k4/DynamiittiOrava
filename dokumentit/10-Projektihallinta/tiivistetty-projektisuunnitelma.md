@@ -28,8 +28,10 @@ Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiitti Orava tiimin toimesta. Net
 
 <!--https://ttc2070.pages.labranet.jamk.fi/fi/5-Harjoitusteht%C3%A4v%C3%A4t/toimeksianto0/-->
 
-CodeCerub Oy lähtee luomaan ja kehittämään asiakastyönä [**WIMMA Lab**](https://www.wimmalab.org/):ille heidän toimintaa laajentavaa Foorumi-palvelua yhdessä Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson kanssa. Palvelun tarkoituksena on avata toimintaa erilaisille sidosryhmille ja tämän takia ollaan kehittämässä uusia sähköisiä palveluja. Foorumi tulee osaksi WIMMA Labin nykyisiä kotisivuja, joka toteutetaan asiakkaan vaatimalla tavalla. [Conduit ohjelmisto](https://github.com/gothinkster/realworld), joka toimii avoimella lähdekoodilla ([**open source**](https://en.wikipedia.org/wiki/Open_source)) saadaan asiakkaan vaatimuksien mukainen toteutus.
-Avoimeen lähdekoodiin päädyttiin tiukan aikataulun vuoksi. Avoin lähdekoodi tarjoaa täydelliset puitteet nopeaan käyttöönottoon ja säästetään myös aikaa mm kehitykseltä.
+Dynamiitti orava tiimi lähtee luomaan ja kehittämään asiakastyönä [**Grafiteam Oy**](https://www.grafiteam.fi/):lle uusia ja parempia nettisivuja. Projekti toteutetaan TE palveluiden sekä JAMK:in järjestämän opintokokonaisuuden harjoittelujaksolla.
+Palvelun tarkoituksena on saada asiakkaan nettisivut toimimaan paremmin ja tehtyä asiakasta miellyttävä kokonaisuus. Nettisivut toteutetaan asiakkaan haluamalla tavalla, mutta olemme saaneet vapaat kädet toteuttamiseen.
+
+Asiakas on pieni yksityisyritys 
 
 Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympäristön, jossa pääsee tutustumaan foorumin perus rakenteeseen ja toiminnallisuuteen.
 
@@ -197,14 +199,14 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 **Esitetään vaiheet yksinkertaisen GANTT diagrammin avulla**
 
 ```plantuml
-Project starts the 2022-8-20
-[Projekti timeline] Starts 2022-8-20 and ends 2022-11-15 
-[Määrittely] Starts 2022-8-20 and ends 2022-8-27
-[Suunittelu] Starts 2022-8-27 and ends 2022-9-17
-[Toteutus+suunnittelu] Starts 2022-9-17 and ends 2022-10-15
-[Testaus+korjaus] Starts 2022-10-15 and ends 2022-11-5
-[Hyväksyntätestaus] Starts 2022-11-5 and ends 2022-11-13
-[Luovutus] Starts 2022-11-13 and ends 2022-11-15
+Project starts the 2022-9-12
+[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-2
+[Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
+[Suunittelu] Starts 2022-9-26 and ends 2022-10-10
+[Toteutus+suunnittelu] Starts 2022-10-10 and ends 2022-11-7
+[Testaus+korjaus] Starts 2022-11-7 and ends 2022-11-21
+[Hyväksyntätestaus] Starts 2022-11-21 and ends 2022-11-28
+[Luovutus] Starts 2022-11-28 and ends 2022-12-2
 ```
 
 ![](../assets/work-to-do.png)
