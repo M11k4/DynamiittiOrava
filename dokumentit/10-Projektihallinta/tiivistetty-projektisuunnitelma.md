@@ -16,9 +16,6 @@ Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiitti Orava tiimin toimesta. Net
 
 ## 1.1 Tausta ja lähtökohdat
 
-
-![](../assets/work-to-do.png)
-
 <!--Kuvataan toimeksiantoa lyhyesti johdannon muodossa. Tarpeen mukaan ohjataan lukijaa tutustumaan tarvittaessa tarkemmin vaatimusmäärittelydokumenttiin.
 >Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… 
 >Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. 
@@ -29,15 +26,16 @@ Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiitti Orava tiimin toimesta. Net
 <!--https://ttc2070.pages.labranet.jamk.fi/fi/5-Harjoitusteht%C3%A4v%C3%A4t/toimeksianto0/-->
 
 Dynamiitti orava tiimi lähtee luomaan ja kehittämään asiakastyönä [**Grafiteam Oy**](https://www.grafiteam.fi/):lle uusia ja parempia nettisivuja. Projekti toteutetaan TE palveluiden sekä JAMK:in järjestämän opintokokonaisuuden harjoittelujaksolla.
-Palvelun tarkoituksena on saada asiakkaan nettisivut toimimaan paremmin ja tehtyä asiakasta miellyttävä kokonaisuus. Nettisivut toteutetaan asiakkaan haluamalla tavalla, mutta olemme saaneet vapaat kädet toteuttamiseen.
+Projektin tarkoituksena on saada asiakkaan nettisivut toimimaan paremmin ja tehtyä asiakasta miellyttävä kokonaisuus. Nettisivut toteutetaan asiakkaan haluamalla tavalla, mutta olemme saaneet vapaat kädet toteuttamiseen. Tässä tarkoitamme sitä, että kuuntelemme kaikkia asiakkaan toiveita ja vaatimuksia, mutta saamme silti tehdä sivun haluamallamme tavalla.
 
-Asiakas on pieni yksityisyritys 
-
-Olemme ottaneet käyttöön demo-palvelin menetelmällä toimivan toimintaympäristön, jossa pääsee tutustumaan foorumin perus rakenteeseen ja toiminnallisuuteen.
-
-Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon visuaalisuuteen, kuten väreihin, fontteihin ja yleiseen ilmeeseen valmiit pohjat ja kaikkea ei tarvitse tehdä aloittaen täysin ruohonjuuri tasolta. Suurimpina haasteina on saada integraatio onnistumaan ja saada toiminnallisuus täsmäämään odotetulla tavalla.
+Asiakas on pieni yksityisyritys Luhangalta. Yritys on 2018 perustettu painopalveluita tarjoava pienyritys, jonka asiakkaat ovat niin pienet kuin suuret kotimaiset ja ulkomaalaiset yritykset kuten [Rapala](https://www.rapala.fi/eu_fi/rapala), [Arvid Nordquist](https://www.arvidnordquist.fi), [SIKA Finland](https://fin.sika.com) ja [Marttiini](https://www.marttiini.fi/epages/MarttiiniShop.sf/fi_FI/?ObjectPath=/Shops/MarttiiniShop/Categories/Tuotteet&gclid=EAIaIQobChMI5rDNv66P-gIVakWRBR0lCAQPEAAYASAAEgJX4vD_BwE).
+Paino sekä tulostuspalveluista löytyy käyntikorttia, tarraa, banderollia, roll-uppeja, teippauksia sekä mainoskylttejä. Heiltä löytyy Keski-Suomen suurin uv-tulostin ja tämä mahdollistaa jopa 3,2 metriä leveää ja jopa 100 metriä pitkää printtiä melkein mille materiaaleille tahansa. Näiden ansiosta yrityksen nykyisillä sivuilla lukeekin "Koolla on väliä".
+Grafiteamin yksi tärkeistä osa-alueista on myös messuosastot, joihin heillä löytyy työkalut suunnittelusta tuotantoon. Palveluihin kuuluu myös mainoskylttien ja erilaisten teippausten asennukset. Valmistuksessa valmistuu myös erilaisia pakkauksia ja mm myyntitelineitä.
 
 
+Kohderyhmänä yrityksellä on siis enemmänkin yritykset, kuin yksityiset asiakkaat ja tämä on otettava sivun toteutuksessa huomioon, mutta esimerkiksi uutena lisänä olevat veneiden teippaukset vetää varmaankin enemmän asiakkaiksi yksityisiä, kuin yrityksiä.
+
+Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon visuaalisuuteen, kuten väreihin, fontteihin ja yleiseen ilmeeseen valmiit pohjat ja kaikkea ei tarvitse tehdä aloittaen täysin ruohonjuuri tasolta. Silti aloitamme sivuston luomisen täysin nollasta ja emme ala muokkaamaan vanhaa sivustoa. Käytössä meillä on siis jo värit, logo ja muuta sisältöä, kuten linkit instagramiin ja facebookkiin. 
 
 
 
@@ -56,9 +54,9 @@ Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon vi
 > Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
 > Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä-->
 
-Meillä suurimpana tavoitteena on saada foorumista paremmin asiakkaan tarpeisiin sopiva versio. Erityisen tärkeää projektin kannalta on saada foorumi integroitua mahdollisimman hyvin asiakkaan jo olemassa olevan nettisivun kanssa. On huolehdittava, että tämä tapahtuu saumattomasti ja on visuaalisesti ja käytännöllisellä tasolla sulautuva asiakkaan sivuihin nähden. On otettava huomioon sivun toteutus, sivun visuaalinen ilme, graafisuus, mittasuhteet, laitteiden yhteensopivuus. Tietosuoja asiat ovat myös suuressa asemassa projektin toteuttamisen kannalta ja näihin on otettava huomiota heti alkumetreillä.
+Tavoitteena on saada asiakkaan yleinen ilme kotisivuilla olemaan parempi toiminnaltaan, selkeä ja ammattimainen. Sieltä täytyy löytyä kohderyhmille suunnattu sisältö visuaalisesti näyttävällä tavalla oli kyseessä yritys tai yksityinen asiakas. Tällä hetkellä nettisivut kaipaavat paljonkin ehostusta ja muutoksia, koska sen toiminta sisältää mm virheitä ja toimimattomuutta instagram päivitysten näkyvyydessä.
 
-Kongreettinen lopputulos on kokonaisuus, josta saa vaikutelman, kuin foorumi olisi ollut aina osa WIMMA Labin sivuja. Yleisilme on siis oltava samassa linjassa sivustojen kanssa ja olla käytettävyydeltään myös sointuva jo aikaisempaan sivuun. 
+
 
 
 ## 1.3 Rajaus ja liittymät
