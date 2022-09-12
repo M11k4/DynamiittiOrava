@@ -1,7 +1,7 @@
-site_name: Nikos tehtävä TTC2070 opintojaksolle
+site_name: Grafiteam Projekti
 site_url: https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/
-site_description: Tältä sivulta voit seurata Nikon tehtävien etenemistä!
-site_author: Niko Kauppinen / Ojelmistoalan osaajaksi, JAMK & TE Palvelut
+site_description: Grafiteamin uuden nettisivun tekemisen framework
+site_author: Dynamiitti Orava tiimi
 
 docs_dir: dokumentit
 site_dir: public
