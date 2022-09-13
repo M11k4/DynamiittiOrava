@@ -28,7 +28,7 @@ Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiitti Orava tiimin toimesta. Net
 Dynamiitti orava tiimi lähtee luomaan ja kehittämään asiakastyönä [**Grafiteam Oy**](https://www.grafiteam.fi/):lle uusia ja parempia nettisivuja. Projekti toteutetaan TE palveluiden sekä JAMK:in järjestämän opintokokonaisuuden harjoittelujaksolla.
 Projektin tarkoituksena on saada asiakkaan nettisivut toimimaan paremmin ja tehtyä asiakasta miellyttävä kokonaisuus. Nettisivut toteutetaan asiakkaan haluamalla tavalla, mutta olemme saaneet vapaat kädet toteuttamiseen. Tässä tarkoitamme sitä, että kuuntelemme kaikkia asiakkaan toiveita ja vaatimuksia, mutta saamme silti tehdä sivun haluamallamme tavalla.
 
-Asiakas on pieni yksityisyritys Luhangalta. Yritys on 2018 perustettu painopalveluita tarjoava pienyritys, jonka asiakkaat ovat niin pienet kuin suuret kotimaiset ja ulkomaalaiset yritykset kuten [Rapala](https://www.rapala.fi/eu_fi/rapala), [Arvid Nordquist](https://www.arvidnordquist.fi), [SIKA Finland](https://fin.sika.com) ja [Marttiini](https://www.marttiini.fi/epages/MarttiiniShop.sf/fi_FI/?ObjectPath=/Shops/MarttiiniShop/Categories/Tuotteet&gclid=EAIaIQobChMI5rDNv66P-gIVakWRBR0lCAQPEAAYASAAEgJX4vD_BwE).
+Asiakas on pieni yksityisyritys Luhangalta. Yritys on 2018 perustettu painopalveluita tarjoava pienyritys, jonka asiakkaat ovat niin pienet kuin suuret kotimaiset ja ulkomaalaiset yritykset kuten [**Rapala**](https://www.rapala.fi/eu_fi/rapala), [**Arvid Nordquist**](https://www.arvidnordquist.fi), [**SIKA Finland**](https://fin.sika.com) ja [**Marttiini**](https://www.marttiini.fi/epages/MarttiiniShop.sf/fi_FI/?ObjectPath=/Shops/MarttiiniShop/Categories/Tuotteet&gclid=EAIaIQobChMI5rDNv66P-gIVakWRBR0lCAQPEAAYASAAEgJX4vD_BwE).
 Paino sekä tulostuspalveluista löytyy käyntikorttia, tarraa, banderollia, roll-uppeja, teippauksia sekä mainoskylttejä. Heiltä löytyy Keski-Suomen suurin uv-tulostin ja tämä mahdollistaa jopa 3,2 metriä leveää ja jopa 100 metriä pitkää printtiä melkein mille materiaaleille tahansa. Näiden ansiosta yrityksen nykyisillä sivuilla lukeekin "Koolla on väliä".
 Grafiteamin yksi tärkeistä osa-alueista on myös messuosastot, joihin heillä löytyy työkalut suunnittelusta tuotantoon. Palveluihin kuuluu myös mainoskylttien ja erilaisten teippausten asennukset. Valmistuksessa valmistuu myös erilaisia pakkauksia ja mm myyntitelineitä.
 
@@ -55,6 +55,9 @@ Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon vi
 > Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä-->
 
 Tavoitteena on saada asiakkaan yleinen ilme kotisivuilla olemaan parempi toiminnaltaan, selkeä ja ammattimainen. Sieltä täytyy löytyä kohderyhmille suunnattu sisältö visuaalisesti näyttävällä tavalla oli kyseessä yritys tai yksityinen asiakas. Tällä hetkellä nettisivut kaipaavat paljonkin ehostusta ja muutoksia, koska sen toiminta sisältää mm virheitä ja toimimattomuutta instagram päivitysten näkyvyydessä.
+Keskiössä voisi oikeastaan pitää käytettävyyttä sekä kohdennettua tarjontaa, mutta ei liian pitkälle vietynä. Lähinnä tarkastellessa asiakkaan näkökulmasta toivoisi sivulle selkeyttä ja ammattimaisten painotuotteiden tuottavan yrityksen ammattimaista olemusta ja ilmettä. Sivulle mentäessä täytyisi tulla sellainen olo, että se tarjoaa sinulle sen mitä sieltä lähdit etsimään ja sitten puhelinnumero ja tai sähköposti sekä yhteydenotto kenttä/lomake.
+
+Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä ja olemusta. Paremmin ilmaistuna tutustua vain yrityksen toimintaan, josta tuossa ylempänä jo aika kattava ja riittävä tietopankki onkin. Tämän kautta päästään määrittelyyn. Määrittelyssä määritetään koko projekti siihen pisteeseen mitä nyt pystyy edes määrittämään vielä tässä vaiheessa. Seuraavana hypätään suunnitteluun. Suunnittelussa otetaan huomioon yrityksen asiakaskunta ja kohderyhmät. Suunnittelussa on myös huomioitava sivuston toteutukseen liittyviä teknisiä toteutuksellisia menetelmiä. Seuraavana vuorossa alkaa olemaan itse tuotannollinen vaihe. Suunnittelu elää vielä tässä vaiheessa, kun tuotetta ollaan asiakkaalle toteuttamassa. Sisältö tuotetaan ilmeisesti HTML koodilla ja CSS tyylimäärityksillä. Tuotannossa on kuitenkin paljon eri työvaiheita ja en niitä ala tässä erikseen käymään läpi. Lopussa testataan tuotteen toiminnallisuus ja korjataan mahdollisesti korjattavat asiat. Tämän jälkeen työn luovutus asiakkaalle ja sitten loppupalaveri.
 
 
 
@@ -85,21 +88,22 @@ Tavoitteena on saada asiakkaan yleinen ilme kotisivuilla olemaan parempi toiminn
 @startmindmap
 + SWOT
 ++ VAHVUUDET
-+++ Laaja osaaminen eri osa-alueilla
-+++ Ammattitaitoa
-+++ Kokenut tiimi
++++ Kaikilla jäsenillä on selkeät tehtävät
++++ Kaikki tuntee toisensa
++++ Kaikki tuntee ainakin jotenkin toisiaan
 ++ HEIKKOUDET
-+++ Projekti hallitsija ekaa kertaa ohajimissa
-+++ Tiimi on vieras ohjaajalle
++++ Aikalailla kaikki on ekaa kertaa toteuttamassa ohjelmisto projektia
++++ Ammattitaidon puute / ollaan amatöörejä
 ++ MAHDOLLISUUDET
-+++ Oppia paljon uutta projektin etenemisjärjestystä
-+++ Vastoinkäymiset kääntyy opiksi
-+++ Projekti valmistuu ajallaan
++++ Mahdollisuus oppia suuri määrä uutta
++++ Mahdollisuus oppia eri työvaiheista ja olla mukana eri työvaiheissa
++++ Projekti valmistuu ajallaan ja miellyttää asiakasta
 ++ UHAT
 +++ Deadlinessä ei pysytä
 +++ Sairastumiset
 +++ Tehdään jotain väärin
 +++ Jotain olennaista jää huomaamatta
++++ Ei osata edetä, tulee code block eli ei tiedetä mitä tehdä
 @endmindmap
 ```
 
