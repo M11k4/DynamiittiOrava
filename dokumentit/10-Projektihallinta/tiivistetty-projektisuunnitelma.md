@@ -89,7 +89,7 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 + SWOT
 ++ VAHVUUDET
 +++ Kaikilla jäsenillä on selkeät tehtävät
-+++ Kaikki tuntee toisensa
++++ Kaikilla on osaamista eri osa-alueista
 +++ Kaikki tuntee ainakin jotenkin toisiaan
 ++ HEIKKOUDET
 +++ Aikalailla kaikki on ekaa kertaa toteuttamassa ohjelmisto projektia
@@ -115,22 +115,25 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 
 <!-- Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita?-->
 
-Pyrimme toteuttamaan projektin täysin organisaatiomme sisällä, mutta tarvittaessa konsultoimme muita yhteistyökumppaneitamme ottamaan koppia erinäisistä tehtävistä, joihin ei mahdollisesti riitä tiimillä aika taikka osaaminen. Esimerkiksi laadunvalvonnallisissa tehtävissä saatamme ottaa yhteyttä muihin toimijoihin.
+Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita missä emme osaa mennä eteenpäin tai muita ongelmia, olemme ongelmasta riippuen yhteydessä yritykseen tai opettajiin.
 
 **Projektin eri osapuolet ja jäsenet**
 
-Projektiin kuuluu myös muita jäseniä, jotka löytyy taulukon alta **"Tiimin esittely"** linkistä!
-
-| Nimi | Organisaatio | Vastuu |
+| Nimi | Vastuu | Organisaatio |
 |:-:|:-:|:-:|
-| Niko Kauppinen | CodeCerub Oy | Nuorempi projektipäällikkö, Projektinhallinta ja ohjaus, Projektin tiedotus|
-| Arnold Suksi | CodeCerub Oy | Vanhempi projektipäällikkö, Projektin esimies |
-| Carola Kettunen | CodeCerub Oy | Pääohjelmoija, Ohjelmointi esimies |
-| Mirva Porkka | CodeCerub Oy | Asiakkaan yhteyshenkilö |
-| Mauno Kara | CodeCerub Oy | Tietoturva päällikkö |
-| Kari Pitkäniemi | WIMMA Lab | Asiakkaan edustaja |
-| Teemu K | WIMMA Lab | Tekninen arkkitehti |
-| Marko Rintamäki | WIMMA Lab | Tuoteomistaja |
+| Taru | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
+| Niko | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
+| Miika | UI/UX Suunnittelu, Frontend | Dynamiitti Orava |
+| Bea | UI/UX Suunnittelu, Frontend | Dynamiitti Orava |
+| Joni | Frontend | Dynamiitti Orava |
+| Jose | Backend | Dynamiitti Orava |
+| Jari | QA Testaus | Dynamiitti Orava |
+| Daniela | QA Testaus | Dynamiitti Orava |
+| Jouni "Big Boss" | Opettaja | JAMK |
+| Maarit "Side Boss" | Opettaja | JAMK |
+| Marko "Narsuman" | Opettaja | JAMK / Wimma Lab |
+| Santeri Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
+| Mika Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 
 
 [Tiimin esittely.](https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/10-Projektihallinta/esittely/)
