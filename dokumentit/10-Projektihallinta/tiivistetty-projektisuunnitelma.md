@@ -140,19 +140,24 @@ Projektiin kuuluu myös muita jäseniä, jotka löytyy taulukon alta **"Tiimin e
 
 ```plantuml
 @startmindmap
-+ Tuotos
-++ Tuotantotiimi
-+++ Arnold Suksi, Vanhempi projektipäällikkö
-+++ Niko Kauppinen, Nuorempi projektipäällikkö
-+++ Carola Kettunen, Pääohjelmoija/Arkkitehti
-+++ Matti Urri, Ohjelmoija
-+++ Kauno Koivisto, Ohjelmoija
--- Tilaaja
---- Tilaaja 1
-++ Laadunvalvonta organisaatio(Voi olla myös ulkopuolinen toimija)
-+++ Testipäällikkö
-+++ Mauno Kara, Tietoturvatestaus
-+++ Klaus Kähö, Käytettävyystestaaja
+* Grafiteam Oy
+** Nettisivut
+*** Dynamiitti Orava; Projekti tiimi
+**** Määrittely
+***** Niko, Projektin hallinnointi
+***** Taru, Projektipäällikkö
+**** Suunnittelu
+***** Miika, UI/UX
+***** Bea, UI/UX
+**** Tuotanto
+***** Miika, Frontend
+***** Bea, Frontend
+***** Joni, Frontend
+***** Jose, Backend
+**** Testaus
+***** Jari, Testaaja
+***** Daniela, Testaaja
+
 @endmindmap
 ```
 
