@@ -25,11 +25,11 @@ Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiitti Orava tiimin toimesta. Net
 
 <!--https://ttc2070.pages.labranet.jamk.fi/fi/5-Harjoitusteht%C3%A4v%C3%A4t/toimeksianto0/-->
 
-Dynamiitti orava tiimi lähtee luomaan ja kehittämään asiakastyönä [**Grafiteam Oy**](https://www.grafiteam.fi/):lle uusia ja parempia nettisivuja. Projekti toteutetaan TE palveluiden sekä JAMK:in järjestämän opintokokonaisuuden harjoittelujaksolla.
+Dynamiitti Orava tiimi lähtee luomaan ja kehittämään asiakastyönä [**Grafiteam Oy**](https://www.grafiteam.fi/):lle uusia ja parempia nettisivuja. Projekti toteutetaan TE-palveluiden sekä JAMK:in järjestämän opintokokonaisuuden harjoittelujaksolla.
 Projektin tarkoituksena on saada asiakkaan nettisivut toimimaan paremmin ja tehtyä asiakasta miellyttävä kokonaisuus. Nettisivut toteutetaan asiakkaan haluamalla tavalla, mutta olemme saaneet vapaat kädet toteuttamiseen. Tässä tarkoitamme sitä, että kuuntelemme kaikkia asiakkaan toiveita ja vaatimuksia, mutta saamme silti tehdä sivun haluamallamme tavalla.
 
-Asiakas on pieni yksityisyritys Luhangalta. Yritys on 2018 perustettu painopalveluita tarjoava pienyritys, jonka asiakkaat ovat niin pienet kuin suuret kotimaiset ja ulkomaalaiset yritykset kuten [**Rapala**](https://www.rapala.fi/eu_fi/rapala), [**Arvid Nordquist**](https://www.arvidnordquist.fi), [**SIKA Finland**](https://fin.sika.com) ja [**Marttiini**](https://www.marttiini.fi/epages/MarttiiniShop.sf/fi_FI/?ObjectPath=/Shops/MarttiiniShop/Categories/Tuotteet&gclid=EAIaIQobChMI5rDNv66P-gIVakWRBR0lCAQPEAAYASAAEgJX4vD_BwE).
-Paino sekä tulostuspalveluista löytyy käyntikorttia, tarraa, banderollia, roll-uppeja, teippauksia sekä mainoskylttejä. Heiltä löytyy Keski-Suomen suurin uv-tulostin ja tämä mahdollistaa jopa 3,2 metriä leveää ja jopa 100 metriä pitkää printtiä melkein mille materiaaleille tahansa. Näiden ansiosta yrityksen nykyisillä sivuilla lukeekin "Koolla on väliä".
+Asiakas on pieni yksityisyritys Luhangasta. Yritys on 2018 perustettu painopalveluita tarjoava pienyritys, jonka asiakkaat ovat niin pienet kuin suuret kotimaiset ja ulkomaalaiset yritykset kuten [**Rapala**](https://www.rapala.fi/eu_fi/rapala), [**Arvid Nordquist**](https://www.arvidnordquist.fi), [**SIKA Finland**](https://fin.sika.com) ja [**Marttiini**](https://www.marttiini.fi/epages/MarttiiniShop.sf/fi_FI/?ObjectPath=/Shops/MarttiiniShop/Categories/Tuotteet&gclid=EAIaIQobChMI5rDNv66P-gIVakWRBR0lCAQPEAAYASAAEgJX4vD_BwE).
+Paino sekä tulostuspalveluista löytyy käyntikorttia, tarraa, banderollia, roll-uppeja, teippauksia sekä mainoskylttejä. Heiltä löytyy Keski-Suomen suurin uv-tulostin ja tämä mahdollistaa jopa 3,2 metriä leveää ja jopa 100 metriä pitkää printtiä melkein mille materiaaleille tahansa. Näiden ansiosta yrityksen nykyisillä sivuilla lukeekin **"Koolla on väliä"**.
 Grafiteamin yksi tärkeistä osa-alueista on myös messuosastot, joihin heillä löytyy työkalut suunnittelusta tuotantoon. Palveluihin kuuluu myös mainoskylttien ja erilaisten teippausten asennukset. Valmistuksessa valmistuu myös erilaisia pakkauksia ja mm myyntitelineitä.
 
 
@@ -123,8 +123,8 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 |:-:|:-:|:-:|
 | Taru | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
 | Niko | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
-| Miika | UI/UX Suunnittelu, Frontend | Dynamiitti Orava |
-| Bea | UI/UX Suunnittelu, Frontend | Dynamiitti Orava |
+| Miika | UI Suunnittelu, Frontend | Dynamiitti Orava |
+| Bea | UI Suunnittelu, Frontend | Dynamiitti Orava |
 | Joni | Frontend | Dynamiitti Orava |
 | Jose | Backend | Dynamiitti Orava |
 | Jari | QA Testaus | Dynamiitti Orava |
@@ -150,8 +150,8 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 ***** Niko, Projektin hallinnointi
 ***** Taru, Projektipäällikkö
 **** Suunnittelu
-***** Miika, UI/UX
-***** Bea, UI/UX
+***** Miika, UI
+***** Bea, UI
 **** Tuotanto
 ***** Miika, Frontend
 ***** Bea, Frontend
@@ -195,7 +195,7 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 
 ## 3.1 Osittaminen ja vaiheistus
 
->Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit. Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle )-mallilla.
+<!--Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit. Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle )-mallilla.
 Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 
 * Määrittely
@@ -204,19 +204,19 @@ Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
 * Testaus
 * Luovutus
 
-![](../assets/work-to-do.png)
+![](../assets/work-to-do.png) -->
 
-**Esitetään vaiheet yksinkertaisen GANTT diagrammin avulla**
+**Yksittäiset vaiheet GANTT diagrammin avulla**
 
 ```plantuml
 Project starts the 2022-9-12
 [Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-2
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
-[Suunittelu] Starts 2022-9-26 and ends 2022-10-10
-[Toteutus+suunnittelu] Starts 2022-10-10 and ends 2022-11-7
-[Testaus+korjaus] Starts 2022-11-7 and ends 2022-11-21
-[Hyväksyntätestaus] Starts 2022-11-21 and ends 2022-11-28
-[Luovutus] Starts 2022-11-28 and ends 2022-12-2
+[Suunittelu] Starts 2022-9-26 and ends 2022-10-3
+[Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-10-31
+[Testaus+korjaus] Starts 2022-10-17 and ends 2022-11-7
+[Hyväksyntätestaus] Starts 2022-11-7 and ends 2022-11-14
+[Luovutus] Starts 2022-11-14 and ends 2022-11-20
 ```
 
 ![](../assets/work-to-do.png)
