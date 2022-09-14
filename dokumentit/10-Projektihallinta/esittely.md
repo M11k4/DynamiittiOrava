@@ -8,8 +8,8 @@ Tässä sivulla pääset tutustumaan tiimiimme ja heidän rooleihin yrityksessä
 |:-:|:-:|:-:|:-:|
 | Taru | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava | AC8403 | 
 | Niko | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava | AC8393 |
-| Miika | UI/UX Suunnittelu, Frontend | Dynamiitti Orava | AC8450 | 
-| Bea | UI/UX Suunnittelu, Frontend | Dynamiitti Orava | AB5122 | 
+| Miika | UI Suunnittelu, Frontend | Dynamiitti Orava | AC8450 | 
+| Bea | UI Suunnittelu, Frontend | Dynamiitti Orava | AB5122 | 
 | Joni | Frontend | Dynamiitti Orava | AC8442 | 
 | Jose | Backend | Dynamiitti Orava | AC8448 | 
 | Jari | QA Testaus | Dynamiitti Orava | AC8404 | 
