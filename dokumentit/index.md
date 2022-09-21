@@ -1,11 +1,11 @@
-# Tervetuloa OPF-käyttäjäksi!
+# Tervetuloa Dynamiitti Orava tiimin projektin OPF sivuille!
 
 
-* Bye bye Narsu, we will miss you!
+* Tämä on tiimin virallinen projektin hallintasivu. Sivu on vielä kesken.
 
-## Apua ja neuvoja
+## Aloita projektiin tutustuminen [Tiimin esittelystä!](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
 
-* Kotisivut löytyvät [täältä](http://open-project-framework.pages.labranet.jamk.fi/)
+<!--Kotisivut löytyvät [täältä](http://open-project-framework.pages.labranet.jamk.fi/)-->
 
 
 
