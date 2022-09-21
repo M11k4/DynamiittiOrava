@@ -129,7 +129,7 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 | Mika Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 
 
-[Tiimin esittely.](https://fi-a2022-ttc2070.pages.labranet.jamk.fi/ht1-AC8393-/core/10-Projektihallinta/esittely/)
+[**Tiimin esittely.**](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
 
 
 **Projektiorganisaation rakenne MindMap-muodossa**
@@ -212,15 +212,16 @@ Project starts the 2022-9-12
 [Luovutus] Starts 2022-11-14 and ends 2022-11-20
 ```
 
-![](../assets/work-to-do.png)
 
-Päivitä linkit omaan projektiin liittyviksi!
+Projektin etenemisen rakenne ja etapit.
 
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/2)
-* [Etappi 1](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/3)
-* [Etappi 2](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/4)
-* [Etappi 3](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/5)
-* [Etappi 4](https://gitlab.labranet.jamk.fi/jamkit/project-templates/opf-core-template-v2/-/milestones/6)
+* [Etappi 0 - Aloitus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/2#tab-issues)
+* [Etappi 1 - Määrittely](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/3#tab-issues)
+* [Etappi 2 - Suunnittelu](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/4#tab-issues)
+* [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
+* [Etappi 4 - Testaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
+* [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
+* [Etappi 6 - Luovutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
 
 >Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). >Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös >IT-instituutin opiskelijaprojekteja). 
 >Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun jne. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin opiskelijaprojekteissa käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä.
@@ -236,24 +237,38 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 
 
-* [Etappi 0](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/1)
+* [Etappi 0 - Aloitus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/2#tab-issues)
 
->esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
+Projektin aloitus etappi. Aloituksessa käytiin työnjakoa, pienryhmien perustamista läpi. Pohdittiin yhteispalaveri aikataulutusta ja työaikoja. Sovittiin, että tehdään OPF kehikkoa hyödyntäen projektille ns hallintapaneeli ja myös toinen repositorio projektin kehitykselle. Määrittely aloitettiin myös jo tämän etapin aikana.
+
+<!--esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
 >Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
->Etappiin mennessä muodostetaan johtoryhmä, pidetään johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
+>Etappiin mennessä muodostetaan johtoryhmä, pidetään johtoryhmän kokous sekä allekirjoitetaan projektisopimus.-->
 
-* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones/3)
+* [Etappi 1 - Määrittely](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/3#tab-issues)
 
->Esimerkkinä Etappi Z , jossa tavoitteet on asetettu ennakkon esimerkkeinä: projektisuunnitelman hyväksyminen, tavoitteiden tarkistaminen
-
-* [Etappi X](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
-
->Sovittu etappi X, jossa suoritettaa esimerkisi katselmointi ja esitetään tilanneraportti
-
-* [Etappi Y](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
+Varsinainen määrittely etappi. Tässä etapissa käytiin yleisesti määrityksiä läpi. Laadittiin projektisuunnitelma ja vaatimusmäärittelyä. Tutustuttiin asiaakkaaseen ja asiakkaan laatimaa toimeksiantoa alettiin käsittelemään ja purkamaan. Määrittely jatkui tämän etapin aikana ja tulee jatkumaan liukuvasti myös tarpeen niin vaatiessa edemmäs. 
 
 
-* [Etappi Z](https://gitlab.labranet.jamk.fi/jamkit/project-templates/fi-opf-2021-core-template-v2/-/milestones)
+* [Etappi 2 - Suunnittelu](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/4#tab-issues)
+
+
+
+* [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
+
+
+
+* [Etappi 4 - Testaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
+
+
+
+* [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
+
+
+
+* [Etappi 6 - Luovutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
+
+
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
