@@ -40,8 +40,6 @@ Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon vi
 
 ## 1.2 Tavoitteet ja tehtävät
 
-![](../assets/work-to-do.png)
-
 <!-- ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
 > Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
 > Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
@@ -56,7 +54,7 @@ Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon vi
 Tavoitteena on saada asiakkaan yleinen ilme kotisivuilla olemaan parempi toiminnaltaan, selkeä ja ammattimainen. Sieltä täytyy löytyä kohderyhmille suunnattu sisältö visuaalisesti näyttävällä tavalla oli kyseessä yritys tai yksityinen asiakas. Tällä hetkellä nettisivut kaipaavat paljonkin ehostusta ja muutoksia, koska sen toiminta sisältää mm virheitä ja toimimattomuutta instagram päivitysten näkyvyydessä.
 Keskiössä voisi oikeastaan pitää käytettävyyttä sekä kohdennettua tarjontaa, mutta ei liian pitkälle vietynä. Lähinnä tarkastellessa asiakkaan näkökulmasta toivoisi sivulle selkeyttä ja ammattimaisten painotuotteiden tuottavan yrityksen ammattimaista olemusta ja ilmettä. Sivulle mentäessä täytyisi tulla sellainen olo, että se tarjoaa sinulle sen mitä sieltä lähdit etsimään ja sitten puhelinnumero ja tai sähköposti sekä yhteydenotto kenttä/lomake.
 
-Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä ja olemusta. Paremmin ilmaistuna tutustua vain yrityksen toimintaan, josta tuossa ylempänä jo aika kattava ja riittävä tietopankki onkin. Tämän kautta päästään määrittelyyn. Määrittelyssä määritetään koko projekti siihen pisteeseen mitä nyt pystyy edes määrittämään vielä tässä vaiheessa. Seuraavana hypätään suunnitteluun. Suunnittelussa otetaan huomioon yrityksen asiakaskunta ja kohderyhmät. Suunnittelussa on myös huomioitava sivuston toteutukseen liittyviä teknisiä toteutuksellisia menetelmiä. Seuraavana vuorossa alkaa olemaan itse tuotannollinen vaihe. Suunnittelu elää vielä tässä vaiheessa, kun tuotetta ollaan asiakkaalle toteuttamassa. Sisältö tuotetaan ilmeisesti HTML koodilla ja CSS tyylimäärityksillä. Tuotannossa on kuitenkin paljon eri työvaiheita ja en niitä ala tässä erikseen käymään läpi. Lopussa testataan tuotteen toiminnallisuus ja korjataan mahdollisesti korjattavat asiat. Tämän jälkeen työn luovutus asiakkaalle ja sitten loppupalaveri.
+Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä ja olemusta. Paremmin ilmaistuna tutustua vain yrityksen toimintaan, josta tuossa ylempänä jo aika kattava ja riittävä tietopankki onkin. Tämän kautta päästään määrittelyyn. Määrittelyssä määritetään koko projekti siihen pisteeseen mitä nyt pystyy edes määrittämään vielä tässä vaiheessa. Seuraavana hypätään suunnitteluun. Suunnittelussa otetaan huomioon yrityksen asiakaskunta ja kohderyhmät. Suunnittelussa on myös huomioitava sivuston toteutukseen liittyviä teknisiä toteutuksellisia menetelmiä. Näistä laaditaan mahdollisesti myös oma toteutuksellinen suunnitelma. Seuraavana vuorossa alkaa olemaan itse tuotannollinen vaihe. Suunnittelu elää vielä tässä vaiheessa, kun tuotetta ollaan asiakkaalle toteuttamassa. Sisältö tuotetaan ilmeisesti HTML koodilla ja CSS tyylimäärityksillä. Tuotannossa on kuitenkin paljon eri työvaiheita ja en niitä ala tässä erikseen käymään läpi. Lopussa testataan tuotteen toiminnallisuus ja korjataan mahdollisesti korjattavat asiat. Tämän jälkeen työn luovutus asiakkaalle ja sitten loppupalaveri.
 
 
 
@@ -78,8 +76,6 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. 
 
 ## 1.6 Projektiin liittyvät haasteet
-
->Tarkastellaan projektin tavoitteita ja laaditaan tarvittaessa tueksi erillinen SWOT-kuvaus, jossa tarkastellaan projektia ja sen toimintaympäristöä eri näkökulmista. 
 
 **SWOT Analyysi**
 
@@ -110,8 +106,6 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 
 ## 2.1 Organisaation esittely
 
-![](../assets/work-to-do.png)
-
 <!-- Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita?-->
 
 Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita missä emme osaa mennä eteenpäin tai muita ongelmia, olemme ongelmasta riippuen yhteydessä yritykseen tai opettajiin.
@@ -128,9 +122,9 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 | Jose | Backend | Dynamiitti Orava |
 | Jari | QA Testaus | Dynamiitti Orava |
 | Daniela | QA Testaus | Dynamiitti Orava |
-| Jouni "Big Boss" | Opettaja | JAMK |
-| Maarit "Side Boss" | Opettaja | JAMK |
-| Marko "Narsuman" | Opettaja | JAMK / Wimma Lab |
+| Jouni | Opettaja | JAMK |
+| Maarit | Opettaja | JAMK |
+| Marko | Opettaja | JAMK / Wimma Lab |
 | Santeri Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 | Mika Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 
