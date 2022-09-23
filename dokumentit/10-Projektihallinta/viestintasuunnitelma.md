@@ -1,56 +1,70 @@
-# Viestintäsuunnitelma (pohja)
+# Viestintäsuunnitelma
 
-![](https://openclipart.org/image/400px/svg_to_png/19234/johnny-automatic-birds-talking.png)
 
 #	Johdanto
 
->Tämä viestintäsuunnitelman tarkoituksena on määritellä X projektin yhteydessä käytetyt viestintämenetelmät ja  kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan >informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen.
+Tämä viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy projektin yhteydessä käytetyt viestintämenetelmät ja  kanavat.
 
 #	Projektin osapuolet
 
+| Nimi | Vastuu | Organisaatio |
+|:-:|:-:|:-:|
+| Taru | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
+| Niko | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
+| Miika | UI Suunnittelu, Frontend | Dynamiitti Orava |
+| Bea | UI Suunnittelu, Frontend | Dynamiitti Orava |
+| Joni | Frontend | Dynamiitti Orava |
+| Jose | Backend | Dynamiitti Orava |
+| Jari | QA Testaus | Dynamiitti Orava |
+| Daniela | QA Testaus | Dynamiitti Orava |
+| Jouni | Opettaja | JAMK |
+| Maarit | Opettaja | JAMK |
+| Marko | Opettaja | JAMK / Wimma Lab |
+| Santeri Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
+| Mika Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
+
+
+
 ## Projektin osapuolet voidaan jakaa viestinnän näkökulmasta neljään eri ryhmään:
 
-  1.	Projektiryhmän jäsenet (nn, yy, zz, ym)
-  2.	Projektin ohjaajat ([hh], jj, kk)
-  3.	Toimeksiantajan edustajat (aa, bb, cc)
-  4.	Ulkopuoliset henkilöt (esim. laitoksen johtaja, asiantuntijat jne.)
+  1.	Projektiryhmän jäsenet: **Miika, Bea, Joni, Jose, Jari, Daniela**
+  2.	Projektin ohjaajat: **Taru, Niko**
+  3.	Toimeksiantajan edustajat: **Santeri Kuurne, Mika Kuurne**
+  4.	Ulkopuoliset henkilöt: **Jouni, Maarit, Marko**
 
->Tässä suunnitelmassa luodaan pohja projektiryhmän ja kolmen muun projektin sidosryhmän väliselle viestinnälle. 
 
 ## Yleiset viestintäkanavat
 
->X projektilla on käytettävissään viestintää varten: puhelin, telefax, sähköposti, LN tietokannat, posti, sisäinen posti, www, ilmoitustaulu sekä luonnollisesti erilaiset >kirjallisen ja verbaalisen viestinnän muodot. 
-
-## Kirjallisessa viestinnässä käytettävät mallit
-
->Projektiin liittyvässä kirjallisessa viestinnässä käytetään Yrityksen viestintä –kirjassa (Kortetniemi, 1997) esitettyjä asiakirjamalleja / JAMKin raportointiohjetta / jotain >muuta (mitä?). Dokumenttien elektroninen tallennusmuoto määritellään tarkemmin erityisessä dokumentointisuunnitelmassa. 
+Projektin aikana viestinnässä on käytössä omat puhelimet, omat tietokoneet ja projektin toteuttajilla myös satunnaisesti koulun tietokoneet.
+Viestintä tapahtuu sähköpostin, puheluiden ja erilaisten virtuaali kanavien kautta, kuten Microsoft Teams.
+Projektin jäsenet viestivät keskenään Microsoftin Teams kanavalle luodun yksityisen kanavan välityksellä. Myös tiimin palaverit ym yhteisen viestintä tilaisuudet hoidetaan tätä kautta.
 
 ## Sisäinen viestintä
 
->Sisäisellä viestinnällä tarkoitetaan tässä viestintää projektiryhmän sisällä. Sen tavoitteena on välittää projektiin liittyvää informaatiota kaikille ryhmän jäsenille ja näin >tukea ryhmän yhteistyötä ja edesauttaa ryhmän identiteetin muodostumista. Lisäksi sisäinen viestintä toimii kaiken ulkoisen viestinnän perustana.
->X projektin sisäisessä viestinnässä käytetään sekä formaaleja että epävirallisia kanavia. Projektiryhmä kokoontuu [maanantaiaamuisin] viikkopalaveriin, jossa suunnitellaan tulevan >viikon tehtävät ja edellisen käydään läpi edellisen viikon tapahtumat. [Projektipäällikkö valmistelee viikkopalaverin esityslistan ja kirjoittaa palaverin pohjalta >viikkosuunnitelman, jonka tehtävät kirjataan valittuun projektinohjaustyövälineeseen.] Kaikki projektiin liittyvä dokumentaatio pyritään säilyttämään yhdessä [dokumenttitietokannassa], jota projektiryhmän jäsenten tulee aktiivisesti seurata. Sihteeri tiedottaa kaikista merkittävistä tapahtumista ryhmän jäsenille valittuja kanavia käyttäen. 
+Sisäinen viestintä tapahtuu Microsoftin Teams kanavan kautta. Teamsissa tiimillä on käytössään oma yksityinen kanava, jossa jokaiselle työvaiheelle on tehty oma sisäinen keskustelukanava, joita nimitän tässä nimikkeellä **Lanka**(kanavan sisällä oleva viestintäkanava).
+Lankojen tarkoitus on jakaa informaatiota erilaisiin osa-alueisiin, kuten testaus, frontend ja backend. Tämä auttaa kohdentamaan jaettava informaatiota niille henkilöille, joita asiat koskee. Tällöin myös lanka "Yleinen" ei mene tukkoon ja täyty kaikesta informaatiosta.
 
+Projektin jäsenet kokoontuu maanantaiaamuisin viikkopalaveriin, jossa suunnitellaan tulevan viikon tehtävät ja käydään läpi edellisen viikon tehtävät ja tapahtumat. Projektipäällikkö valmistelee viikkopalaveriin esityslistan ja tästä määräytyy myös pitkälti alkava viikkosuunnitelma.
+Viikkopalaverin kulku kirjataan ylös ja se jaetaan viestintäkanavallamme omaan lankaansa, joka on kaikkien tuotantolaisten saatavilla aina teamssissa sille merkityllä langalla. Tämä lanka toimii viikkopalaverien tietokantana.
 
 **sisäisen että ulkoisen viestinnän tukena käytetään seuraavia apuvälineitä:**
 
--	[LN sovellus], johon sisällytetään tiedot muun dokumentaation ulkopuolisista kontakteista eri sidosryhmien kanssa (esim. puhelu toimeksiantajalle).  
--	[A sovellus, jonka avulla ryhmän LN sähköpostiosoitteeseen tullut posti jaetaan edelleen projektiryhmäläisten henkilökohtaisiin sähköpostiosoitteisiin.]
-
-## Viestintä tukiryhmien kanssa
-
->Projektiryhmän ja ohjaajien välisen viestinnän tehtävä on mahdollistaa ohjaajille esteetön ja täydellinen projektin seuranta ja sitä kautta antaa heille riittävät resurssit tukea >projektin etenemistä. Keskeisin viestintäkanava tulee olemaan [LN dokumenttitietokanta] sekä [keskiviikkoiset] ohjaajapalaverit [hh]:n kanssa. Projektisihteeri valmistelee >ohjaajapalaverien esityslistat ja kirjoittaa niistä muistiot. Edellä mainittujen viestintäkanavien lisäksi tärkein viestintätapa on [sähköposti], muita tapoja käytetään >mahdollisuuksien mukaan ja tarvittaessa. Kaikista keskeisistä projektiin liittyvistä tapahtumista tiedotetaan ohjaajille ainakin yhdellä edellä mainituista kanavista.
+-	[Microsoft Teams](https://www.microsoft.com/fi-fi/microsoft-teams/compare-microsoft-teams-options-b?=&ef_id=EAIaIQobChMIttSC09Kq-gIVbwCiAx1_2AShEAAYASAAEgLEkvD_BwE%3aG%3as&OCID=AIDcmmvt04n6e4_SEM_EAIaIQobChMIttSC09Kq-gIVbwCiAx1_2AShEAAYASAAEgLEkvD_BwE%3aG%3as&gclid=EAIaIQobChMIttSC09Kq-gIVbwCiAx1_2AShEAAYASAAEgLEkvD_BwE&activetab=pivot%3aprimaryr2), jossa on kaikki viestinnän ja palavereihin käytettävät ominaisuudet.
+- Sähköposti (pääsääntöisesti koskee toimeksiantajaa)
+- Puhelin (pääsääntöisesti koskee toimeksiantajaa)
 
 # Viestintä toimeksiantajan edustajien kanssa
 
-Projektiryhmän ja toimeksiantajan edustajien välisessä viestinnässä ovat keskeisessä asemassa [erilaiset kokoukset ja tapaamiset]. Näistä säännöllisiä ovat johtoryhmän kokoukset, joihin esityslistan valmistelee projektipäällikkö. Edellisten lisäksi käytetään ensisijaisena viestintäkanavana [sähköpostia] ja toissijaisena [puhelinta]. Kaikista projektia koskevista dokumenteistä lähettää projektisihteeri sähköpostitse kopiot toimeksiantajan edustajille. Juoksevissa asioissa toimeksiantajan puolesta vastaa [nn] ja projektin hallinnosta [yy].
+Projektiryhmän ja toimeksiantajan/tilaanjan välisessä viestinnässä keskeistä on etänä järjestetyt tapaamiset puhelimitse tai esimerkiksi teams palaverin kautta. Tiimin ja tilaajan välistä yhteyttä hoitaa projektipäällikkö Taru, joka on toimeksiantajan ja tiimin välinen yhteyshenkilö.
+Toimeksiantajaan ollaan yhteydessä puhelimitse, sähköpostitse ja tilanteesta riippuen tilaajalle sopivalla tavalla.
 
 # Viestintä ulkopuolisten kanssa
 
-Viestinnässä ulkopuolisten kanssa käytetään projektiryhmäläisten omaa harkintaa.  Osalle ulkopuolisista sidosryhmistä (muut projektit, osa laitoksen henkilökunnasta) on mahdollisuus viestiä [LN keskustelutietokannan] avulla. Lisäksi ulkopuolisille sidosryhmille on tarjolla informaatiota projektin www sivustossa, joka löytyy osoitteesta:xxxx.
+Viestintä ulkopuolisten toimijoiden tai tahojen kanssa on aina tilanne, johon ei pystytä välttämättä täysin varautumaan ennalta. Näissä tilanteissa pidetään yleensä palaveri asiaan liittyen ja käydään läpi viestintään liittyvät vaatimukset ja käytännöt.
 
 # Viestinnän seuranta ja arviointi
 
-Viestinnän onnistumista arvioidaan projektin aikana jatkuvasti ja erityisesti viikko- ja ohjaajapalavereissä sekä viestintäopintojen yhteydessä.  Mahdollisiin epäkohtiin puututaan välittömästi ja viestintäsuunnitelmaa muutetaan tarpeen niin vaatiessa.
+Viestinnän onnistumista arvioidaan projektin aikana jatkuvasti ja erityisesti viikkopalavereissa.  Mahdollisiin epäkohtiin puututaan välittömästi ja viestintäsuunnitelmaa muutetaan tarpeen niin vaatiessa.
 
 
 # Lähteet
