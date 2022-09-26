@@ -1,13 +1,11 @@
-# Tiivistetty projektisuunnitelma
+# Projektisuunnitelma
 
 |  |  |
 |:-:|:-:|
-| Dokumentti | Tiivistetty projektisuunnitelma |
+| Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko, Taru |
 | Versio: | 0.1 |
 | Päivämäärä: | 00.00.2022 |
-
-![](https://openclipart.org/image/400px/167242)
 
 
 ## 1. Toimeksianto 
@@ -75,9 +73,9 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 
 >Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. 
 
-## 1.6 Projektiin liittyvät haasteet
+## 1.6 Projektiin liittyvät haasteet ja vahvuudet
 
-**SWOT Analyysi**
+### SWOT analyysi
 
 ```plantuml
 @startmindmap
