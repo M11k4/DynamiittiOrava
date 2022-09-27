@@ -1,24 +1,22 @@
-# Riskitaulukko (pohja)
+# Riskitaulukko
 
-
-![](https://openclipart.org/image/400px/svg_to_png/163063/dontlifttoomuch.png)
 
 ## Tunnistetut riskit taulukon muodossa
 
-> Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
+Alla olevasta taulukosta voi tarkastella projektiin kuuluvia riskejä. Riskeillä on omat yksilölliset luokitukset, koska se helpottaa niiden käsittelyä erilaisissa tilanteissa.
 
 | ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Mitä toimintaan riskin ilmentyessä? | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RISX1 | Ryhmän jäsen sairastuu flunssaan |  V3 | 60 % |[Tiimin jäsen 1]() | Ilmoita [tiiminvetajalle]() ja tarvittaesssa [toimeksiantajalle](). |
-| RISX2 | Sähköt katkeavat kehitystyön aikana | V5 | 10 %  | [Tiimin jäsen 2]() | Varmistetaan, että kaikilla on käytössään varayhteydet esim. puhelimella |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
+| RISX1 | Kausiflunssa tms sairastuminen |  V3 | 50 % | ? | Ilmoita tiimin kelle tahansa jäsenelle asiasta, mieluiten Tarulle. Muista ilmoittaa myös opettajalle. |
+| RISX2 | Vakavampi sairastuminen | V2 | 10 %  | ? | Ilmoita tiimin kelle tahansa jäsenelle asiasta, mieluiten Tarulle. Muista ilmoittaa myös opettajalle. |
+| RISX3 | Erittäin vakava sairastuminen | V1 | 10% | ? | Tilanteesta ei oikein voida ennmalta sopia. Läheiset ilmoittavat ehkä opettajalle ja opettaja meille. |
+| RISX4 | | | | |
+| RISX5 | | | | |
+| RISX6 | | | | |
+| RISX7 | | | | |
+| RISX8 | | | | |
+| RISX9 | | | | |
+| RIS10 | | | | |
 
 ## Vakauvuusluokat ja todennäköisyydet
 
@@ -37,7 +35,7 @@
 | Todennäköisyys | Taso | 
 |:-:|:-:|
 | 10 % | Vähemmän todennäköinen |
-| 50 % | todennäköinen |
+| 50 % | Todennäköinen |
 | 90 % | Ehdottomasti todennäköinen |
 
 
