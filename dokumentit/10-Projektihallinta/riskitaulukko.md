@@ -10,25 +10,20 @@ Alla olevasta taulukosta voi tarkastella projektiin kuuluvia riskejä. Riskeill�
 | RISX1 | Kausiflunssa tms sairastuminen |  V3 | 50 % | ? | Ilmoita tiimin kelle tahansa jäsenelle asiasta, mieluiten Tarulle. Muista ilmoittaa myös opettajalle. |
 | RISX2 | Vakavampi sairastuminen | V2 | 10 %  | ? | Ilmoita tiimin kelle tahansa jäsenelle asiasta, mieluiten Tarulle. Muista ilmoittaa myös opettajalle. |
 | RISX3 | Erittäin vakava sairastuminen | V1 | 10% | ? | Tilanteesta ei oikein voida ennmalta sopia. Läheiset ilmoittavat ehkä opettajalle ja opettaja meille. |
-| RISX4 | | | | |
-| RISX5 | | | | |
-| RISX6 | | | | |
-| RISX7 | | | | |
-| RISX8 | | | | |
-| RISX9 | | | | |
-| RIS10 | | | | |
+| RISX4 | Laiterikko(tietokoneet, kovalevyt ym) | V5 | 10% | ? | Pidetään varmuuskopiointi kunnossa ja dokumentointi ym laiterikkojen ulkopuolella |
+
 
 ## Vakauvuusluokat ja todennäköisyydet
 
 **Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla**
 
-| Vakavuusluokka | kuvaus | Muuta |
-|:----:|:----:|:----:|
-| V1 | Erittäin vakava, jatkuva tarkkailu || 
-| V2 | Vakava, aktiivinen tarkkailu || 
-| V3 | Normaali, tarkkaillaan  || 
-| V4 | Mahdollinen, tarkkailtava || 
-| V5 | Ei haittaa, mutta tarkkailaan || 
+| Vakavuusluokka | kuvaus |
+|:----:|:----:|
+| V1 | Erittäin vakava |
+| V2 | Vakava |
+| V3 | Normaali  |
+| V4 | Mahdollinen |
+| V5 | Todennäköinen |
 
 **Todennäköisyys**
 
