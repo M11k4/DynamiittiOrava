@@ -166,9 +166,11 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 >Tukiryhmän tehtävänä on antaa projektiryhmälle sisällöllistä opastusta tehtävän suorittamiseksi. Kappaleessa tulee >esitellä projektin muut sidosryhmät (asiakas, ulkopuoliset konsultit, jne.) henkilötasolla. Asiakkaan mukana olevista >henkilöistä tulee mainita ainakin nimi, yhteystiedot, toimenkuva sekä rooli projektissa.
 
 
-## 2.3. Projektin vaiheet ja taloudelliset tavoitteet
+## 2.3. Taloudelliset tavoitteet
 
->tehtäväkokonaisuudet, osittelu ja vaiheistus, välitulokset, aikataulut ja resurssissuunnitelmat, budjetti
+Projektin taloudellisiin tavoitteisiin kuuluu keskeisesti se, että toteutus ei tuota ylimääräisiä kustannuksia tuotteen tilaajalle. Tilaajalla on jo olemassa olevat nettisivut ja pyritään pitämään kustannukset samoissa raameissa, kuin nykyiset sivujen kustannukset ovat. Kaikki niinsanotusti uudet kuluerät neuvotellaan ja keskustellaan asiakkaan kanssa niiden ilmetessä. 
+
+Työstä emme veloita mitään asiakkaalta, koska teemme kouluprojektia ja tämä on palkaton työharjoittelu kokonaisuus. 
 
 ## 2.4. Laadun varmistus
 
@@ -176,7 +178,9 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
->projektin aloitus, työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus, projektikansio
+Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/viestintasuunnitelma/). Palavereita pidetään yksi suurempi viikossa, jossa on koko projekti tiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
+Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveri tiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
+Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä yllä olevan GANTT diagrammin avulla.
 
 ## 2.6. Projektin päättyminen
 
