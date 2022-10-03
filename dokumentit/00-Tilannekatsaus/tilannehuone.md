@@ -14,11 +14,12 @@ Viikon tarkoituksena on saada aluille kunnolla suunnittelu. Suunnittelutiimi on 
 Suunnittelu tiimi on suunnitellut viikon aikana alustavan visuaalisen suunnitelman toteutuksen ulkoasusta, joka esitellään maanantaina.
 
 **Mitä on sprintin/viikon aikana saavutettu?**
+- Saatu aikaiseksi nettisivusta visuaalista suunnitelmaa figmalla
 
 Mitä ovat saatu aikaan? Mikä toimii? Mitä viety testattu tai viety tuotantoon?
 
 **Millaisia haasteita on tullut eteen?**
-Yksi suunnittelutiimin jäsenistä on ollut kipeänä, joka on hankaloittanut/hidastanut suunnittelutyötä.
+- Yksi suunnittelutiimin jäsenistä on ollut kipeänä, joka on hankaloittanut/hidastanut suunnittelutyötä.
 
 **Seuraavat askeleet**
 Seuraavan viikon sprintti: [Sprintti4](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues/6)
