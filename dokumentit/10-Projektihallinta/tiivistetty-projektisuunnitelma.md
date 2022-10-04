@@ -178,9 +178,9 @@ Työstä emme veloita mitään asiakkaalta, koska teemme kouluprojektia ja täm�
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
-Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/viestintasuunnitelma/). Palavereita pidetään yksi suurempi viikossa, jossa on koko projekti tiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
+Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](viestintasuunnitelma.md). Palavereita pidetään yksi suurempi viikossa, jossa on koko projekti tiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
 Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveri tiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
-Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä yllä olevan GANTT diagrammin avulla.
+Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä alla olevan GANTT diagrammin avulla.
 
 ## 2.6. Projektin päättyminen
 
@@ -190,16 +190,11 @@ Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.
 
 ## 3.1 Osittaminen ja vaiheistus
 
-<!--Projektin etenemistä voidaan kuvata ns. GANTT-kaaviolla. Sen avulla voidaan esittää eri vaiheiden eteneminen aikajanalla, samalla voidaan osoittaa projektin eri vaiheisiin liittyvät kriittiset pisteet / etapit. Ohjelmistoprojekteissa karkea etenemisjärjestystä voi kuvata ohjelmistojen [SDLC](https://en.wikipedia.org/wiki/Systems_development_life_cycle )-mallilla.
-Tästä voidaan nostaa esiin muutama oleellisia vaiheita kuten:
-
 * Määrittely
 * Suunnittelu
 * Toteutus
 * Testaus
 * Luovutus
-
-![](../assets/work-to-do.png) -->
 
 **Yksittäiset vaiheet GANTT diagrammin avulla**
 
@@ -225,7 +220,7 @@ Projektin etenemisen rakenne ja etapit.
 * [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
 * [Etappi 6 - Luovutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
 
->Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). >Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös >IT-instituutin opiskelijaprojekteja). 
+<!-- >>Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). >Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös >IT-instituutin opiskelijaprojekteja). 
 >Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun jne. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin opiskelijaprojekteissa käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä.
 
 >Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
@@ -234,7 +229,7 @@ Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset
 
 Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
 
->Projektin eteneminen kannataa jakaa ns. tavoitteisiin/etappeihin. Näiden tehtävän on osoittaa ajanhetkeä, jollon jokin oleellinen projektin vaihe on tarkoitus saavuttaa. Projektille määritellyt etapit voidaan linkittää dokumentaation kanssa yhteen käyttäen apuna Issue/Milestone linkkejä avulla. *Katso esimerkit alla*
+>Projektin eteneminen kannataa jakaa ns. tavoitteisiin/etappeihin. Näiden tehtävän on osoittaa ajanhetkeä, jollon jokin oleellinen projektin vaihe on tarkoitus saavuttaa. Projektille määritellyt etapit voidaan linkittää dokumentaation kanssa yhteen käyttäen apuna Issue/Milestone linkkejä avulla. *Katso esimerkit alla* -->
 
 
 
@@ -254,7 +249,7 @@ Varsinainen määrittely etappi. Tässä etapissa käytiin yleisesti määrityks
 
 * [Etappi 2 - Suunnittelu](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/4#tab-issues)
 
-
+Projektin suunnittelussa on otettu huomioon monta erilaista vaikuttavaa tekijää. Suunnitteluun vaikuttaa niin tilaajan asettamat vaatimukset, kuin arvioidut kävijämäärätkin. Myös kuntannusten huomiointi on tärkeässä osassa suunnittelun kannalta. Tämän suunnitteluetapin tavoitteena on olla perillä mitä lähdetään toteuttamaan ja mitä se ryhmältä vaatii. Samalla suunnitellaan toteutuksen aikataulutusta. Suunnittelu jatkuu vielä etapista riippumatta. Etapin tarkoitus on kertoa suurpiirteisesti millä tuotantoperiaatteilla mennään. Toteutetaanko sivut helposti editorin avulla vai toteutetaanko ne alusta loppuun itse koodaamalla.
 
 * [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
 
@@ -304,7 +299,7 @@ Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitel
 
 ## 4.4 Riskien hallinta
 
-<!-->>Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
+<!-- >>Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 >Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa. -->
 
 Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niinsanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym suuremmat ja todella epätodennäköiset riskit.
@@ -319,13 +314,9 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](http
 
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* Projektisopimus <!--(..//10-Projektinhallinta/projektisuunnitelma.md)-->
-* Vaatimusmäärittely <!--(../20-Vaatimustenhallinta/vaatimusmaarittely.md)-->
-* [Julkaisusuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
-* [Yleistestisuunnitelma](../40-Julkaisusuunnittelu/julkaisusuunnitelma.md)
-* Viestintäsuunnitelma <!--(..//10-Projektinhallinta/viestintasuunnitelma.md)-->
-* Riskihallintasuunnitelma <!--(../10-Projektinhallinta/riskihallinta-suunnitelma.md)-->
-* [Muu annettu dokumentaatio]()
+* [Vaatimusmäärittely](vaatimusmaarittely-tiivis.md)
+* [Viestintäsuunnitelma](viestintasuunnitelma.md)
+* [Riskihallintasuunnitelma](riskitaulukko.md)
 
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
@@ -334,17 +325,22 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](http
 
 ## 4.8 Projektin keskeyttämiskriteerit
 
-Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa.
+<!--Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa. -->
 
-
+Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan asiakkaalle sellaisena, kuin se koulutuksen päättymishetkellä on. Jatkokehityssuunnitelma laaditaan, jos näyttää siltä, että projekti ei valmistu harjoittelujakson aikana. 
 
 ## 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
 
 ## 5.1 Viestintäsuunnitelma
 
->Viestintäsuunnitelman tarkoituksena on määritellä X projektin yhteydessä käytetyt viestintämenetelmät ja kanavat. Selkeällä ja yhdenmukaisella viestinnällä varmistetaan >informaation kulku ja vaikutetaan projektin laatutavoitteiden toteutumiseen. Suunnitelma voidaan laatia osana projektisuunnitelmaa tai siihen voidaan viitata omana [alasivunaan](../10-Projektihallinta/viestintasuunnitelma.md)
+Projektissa työskentelevälle tiimille on laadittu viestintäsuunnitelma. Prohjektiin liittyvä viestintä tapahtuu viestintäsuunnitelman mukaisesti aina samalla kanavalla. Kanavalla on eri tehtäväalueille omat kanavat.
 
->Listaa projektissa sovitut työtilat ja viestintävälineet, palaverikäytäntö ja yhteydenpito, raportointi ja tiedotus.
+[Viestintäsuunnitelma](viestintasuunnitelma.md)
+
+Projektin toteutuksessa olevia työtiloja
+- Etätyö
+- Koululla oleva työtila 
+- Koululla oleva kokoustila
 
 ## 6. Projektin päättyminen
 
