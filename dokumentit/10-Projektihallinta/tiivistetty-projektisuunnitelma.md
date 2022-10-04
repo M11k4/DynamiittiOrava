@@ -3,9 +3,9 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
-| Laatija: | Niko, Taru |
-| Versio: | 0.1 |
-| Päivämäärä: | 00.00.2022 |
+| Laatija: | Niko |
+| Versio: | 0.5 |
+| Päivämäärä: | 4.10.2022 |
 
 
 ## 1. Toimeksianto 
@@ -278,10 +278,6 @@ Varsinainen määrittely etappi. Tässä etapissa käytiin yleisesti määrityks
 
 ![](../assets/work-to-do.png)
 
-Kustannusarvion esittäminen taulukon avulla: 
-
-![](kustannusarvio.JPG)
-
 ## 4. Laadunvarmistus
 
 >Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
@@ -302,14 +298,18 @@ Kustannusarvion esittäminen taulukon avulla:
 
 ## 4.3 Dokumentointi
 
->Kirjataan minne dokumentit tallennetaan/arkistoidaan, miten ne jaetaan ja kuka on vastuussa eri dokumenteista.
+Dokumentointi tapahtuu tänne OPF kehikkoon ja myös projektiryhmän teams kanavalle.
+Teams kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
+Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitelma jne dokumentoidaan tänne OPF kehikkoon omiin kansio rakenteisiinsa.
 
 ## 4.4 Riskien hallinta
 
->Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
->Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa.
+<!-->>Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
+>Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa. -->
 
-Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](riskitaulukko.md)
+Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niinsanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym suuremmat ja todella epätodennäköiset riskit.
+
+Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/riskitaulukko/)
 
 ## 4.5 Katselmointikäytäntö
 
@@ -335,6 +335,8 @@ Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko](riskitaulukko.md)
 ## 4.8 Projektin keskeyttämiskriteerit
 
 Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa.
+
+
 
 ## 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
 
