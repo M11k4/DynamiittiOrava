@@ -32,7 +32,7 @@
    Testauksella varmistetaan, että:
    - kaikki toiminnot toimivat halutulla tavalla
    - sivusto on responsiivinen
-   - sivusto on suorituskyvyltään riittävä
+   - sivusto on suorituskyvyltään riittävä (ks. vaatimusmääritelmä)
    - sivusto täyttää EU:n saavutettavuuskriteerit
 
         
