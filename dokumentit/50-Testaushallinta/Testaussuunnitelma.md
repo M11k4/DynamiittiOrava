@@ -13,15 +13,17 @@
         
 ## 2. Testaustrategia
 
-**- Functional testing** (suoritetaan manuaalisesti)
+**Functional testing** (suoritetaan manuaalisesti)
    * Sivulla navigointi
    * Linkkien toimivuus
    * Yhteydenottolomakkeen toimivuus
+   * Käytettävyystestaus (testiryhmä, 6 henkilöä)
 
    
 
-**- Non-Functional testing** (suoritetaan testityökaluilla ja manuaalisesti)
+**Non-Functional testing** (suoritetaan testityökaluilla ja manuaalisesti)
    * Sivuston responsiivisuus (manuaalisesti, Google ja Safari developer tool)
+   * Selaimien ja laitteiden yhteensopivuus
    * API-testaus (Postman)
    * Suorituskykytestaus (Postman)
    * Saavutettavuustestaus (Accessibilitychecker)
