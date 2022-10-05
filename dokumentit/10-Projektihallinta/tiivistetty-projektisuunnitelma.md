@@ -157,13 +157,9 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
->Tähän kirjataan kaikkien projektiorganisaatioon kuuluvien (esim. johtoryhmä, projektipäällikkö, sihteeri, ryhmä, >ohjaajat) vastuut sekä päätöksentekoprosessi (esim. projektipäällikkö valmistelee ja esittää johtoryhmän päätettäväksi…)
+Projektin ollessa kouluprojekti, jota toteutetaan tasa-arvoisena tiiminä ei titteleillä sinänsä ole merkitystä vastuu alueissa. Kaikki projektiin kuuluvat jäsenet ovat yhtälailla vastuussa kaikesta. Jokaisella on kuitenkin oma toimialue projektin aikana ja kaikki ovat vastuussa omasta toimimisestaan projektin edistämiseksi.
 
->”Projektiryhmä suorittaa johtoryhmän projektille asettamat tehtävät käytettävissä olevien resurssien puitteissa. >Projektin aikana ryhmän päällikön ja sihteerin roolit kiertävät ryhmän sisällä siten, että jokainen ryhmän jäsen toimii >kerran kummassakin roolissa.”
-
->”Johtoryhmän muodostavat siihen valitut projektiryhmän, ohjaajien ja toimeksiantajan edustajat. Johtoryhmän kokouksiin >voidaan tarvittaessa kutsua myös muita henkilöitä, esim. asiantuntijoita.Johtoryhmän kokoonpano on esitelty >projektisopimuksen liitteessä <X>.” 
-
->Tukiryhmän tehtävänä on antaa projektiryhmälle sisällöllistä opastusta tehtävän suorittamiseksi. Kappaleessa tulee >esitellä projektin muut sidosryhmät (asiakas, ulkopuoliset konsultit, jne.) henkilötasolla. Asiakkaan mukana olevista >henkilöistä tulee mainita ainakin nimi, yhteystiedot, toimenkuva sekä rooli projektissa.
+Projektia koskevat päätökset tehdään koko tiimin kesken demokraattisesti. Kaikki projektia isommin koskevat päätökset käsitellään kaikkien projektiin kuuluvien kesken. Jokaisella toimialueella on omat ryhmät, jossa voidaan tehdä pienempiä yhteisiä päätöksiä, jotka eivät koske kaikkia.
 
 
 ## 2.3. Taloudelliset tavoitteet
@@ -253,19 +249,20 @@ Projektin suunnittelussa on otettu huomioon monta erilaista vaikuttavaa tekijä�
 
 * [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
 
-
+Toteutus on saatusille mallille, että testausryhmä voi alkaa testaamaan toimivuutta ja tuotteen laatua.
 
 * [Etappi 4 - Testaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
 
-
+Testiryhmä on saanut tuotteen ns läpi testistään ja se voi edetä hyväksyntätestauskeen.
 
 * [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
 
-
+Hyväksyntätestaus on mennyt läpi ja tuote on testattu ja todettu toimivaksi ja laadukkaaksi sekä vaatimusmäärittelyn mukaiseksi.
 
 * [Etappi 6 - Luovutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
 
-
+Tuote luovutetaan toimeksiantajalle.
+Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydään projekti kokonaisuudessaan läpi.
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
