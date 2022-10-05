@@ -13,14 +13,14 @@
         
 ## 2. Testaustrategia
 
-- Functional testing (suoritetaan manuaalisesti)
+*- Functional testing* (suoritetaan manuaalisesti)
    * Sivulla navigointi
    * Linkkien toimivuus
    * Yhteydenottolomakkeen toimivuus
 
    
 
-- Non-Functional testing (suoritetaan testityökaluilla ja manuaalisesti)
+*- Non-Functional testing* (suoritetaan testityökaluilla ja manuaalisesti)
    * Sivuston responsiivisuus (manuaalisesti, Google ja Safari developer tool)
    * API-testaus (Postman)
    * Suorituskykytestaus (Postman)
@@ -36,7 +36,7 @@
    - sivusto täyttää EU:n saavutettavuuskriteerit
 
         
-## 4. Testauksen kriteerit (mikä testausmäärä riittää, milloin voi lopettaa?)
+## 4. Testauksen kriteerit
 
    Testausta jatketaan, kunnes kohdassa 3 mainitut tavoitteet ovat täyttyneet ja koodin työstäminen on loppunut. 
    Jos koodiin tehdään vielä muutoksia, suoritetaan jatkotestausta, kunnes sivusto on valmis ja testausvaatimukset täyttyvät. 
