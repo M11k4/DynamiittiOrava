@@ -47,9 +47,16 @@
         
 ## 5. Resurssit (testaajat, työtunnit, testiryhmä)
 
-        
+| Testaaja | Tunnit | Testiryhmä? |
+|:-:|:-:|:-:|
+| Jari Blomroos | TBA | TBA |
+| Daniela Ferretti | TBA | TBA |
+
+ 
 ## 6. Testausympäristöt (selaimet, laitteet ja muut muuttujat)
 
+   Testaus suoritetaan yleisimmiten käytetyillä selaimilla. Varmistamme toimivuuden siis [Chrome, Edge, Firefox, Safari ja Opera selaimilla.](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables) 
+   Tämän lisäksi varmistamme myös, että sivusto pyörii laitteilla, joita asiakkaat/käyttäjät käyttävät sivustolla käymiseen. Tarkoittaen pöytäkoneita, kannettavia ja puhelimia (Android&iOS). 
         
 ## 7. Laadi Road Map prosessille
 
