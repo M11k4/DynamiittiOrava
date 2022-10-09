@@ -56,9 +56,11 @@
 ## 6. Testausympäristöt (selaimet, laitteet ja muut muuttujat)
 
    Testaus suoritetaan yleisimmiten käytetyillä selaimilla. Varmistamme toimivuuden siis [Chrome, Edge, Firefox, Safari ja Opera selaimilla.](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables) 
-   Tämän lisäksi varmistamme myös, että sivusto pyörii laitteilla, joita asiakkaat/käyttäjät käyttävät sivustolla käymiseen. Tarkoittaen pöytäkoneita, kannettavia ja puhelimia (Android&iOS). 
+   Tämän lisäksi varmistamme myös, että sivusto pyörii laitteilla, joita asiakkaat/käyttäjät käyttävät sivustolla käymiseen. Tarkoittaen pöytäkoneita, kannettavia ja puhelimia (Android&iOS) mutta pääasiallinen keskittyminen on Windows, Linux ja Mac koneissa. 
         
 ## 7. Laadi Road Map prosessille
 
         
 ## 8. Dokumentaatio (miten ja millä dokumentoidaan?)
+
+   GitLab-ympäristö tarjoaa projektillemme tarpeelliset työkalut dokumentointiin (issues, milestones, test cases). Pyrimme toimimaan [CI/CD](https://en.wikipedia.org/wiki/CI/CD) menetelmän mukaisesti.
