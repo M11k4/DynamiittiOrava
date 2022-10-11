@@ -6,23 +6,24 @@
 * [Tiimin esittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
 * [Issue lista](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues)
 
-## Projektitilanne sprint/viikolla 4,  3.10.2022 - 7.10.2022**
+## Projektitilanne sprint/viikolla 5,  10.10.2022 - 16.10.2022**
 
-Tämän viikon sprintti: [Sprintti 4](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/5#tab-issues)
+Tämän viikon sprintti: [Sprintti 5](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/6#tab-issues)
 
-Viime viikolla saatiin hyvälle alulle suunnittelua ja tällä viikolla suunnittelu jatkuu. Toteutuksen loittaminen alkaa ehkä vasta seuraavalla viikolla, mutta isoa viivästystä aikataulussa ei ole.
+Suunnittelu on edistynyt ja edistyy kokoajan. Toteutus on kuitenkin jo aloitettu ja ensimmäiset koodit on kirjoitettu. Suunnittelu/frontend tiimi on jakanut tuotannon sisäisesti kolmeen ja jokaisella ryhmän sisällä on omat tehtäväalueensa.
 
 **Mitä on sprintin/viikon aikana saavutettu?**
-- Saatu aikaiseksi nettisivusta visuaalista suunnitelmaa figmalla / Sprintti 3
 
 Mitä ovat saatu aikaan? Mikä toimii? Mitä viety testattu tai viety tuotantoon?
 
 **Millaisia haasteita on tullut eteen?**
+- Asiakas ei ole toimittanut tarpeellisia informaatioita projektin etenemisen kannalta ja odotetaan vastausta, että pääsemme etenemään. Taustalla pystymme kuitenkin jatkamaan suunnittelua ja toteutusta.
 
 **Seuraavat askeleet**
-Seuraavan viikon sprintti: [Sprintti 5](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/6#tab-issues)
+Seuraavan viikon sprintti: [Sprintti 6](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/7#tab-issues)
 - Suunnittelua
-- Mahdollisesti tuotteen toteutusta
+- Toteuttamista
+- Informaation odottelua
 
 
 
