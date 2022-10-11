@@ -14,14 +14,14 @@ Tuntikirjaukset ja kulut projektissa XXXXX -->
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Taru | x.x.202x | 1h | Tehtävä |
-| Niko | x.x.202x | 1h | Tehtävä |
-| Jari | x.x.202x | 1h | Tehtävä |
-| Daniela | x.x.202x | 1h | Tehtävä |
-| Miika | x.x.202x | 1h | Tehtävä |
-| Bea | x.x.202x | 1h | Tehtävä |
-| Joni | x.x.202x | 1h | Tehtävä |
-| Jose | x.x.202x | 1h | Tehtävä |
+| Taru Vuori | x.x.202x | 1h | Tehtävä |
+| Niko Kauppinen | x.x.202x | 1h | Tehtävä |
+| Jari Blomroos | x.x.202x | 1h | Tehtävä |
+| Daniela Ferretti | x.x.202x | 1h | Tehtävä |
+| Miika Toukola | x.x.202x | 1h | Tehtävä |
+| Beatrice Raitio | x.x.202x | 1h | Tehtävä |
+| Joni Peltomäki | x.x.202x | 1h | Tehtävä |
+| Jose  Toivainen | x.x.202x | 1h | Tehtävä |
 
 **Muut kulut**
 
