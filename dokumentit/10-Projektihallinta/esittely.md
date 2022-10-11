@@ -6,14 +6,14 @@ Tässä sivulla pääset tutustumaan tiimiimme ja heidän rooleihin yrityksessä
 
 | Nimi | Rooli | Yritys | Gitlab-tunnus |
 |:-:|:-:|:-:|:-:|
-| Taru | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava | AC8403 | 
-| Niko | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava | AC8393 |
-| Miika | UI Suunnittelu, Frontend | Dynamiitti Orava | AC8450 | 
-| Bea | UI Suunnittelu, Frontend | Dynamiitti Orava | AB5122 | 
-| Joni | Frontend | Dynamiitti Orava | AC8442 | 
-| Jose | Backend | Dynamiitti Orava | AC8448 | 
-| Jari | QA Testaus | Dynamiitti Orava | AC8404 | 
-| Daniela | QA Testaus | Dynamiitti Orava | AC8418 | 
+| Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava | AC8403 | 
+| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava | AC8393 |
+| Miika Toukola | UI Suunnittelu, Frontend | Dynamiitti Orava | AC8450 | 
+| Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiitti Orava | AB5122 | 
+| Joni Peltomäki | Frontend | Dynamiitti Orava | AC8442 | 
+| Jose Toivainen | Backend | Dynamiitti Orava | AC8448 | 
+| Jari Blomroos | QA Testaus | Dynamiitti Orava | AC8404 | 
+| Daniela Ferretti | QA Testaus | Dynamiitti Orava | AC8418 | 
 | Kaikki | Tiedonhankinta | _ | _ |
 
 
