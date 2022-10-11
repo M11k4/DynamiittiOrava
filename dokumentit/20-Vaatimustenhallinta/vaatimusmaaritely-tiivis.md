@@ -54,7 +54,7 @@ Koska yhteydenotto käyttää SMTP:tä ei tietokantaa tarvita. Rajapintoja/liitt
 - UI-suunnittelija ja frontend Beatrice Raitio 
 - UI-suunnittelija ja frontend Miika Toukola 
 - Frontend Joni Peltomäki  
-- Backend Toivainen Jose 
+- Backend Jose Toivainen 
 - Testaaja Jari Blomroos 
 - Testaaja Daniela Ferretti
 
