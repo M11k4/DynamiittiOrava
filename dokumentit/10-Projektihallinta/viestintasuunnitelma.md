@@ -9,17 +9,17 @@ Tämä viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy projek
 
 | Nimi | Vastuu | Organisaatio |
 |:-:|:-:|:-:|
-| Taru | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
-| Niko | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
-| Miika | UI Suunnittelu, Frontend | Dynamiitti Orava |
-| Bea | UI Suunnittelu, Frontend | Dynamiitti Orava |
-| Joni | Frontend | Dynamiitti Orava |
-| Jose | Backend | Dynamiitti Orava |
-| Jari | QA Testaus | Dynamiitti Orava |
-| Daniela | QA Testaus | Dynamiitti Orava |
-| Jouni | Opettaja | JAMK |
-| Maarit | Opettaja | JAMK |
-| Marko | Opettaja | JAMK / Wimma Lab |
+| Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
+| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
+| Miika Toukola | UI Suunnittelu, Frontend | Dynamiitti Orava |
+| Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiitti Orava |
+| Joni Peltomäki | Frontend | Dynamiitti Orava |
+| Jose Toivainen | Backend | Dynamiitti Orava |
+| Jari Blomroos | QA Testaus | Dynamiitti Orava |
+| Daniela Ferretti | QA Testaus | Dynamiitti Orava |
+| Jouni Huotari | Opettaja | JAMK |
+| Maarit Salo | Opettaja | JAMK |
+| Marko Rintamäki | Opettaja | JAMK / Wimma Lab |
 | Santeri Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 | Mika Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 
