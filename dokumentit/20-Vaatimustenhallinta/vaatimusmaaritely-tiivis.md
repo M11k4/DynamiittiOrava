@@ -160,6 +160,23 @@ SSL-sertifikaatti löytyy asiakkaan käyttämältä web hosting palvelusta. Kats
 
 Sähköpostin lähettämistä varten tulee Captcha tai jokin vastaava. 
 
+# 4 Kohderyhmät
+
+## 4.1 Kävijä profilointi
+
+Kävijäprofilointi voidaan käsittää tarvetta etsiviin ihmisiin. Tämä voidaan jakaa kahteen eri ryhmään.
+
+- Yritys asiakkaat
+- Yksityiset asiakkaat
+
+## 4.2 Yritys asiakkaat
+
+Yritys asiakkaat hankkivat palveluita pääsääntöisesti oman yritystoimintansa tueksi. 
+
+## 4.3 Yksityiset asiakkaat
+
+Yksityiset asiakkaat hankkivat palveluita esimerkiksi koristeellisista syistä, kuten erilaiset kutsukortit, veneiden tms teippaukset.
+
 
 
 
