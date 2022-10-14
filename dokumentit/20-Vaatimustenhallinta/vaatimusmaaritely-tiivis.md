@@ -162,21 +162,29 @@ Sähköpostin lähettämistä varten tulee Captcha tai jokin vastaava.
 
 # 4 Kohderyhmät
 
-## 4.1 Kävijä profilointi
+## 4.1 Kävijäprofilointi
 
 Kävijäprofilointi voidaan käsittää tarvetta etsiviin ihmisiin. Tämä voidaan jakaa kahteen eri ryhmään.
 
 - Yritys asiakkaat
 - Yksityiset asiakkaat
 
+Jokainen kävijä on mahdollinen asiakas. 
+
 ## 4.2 Yritys asiakkaat
 
-Yritys asiakkaat hankkivat palveluita pääsääntöisesti oman yritystoimintansa tueksi. 
+Yritys asiakkaat hankkivat palveluita pääsääntöisesti oman yritystoimintansa tueksi. Yritysasiakkailla tilatun tuotteen käyttötarkoitus on markkinoida omia tuotteita tai palveluita. Yritys asiakkaat saattavat tilata myös huomattavasti suurempia määriä, kuin yksityiset asiakkaat. Tietenkin myös löytyy poikkeuksia.
 
 ## 4.3 Yksityiset asiakkaat
 
-Yksityiset asiakkaat hankkivat palveluita esimerkiksi koristeellisista syistä, kuten erilaiset kutsukortit, veneiden tms teippaukset.
+Yksityiset asiakkaat hankkivat palveluita yksityiselämään esimerkiksi koristeellisista syistä, kuten erilaiset kutsukortit, veneiden teippaukset etc. Voi löytyä tottakai poikkeuksia. 
 
+## 4.4 Ikä profilointi
 
+### Yritys asiakkaiden ikä arvio
+- 25 - 64 vuotta
+
+### Yksityis asiakkaiden ikä arvio
+- 18 - 74 vuotta
 
 
