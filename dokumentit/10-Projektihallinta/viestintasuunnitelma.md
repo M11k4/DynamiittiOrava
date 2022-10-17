@@ -3,20 +3,20 @@
 
 #	Johdanto
 
-Tämä viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy projektin yhteydessä käytetyt viestintämenetelmät ja  kanavat.
+Tämän viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy projektin yhteydessä käytetyt viestintämenetelmät ja kanavat.
 
 #	Projektin osapuolet
 
 | Nimi | Vastuu | Organisaatio |
 |:-:|:-:|:-:|
-| Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
-| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
-| Miika Toukola | UI Suunnittelu, Frontend | Dynamiitti Orava |
-| Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiitti Orava |
-| Joni Peltomäki | Frontend | Dynamiitti Orava |
-| Jose Toivainen | Backend | Dynamiitti Orava |
-| Jari Blomroos | QA Testaus | Dynamiitti Orava |
-| Daniela Ferretti | QA Testaus | Dynamiitti Orava |
+| Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiittiorava |
+| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiittiorava |
+| Miika Toukola | UI Suunnittelu, Frontend | Dynamiittiorava |
+| Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiittiorava |
+| Joni Peltomäki | Frontend | Dynamiittiorava |
+| Jose Toivainen | Backend | Dynamiittiorava |
+| Jari Blomroos | QA Testaus | Dynamiittiorava |
+| Daniela Ferretti | QA Testaus | Dynamiittiorava |
 | Jouni Huotari | Opettaja | JAMK |
 | Maarit Salo | Opettaja | JAMK |
 | Marko Rintamäki | Opettaja | JAMK / Wimma Lab |
@@ -36,16 +36,16 @@ Tämä viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy projek
 ## Yleiset viestintäkanavat
 
 Projektin aikana viestinnässä on käytössä omat puhelimet, omat tietokoneet ja projektin toteuttajilla myös satunnaisesti koulun tietokoneet.
-Viestintä tapahtuu sähköpostin, puheluiden ja erilaisten virtuaali kanavien kautta, kuten Microsoft Teams.
-Projektin jäsenet viestivät keskenään Microsoftin Teams kanavalle luodun yksityisen kanavan välityksellä. Myös tiimin palaverit ym yhteisen viestintä tilaisuudet hoidetaan tätä kautta.
+Viestintä tapahtuu sähköpostin, puheluiden ja erilaisten virtuaalikanavien kautta, kuten Microsoft Teams.
+Projektin jäsenet viestivät keskenään Microsoftin Teams kanavalle luodun yksityisen kanavan välityksellä. Myös tiimin palaverit ym. yhteisen viestintätilaisuudet hoidetaan tätä kautta.
 
 ## Sisäinen viestintä
 
-Sisäinen viestintä tapahtuu Microsoftin Teams kanavan kautta. Teamsissa tiimillä on käytössään oma yksityinen kanava, jossa jokaiselle työvaiheelle on tehty oma sisäinen keskustelukanava, joita nimitän tässä nimikkeellä **Lanka**(kanavan sisällä oleva viestintäkanava).
+Sisäinen viestintä tapahtuu Microsoftin Teams -kanavan kautta. Teamsissa tiimillä on käytössään oma yksityinen kanava, jossa jokaiselle työvaiheelle on tehty oma sisäinen keskustelukanava, joita nimitän tässä nimikkeellä **Lanka**(kanavan sisällä oleva viestintäkanava).
 Lankojen tarkoitus on jakaa informaatiota erilaisiin osa-alueisiin, kuten testaus, frontend ja backend. Tämä auttaa kohdentamaan jaettava informaatiota niille henkilöille, joita asiat koskee. Tällöin myös lanka "Yleinen" ei mene tukkoon ja täyty kaikesta informaatiosta.
 
-Projektin jäsenet kokoontuu maanantaiaamuisin viikkopalaveriin, jossa suunnitellaan tulevan viikon tehtävät ja käydään läpi edellisen viikon tehtävät ja tapahtumat. Projektipäällikkö valmistelee viikkopalaveriin esityslistan ja tästä määräytyy myös pitkälti alkava viikkosuunnitelma.
-Viikkopalaverin kulku kirjataan ylös ja se jaetaan viestintäkanavallamme omaan lankaansa, joka on kaikkien tuotantolaisten saatavilla aina teamssissa sille merkityllä langalla. Tämä lanka toimii viikkopalaverien tietokantana.
+Projektin jäsenet kokoontuvat maanantaiaamuisin viikkopalaveriin, jossa suunnitellaan tulevan viikon tehtävät ja käydään läpi edellisen viikon tehtävät ja tapahtumat. Projektipäällikkö valmistelee viikkopalaveriin esityslistan ja tästä määräytyy myös pitkälti alkava viikkosuunnitelma.
+Viikkopalaverin kulku kirjataan ylös ja se jaetaan viestintäkanavallamme omaan lankaansa, joka on kaikkien tuotantolaisten saatavilla aina Teamsissa sille merkityllä langalla. Tämä lanka toimii viikkopalaverien tietokantana.
 
 **sisäisen että ulkoisen viestinnän tukena käytetään seuraavia apuvälineitä:**
 
@@ -55,7 +55,7 @@ Viikkopalaverin kulku kirjataan ylös ja se jaetaan viestintäkanavallamme omaan
 
 # Viestintä toimeksiantajan edustajien kanssa
 
-Projektiryhmän ja toimeksiantajan/tilaanjan välisessä viestinnässä keskeistä on etänä järjestetyt tapaamiset puhelimitse tai esimerkiksi teams palaverin kautta. Tiimin ja tilaajan välistä yhteyttä hoitaa projektipäällikkö Taru, joka on toimeksiantajan ja tiimin välinen yhteyshenkilö.
+Projektiryhmän ja toimeksiantajan/tilaajan välisessä viestinnässä keskeistä on etänä järjestetyt tapaamiset puhelimitse tai esimerkiksi Teams-palaverin kautta. Tiimin ja tilaajan välistä yhteyttä hoitaa projektipäällikkö Taru, joka on toimeksiantajan ja tiimin välinen yhteyshenkilö.
 Toimeksiantajaan ollaan yhteydessä puhelimitse, sähköpostitse ja tilanteesta riippuen tilaajalle sopivalla tavalla.
 
 # Viestintä ulkopuolisten kanssa
