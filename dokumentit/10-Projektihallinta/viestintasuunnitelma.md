@@ -36,7 +36,7 @@ Tämän viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy -proj
 ## Yleiset viestintäkanavat
 
 Projektin aikana viestinnässä on käytössä omat puhelimet, omat tietokoneet ja projektin toteuttajilla myös satunnaisesti koulun tietokoneet.
-Viestintä tapahtuu sähköpostin, puheluiden ja erilaisten virtuaalikanavien kautta, kuten Microsoft Teams.
+Viestintä tapahtuu sähköpostin, puheluiden ja erilaisten virtuaalikanavien kautta, kuten Microsoft Teamsin kautta.
 Projektin jäsenet viestivät keskenään Microsoftin Teams kanavalle luodun yksityisen kanavan välityksellä. Myös tiimin palaverit ym. yhteisen viestintätilaisuudet hoidetaan tätä kautta.
 
 ## Sisäinen viestintä
