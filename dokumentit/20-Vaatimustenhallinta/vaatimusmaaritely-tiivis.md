@@ -142,7 +142,7 @@ Planeetta.fi:stä tulee tieto. Tämä ominaisuus ilmaisee järjestelmän tallenn
 
 ## 3.8 Yhteensopivuus 
 
-Pitää toimia "browser which supports React/JavaScript", backend: Flask 
+Pitää toimia "browser which supports React/JavaScript", backend: Flask.
 
 ## 3.9 Käytettävyys 
 
