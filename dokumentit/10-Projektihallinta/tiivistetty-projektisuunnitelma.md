@@ -85,8 +85,8 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 +++ Kaikilla on osaamista eri osa-alueista
 +++ Kaikki tuntee ainakin jotenkin toisiaan
 ++ HEIKKOUDET
-+++ Aikalailla kaikki on ekaa kertaa toteuttamassa ohjelmisto projektia
-+++ Ammattitaidon puute / ollaan amatöörejä
++++ Aikalailla kaikki on ekaa kertaa toteuttamassa ohjelmistoprojektia
++++ Ammattitaidon puute / olemme amatöörejä
 ++ MAHDOLLISUUDET
 +++ Mahdollisuus oppia suuri määrä uutta
 +++ Mahdollisuus oppia eri työvaiheista ja olla mukana eri työvaiheissa
@@ -106,20 +106,20 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 
 <!-- Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita?-->
 
-Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita missä emme osaa mennä eteenpäin tai muita ongelmia, olemme ongelmasta riippuen yhteydessä yritykseen tai opettajiin.
+Pyrimme toteuttamaan projektin täysin projektitiimillä. Jos tulee tilanteita, missä emme osaa mennä eteenpäin tai muita ongelmia, olemme ongelmasta riippuen yhteydessä yritykseen tai opettajiin.
 
 **Projektin eri osapuolet ja jäsenet**
 
 | Nimi | Vastuu | Organisaatio |
 |:-:|:-:|:-:|
-| Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava |
-| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava |
-| Miika Toukola | UI Suunnittelu, Frontend | Dynamiitti Orava |
-| Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiitti Orava |
-| Joni Peltomäki | Frontend | Dynamiitti Orava |
-| Jose Toivainen | Backend | Dynamiitti Orava |
-| Jari Blomroos | QA Testaus | Dynamiitti Orava |
-| Daniela Ferretti | QA Testaus | Dynamiitti Orava |
+| Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiittiorava |
+| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiittiorava |
+| Miika Toukola | UI Suunnittelu, Frontend | Dynamiittiorava |
+| Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiittiorava |
+| Joni Peltomäki | Frontend | Dynamiittiorava |
+| Jose Toivainen | Backend | Dynamiittiorava |
+| Jari Blomroos | QA Testaus | Dynamiittiorava |
+| Daniela Ferretti | QA Testaus | Dynamiittiorava |
 | Jouni Huotari | Opettaja | JAMK |
 | Maarit Salo | Opettaja | JAMK |
 | Marko Rintamäki | Opettaja | JAMK / Wimma Lab |
@@ -136,7 +136,7 @@ Pyrimme toteuttamaan projektin täysin projekti tiimillä. Jos tulee tilanteita 
 @startmindmap
 * Grafiteam Oy
 ** Nettisivut
-*** Dynamiitti Orava; Projekti tiimi
+*** Dynamiittiorava; Projektitiimi
 **** Määrittely
 ***** Niko, Projektin hallinnointi
 ***** Taru, Projektipäällikkö
@@ -174,8 +174,8 @@ Työstä emme veloita mitään asiakkaalta, koska teemme kouluprojektia ja täm�
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
-Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](viestintasuunnitelma.md). Palavereita pidetään yksi suurempi viikossa, jossa on koko projekti tiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
-Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveri tiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
+Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](viestintasuunnitelma.md). Palavereita pidetään yksi suurempi viikossa, jossa on koko projektitiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
+Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveritiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
 Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä alla olevan GANTT diagrammin avulla.
 
 ## 2.6. Projektin päättyminen
@@ -232,7 +232,7 @@ Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projekti
 
 * [Etappi 0 - Aloitus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/2#tab-issues)
 
-Projektin aloitus etappi. Aloituksessa käytiin työnjakoa, pienryhmien perustamista läpi. Pohdittiin yhteispalaveri aikataulutusta ja työaikoja. Sovittiin, että tehdään OPF kehikkoa hyödyntäen projektille ns hallintapaneeli ja myös toinen repositorio projektin kehitykselle. Määrittely aloitettiin myös jo tämän etapin aikana.
+Projektin aloitusetappi. Aloituksessa käytiin työnjakoa, pienryhmien perustamista läpi. Pohdittiin yhteispalaveri aikataulutusta ja työaikoja. Sovittiin, että tehdään OPF kehikkoa hyödyntäen projektille ns hallintapaneeli ja myös toinen repositorio projektin kehitykselle. Määrittely aloitettiin myös jo tämän etapin aikana.
 
 <!--esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
 >Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
@@ -240,7 +240,7 @@ Projektin aloitus etappi. Aloituksessa käytiin työnjakoa, pienryhmien perustam
 
 * [Etappi 1 - Määrittely](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/3#tab-issues)
 
-Varsinainen määrittely etappi. Tässä etapissa käytiin yleisesti määrityksiä läpi. Laadittiin projektisuunnitelma ja vaatimusmäärittelyä. Tutustuttiin asiaakkaaseen ja asiakkaan laatimaa toimeksiantoa alettiin käsittelemään ja purkamaan. Määrittely jatkui tämän etapin aikana ja tulee jatkumaan liukuvasti myös tarpeen niin vaatiessa edemmäs. 
+Varsinainen määrittelyetappi. Tässä etapissa käytiin yleisesti määrityksiä läpi. Laadittiin projektisuunnitelma ja vaatimusmäärittelyä. Tutustuttiin asiaakkaaseen ja asiakkaan laatimaa toimeksiantoa alettiin käsittelemään ja purkamaan. Määrittely jatkui tämän etapin aikana ja tulee jatkumaan liukuvasti myös tarpeen niin vaatiessa edemmäs. 
 
 
 * [Etappi 2 - Suunnittelu](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/4#tab-issues)
@@ -249,11 +249,11 @@ Projektin suunnittelussa on otettu huomioon monta erilaista vaikuttavaa tekijä�
 
 * [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
 
-Toteutus on saatusille mallille, että testausryhmä voi alkaa testaamaan toimivuutta ja tuotteen laatua.
+Toteutus on saatu sille mallille, että testausryhmä voi alkaa testaamaan toimivuutta ja tuotteen laatua.
 
 * [Etappi 4 - Testaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
 
-Testiryhmä on saanut tuotteen ns läpi testistään ja se voi edetä hyväksyntätestauskeen.
+Testiryhmä on saanut tuotteen ns. läpi testistään ja se voi edetä hyväksyntätestaukseen.
 
 * [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
 
@@ -266,7 +266,7 @@ Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydää
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
-## 3.2 Projektin alustavat kustannusarvio
+## 3.2 Projektin alustavat kustannusarviot
 
 ![](../assets/work-to-do.png)
 
@@ -290,16 +290,16 @@ Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydää
 
 ## 4.3 Dokumentointi
 
-Dokumentointi tapahtuu tänne OPF kehikkoon ja myös projektiryhmän teams kanavalle.
-Teams kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
-Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitelma jne dokumentoidaan tänne OPF kehikkoon omiin kansio rakenteisiinsa.
+Dokumentointi tapahtuu tänne OPF-kehikkoon ja myös projektiryhmän Teams-kanavalle.
+Teams-kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
+Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitelma jne. dokumentoidaan tänne OPF-kehikkoon omiin kansiorakenteisiinsa.
 
 ## 4.4 Riskien hallinta
 
 <!-- >>Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
 >Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa. -->
 
-Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niinsanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym suuremmat ja todella epätodennäköiset riskit.
+Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niin sanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym. suuremmat ja todella epätodennäköiset riskit.
 
 Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/riskitaulukko/)
 
