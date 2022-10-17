@@ -19,7 +19,7 @@ Alla olevasta taulukosta voi tarkastella projektiin kuuluvia riskejä. Riskeill�
 
 ## Vakauvuusluokat ja todennäköisyydet
 
-**Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla**
+**Vakavuusluokka kannattaa määritellä projektille sopivalla tavalla.**
 
 | Vakavuusluokka | kuvaus |
 |:----:|:----:|
