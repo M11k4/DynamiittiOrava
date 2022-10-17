@@ -12,7 +12,7 @@
 
 ## 1.1 Tarkoitus 
 
-Tarkoituksena on luoda päivitetyt verkkosivut, josta yrityksen asiakkaat löytävät tietoa yrityksestä ja voivat jättää yhteydenotto pyynnön. Yhteydenotto lähtee sähköpostina (STMP) toimeksiantajan haluamaan sähköpostiosoitteeseen. 
+Tarkoituksena on luoda päivitetyt verkkosivut, josta yrityksen asiakkaat löytävät tietoa yrityksestä ja voivat jättää yhteydenottopyynnön. Yhteydenotto lähtee sähköpostina (STMP) toimeksiantajan haluamaan sähköpostiosoitteeseen. 
 
 ## 1.2 Määritelmä 
 
@@ -25,7 +25,7 @@ Tämä dokumentti on tarkoitettu ensisijaisesti projektista vastaaville yritykse
 - Asiakas – yrityksen asiakas 
 - SMTP - Simple Mail Transfer Protocol  
 - Toimeksiantaja – työn tilaaja 
-- Tekijät - Dynamiitti oravan henkilöstö 
+- Tekijät - Dynamiittioravan henkilöstö 
 - Poweruser - oikeudet antaa käyttöoikeuksia 
 - Ylläpito-oikeus – saa lisätä, poistaa ja muokata sisältöä 
 - Selaaja – ei saa lisätä, poistaa ja muokata sisältöä vain lukuoikeus 
@@ -35,7 +35,7 @@ Tämä dokumentti on tarkoitettu ensisijaisesti projektista vastaaville yritykse
 
 ## 1.3 Rajaukset  
 
-Koska yhteydenotto käyttää SMTP:tä ei tietokantaa tarvita. Rajapintoja/liittymiä ei tehdä muihin järjestelmiin. 
+Koska yhteydenotto käyttää SMTP:tä, ei tietokantaa tarvita. Rajapintoja/liittymiä ei tehdä muihin järjestelmiin. 
 
 ## 1.4 Johtoryhmä 
 
@@ -77,7 +77,7 @@ Koska yhteydenotto käyttää SMTP:tä ei tietokantaa tarvita. Rajapintoja/liitt
 
 ## 2.3 Valtuutustietojen tasot 
 
-Verkkosivujen luonnin ajaksi projektipäälliköllä on poweruser käyttöoikeudet. Dynamiitti oravan muulla henkilöstöllä on ylläpito-oikeudet. 
+Verkkosivujen luonnin ajaksi projektipäälliköllä on poweruser-käyttöoikeudet. Dynamiittioravan muulla henkilöstöllä on ylläpito-oikeudet. 
 
 ## 2.4 Valvonnan seuranta ja arkistointi 
 
@@ -95,7 +95,7 @@ Vasteaika katso **3.3 Vasteaika **
 
 ## 2.7 Varmuuskopiointi ja palautus 
 
-Palnetta.fi löytyy palvelu varmuuskopiointia varten. 
+Planeetta.fi:stä löytyy palvelu varmuuskopiointia varten. 
 
 
 # 3 Ei-toiminnallinen määrittely 
@@ -104,7 +104,7 @@ Palnetta.fi löytyy palvelu varmuuskopiointia varten.
 
 ### Suorituskykyyn vaikuttavat asiat: 
 
-- Laite millä sivua käytetään 
+- Laite, millä sivua käytetään 
 - Verkkoyhteys 
 - Datan määrä 
 
@@ -126,11 +126,11 @@ Lomakekentät on oltava selkeästi rajatut.
 
 ## 3.5 Palautuvuus 
 
-Palautettavuus hyvä. Planeetta.fi palvelu hoitaa. 
+Palautettavuus hyvä. Planeetta.fi:n palvelu hoitaa. 
 
 ## 3.6 Kapasiteetti 
 
-Planeetta.fi tulee tieto. Tämä ominaisuus ilmaisee järjestelmän tallennuskapasiteetin, joka riippuu sen tyypistä ja ominaisuuksista.  
+Planeetta.fi:stä tulee tieto. Tämä ominaisuus ilmaisee järjestelmän tallennuskapasiteetin, joka riippuu sen tyypistä ja ominaisuuksista.  
 
 ## 3.7 Ympäristö 
 
@@ -142,13 +142,13 @@ Planeetta.fi tulee tieto. Tämä ominaisuus ilmaisee järjestelmän tallennuskap
 
 ## 3.8 Yhteensopivuus 
 
-Pitää toimi A browser which supports React/JavaScript, bacend: Flask 
+Pitää toimia "browser which supports React/JavaScript", backend: Flask 
 
 ## 3.9 Käytettävyys 
 
 Käytettävyys sisältää osia **3.4 Saavutettavuus. ** 
 
-Sivun käytettävyys tulisi olla helppoa, helposti muistettava ja miellyttävä. 
+Sivun käytettävyys tulisi olla helppoa, helposti muistettavaa ja miellyttävää. 
 
 Sivun tulisi olla ymmärrettävää ja selkeää kieltä. Sivua tulisi pystyä käyttämään näppäinkomennoilla. Virheilmoitus esim. lomakkeen syötössä pitäisi ilmaista myös toisella tavalla kuin pelkästään punaisella reunalla (puna-vihersokeus).  
 
@@ -156,7 +156,7 @@ Käytettävyystestaus on suoritettava ennen sivuston julkaisua.
 
 ## 3.10 Tietoturva 
 
-SSL-sertifikaatti löytyy asiakkaan käyttämältä web hosting palvelusta. Katso kohta **2.6 Sertifiointivaatimukset.**  
+SSL-sertifikaatti löytyy asiakkaan käyttämästä web hosting -palvelusta. Katso kohta **2.6 Sertifiointivaatimukset.**  
 
 Sähköpostin lähettämistä varten tulee Captcha tai jokin vastaava. 
 
@@ -166,25 +166,25 @@ Sähköpostin lähettämistä varten tulee Captcha tai jokin vastaava.
 
 Kävijäprofilointi voidaan käsittää tarvetta etsiviin ihmisiin. Tämä voidaan jakaa kahteen eri ryhmään.
 
-- Yritys asiakkaat
+- Yritysasiakkaat
 - Yksityiset asiakkaat
 
 Jokainen kävijä on mahdollinen asiakas. 
 
-## 4.2 Yritys asiakkaat
+## 4.2 Yritysasiakkaat
 
-Yritys asiakkaat hankkivat palveluita pääsääntöisesti oman yritystoimintansa tueksi. Yritysasiakkailla tilatun tuotteen käyttötarkoitus on markkinoida omia tuotteita tai palveluita. Yritys asiakkaat saattavat tilata myös huomattavasti suurempia määriä, kuin yksityiset asiakkaat. Tietenkin myös löytyy poikkeuksia.
+Yritysasiakkaat hankkivat palveluita pääsääntöisesti oman yritystoimintansa tueksi. Yritysasiakkailla tilatun tuotteen käyttötarkoitus on markkinoida omia tuotteita tai palveluita. Yritysasiakkaat saattavat tilata myös huomattavasti suurempia määriä, kuin yksityiset asiakkaat. Tietenkin löytyy myös poikkeuksia.
 
 ## 4.3 Yksityiset asiakkaat
 
-Yksityiset asiakkaat hankkivat palveluita yksityiselämään esimerkiksi koristeellisista syistä, kuten erilaiset kutsukortit, veneiden teippaukset etc. Voi löytyä tottakai poikkeuksia. 
+Yksityiset asiakkaat hankkivat palveluita yksityiselämään esimerkiksi koristeellisista syistä, kuten erilaiset kutsukortit, veneiden teippaukset jne. Voi löytyä tottakai poikkeuksia. 
 
 ## 4.4 Ikä profilointi
 
-### Yritys asiakkaiden ikä arvio
+### Yritysasiakkaiden ikä arvio
 - 25 - 64 vuotta
 
-### Yksityis asiakkaiden ikä arvio
+### Yksityisasiakkaiden ikä arvio
 - 18 - 74 vuotta
 
 
