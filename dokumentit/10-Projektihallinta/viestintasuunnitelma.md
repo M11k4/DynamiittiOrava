@@ -3,7 +3,7 @@
 
 #	Johdanto
 
-Tämän viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy projektin yhteydessä käytetyt viestintämenetelmät ja kanavat.
+Tämän viestintäsuunnitelman tarkoituksena on määritellä Grafiteam Oy -projektin yhteydessä käytetyt viestintämenetelmät ja kanavat.
 
 #	Projektin osapuolet
 
