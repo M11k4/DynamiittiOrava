@@ -6,24 +6,23 @@
 * [Tiimin esittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
 * [Issue lista](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues)
 
-## Projektitilanne sprint/viikolla 5,  10.10.2022 - 16.10.2022**
+## Projektitilanne sprint/viikolla 6,  17.10.2022 -24.10.2022**
 
-Tämän viikon sprintti: [Sprintti 5](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/6#tab-issues)
+Tämän viikon sprintti: [Sprintti 6](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/7#tab-issues)
 
-Suunnittelu on edistynyt ja edistyy kokoajan. Toteutus on kuitenkin jo aloitettu ja ensimmäiset koodit on kirjoitettu. Suunnittelu/frontend tiimi on jakanut tuotannon sisäisesti kolmeen ja jokaisella ryhmän sisällä on omat tehtäväalueensa.
+Suunnittelutiimi on tehnyt figmalla visuaalisen suunnitelman sivun ulkoasusta ja ovat jakaneet pienryhmässä jokaiselle ryhmäläiselle omat tehtäväpaketit mitä tehdä. 
 
 **Mitä on sprintin/viikon aikana saavutettu?**
 
-Mitä ovat saatu aikaan? Mikä toimii? Mitä viety testattu tai viety tuotantoon?
+Edellisen viikon aikana on edistetty projektia ja saatu sitä eteenpäin runsaasti.
 
 **Millaisia haasteita on tullut eteen?**
-- Asiakas ei ole toimittanut tarpeellisia informaatioita projektin etenemisen kannalta ja odotetaan vastausta, että pääsemme etenemään. Taustalla pystymme kuitenkin jatkamaan suunnittelua ja toteutusta.
+- Asiakas ei ole toimittanut vieläkään tarvittavia tunnuksia ja salasanoja ja tämä hidastaa edistymistä ja projektin etenemistä.
+- Projektin aikana on käynyt maanantain palaverissa 17.10 ilmi, että sovitut deadlinet on pakko tehdä, jotta päästään eteenpäin.
+- Tiedon kulku ei ehkä toimi odotetulla tavalla.
 
 **Seuraavat askeleet**
-Seuraavan viikon sprintti: [Sprintti 6](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/7#tab-issues)
-- Suunnittelua
-- Toteuttamista
-- Informaation odottelua
+Ensisijaisesti lähdetään korjaamaan haasteita ja viedään projektia eteenpäin. Nyt olisi tärkeetä saada projektin tuotanto kunnolla liikkeelle, jotta saadaan testaukseen pikkuhiljaa sisältöä. 
 
 
 
