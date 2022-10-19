@@ -17,11 +17,13 @@ Suunnittelutiimi on tehnyt figmalla visuaalisen suunnitelman sivun ulkoasusta ja
 Edellisen viikon aikana on edistetty projektia ja saatu sitä eteenpäin runsaasti.
 
 **Millaisia haasteita on tullut eteen?**
+
 - Asiakas ei ole toimittanut vieläkään tarvittavia tunnuksia ja salasanoja ja tämä hidastaa edistymistä ja projektin etenemistä.
 - Projektin aikana on käynyt maanantain palaverissa 17.10 ilmi, että sovitut deadlinet on pakko tehdä, jotta päästään eteenpäin.
 - Tiedon kulku ei ehkä toimi odotetulla tavalla.
 
 **Seuraavat askeleet**
+
 Ensisijaisesti lähdetään korjaamaan haasteita ja viedään projektia eteenpäin. Nyt olisi tärkeetä saada projektin tuotanto kunnolla liikkeelle, jotta saadaan testaukseen pikkuhiljaa sisältöä. 
 
 
