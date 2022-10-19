@@ -249,15 +249,15 @@ Projektin suunnittelussa on otettu huomioon monta erilaista vaikuttavaa tekijä�
 
 * [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
 
-Toteutus on saatu sille mallille, että testausryhmä voi alkaa testaamaan toimivuutta ja tuotteen laatua.
+Toteutus jatkuu tästä etapista vielä eteenpäin. Etappi on enemmänkin ns hot spot, jossa ollaan saatu tuote sellaiseen muotoon, että se voi edetä ensimmäisiin testauksiin. Tässä vaiheessa tuotteen olisi oltava jo sillä mallilla, että siitä hahmottuu lopputulos, mutta lopullisessa olomuodossaan sen ei vielä tarvitse olla. 
 
 * [Etappi 4 - Testaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
 
-Testiryhmä on saanut tuotteen ns. läpi testistään ja se voi edetä hyväksyntätestaukseen.
+Tässä etapissa ollaan saatu tarkistettua tuotteen toiminnallisuus ja isoimpana testauksen kriteerinä on, että kaikki toiminnallisuus toimii ja kaikki vaatimusmäärittelyssä läpi käydyt elementit löytyy tuotteesta. Tarkennettuna tuotteen sisäiset ominaisuudet kaikki toimivat niinkuin ne on suunniteltu toimivan.
 
 * [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
 
-Hyväksyntätestaus on mennyt läpi ja tuote on testattu ja todettu toimivaksi ja laadukkaaksi sekä vaatimusmäärittelyn mukaiseksi.
+Hyväksyntätestaus on toiminnallisuuden kriteereihin liittyvä etappi. Tässä vaiheessa tuote on läpäissyt vaatimus kriteerit, jotka on vaatimusmäärittelyssä annettu. Esimerkiksi tuotteen toimintavarmuus ja vasteaika on mentävä dokumentissa olevien arvojen sisään.
 
 * [Etappi 6 - Luovutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
 
@@ -268,7 +268,6 @@ Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydää
 
 ## 3.2 Projektin alustavat kustannusarviot
 
-![](../assets/work-to-do.png)
 
 ## 4. Laadunvarmistus
 
