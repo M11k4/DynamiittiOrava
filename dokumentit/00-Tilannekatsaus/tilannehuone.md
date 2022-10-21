@@ -16,6 +16,8 @@ Suunnittelutiimi on tehnyt figmalla visuaalisen suunnitelman sivun ulkoasusta ja
 
 Edellisen viikon aikana on edistetty projektia ja saatu sitä eteenpäin runsaasti.
 
+Tällä viikolla on saatu selvyyttä aikataulutukseen ja sprinttien deadlaineihin. Nyt ollaan enemmän selvillä mitä tehdään ja milloin ja mitä täytyy olla valmiina mihinkin aikamääreisiin mennessä. Myös asiakas on toimittanut meille tunnukset, mutta jäi toimittamatta osoite, jossa tunnuksia voi käyttää.
+
 **Millaisia haasteita on tullut eteen?**
 
 - Asiakas ei ole toimittanut vieläkään tarvittavia tunnuksia ja salasanoja ja tämä hidastaa edistymistä ja projektin etenemistä.
@@ -25,6 +27,8 @@ Edellisen viikon aikana on edistetty projektia ja saatu sitä eteenpäin runsaas
 **Seuraavat askeleet**
 
 Ensisijaisesti lähdetään korjaamaan haasteita ja viedään projektia eteenpäin. Nyt olisi tärkeetä saada projektin tuotanto kunnolla liikkeelle, jotta saadaan testaukseen pikkuhiljaa sisältöä. 
+
+Tiedonkulkua käsitellään ensiviikolla maanantaina kokouksessa.
 
 
 
