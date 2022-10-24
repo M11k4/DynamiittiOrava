@@ -6,30 +6,29 @@
 * [Tiimin esittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
 * [Issue lista](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues)
 
-## Projektitilanne sprint/viikolla 6,  17.10.2022 -24.10.2022**
+## Projektitilanne sprint/viikolla 7,  24.10.2022 31.10.2022**
 
-Tämän viikon sprintti: [Sprintti 6](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/7#tab-issues)
+Tämän viikon sprintti: [Sprintti 7 - E3](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
 
-Suunnittelutiimi on tehnyt figmalla visuaalisen suunnitelman sivun ulkoasusta ja ovat jakaneet pienryhmässä jokaiselle ryhmäläiselle omat tehtäväpaketit mitä tehdä. 
+Projektin tilanne on hyvä. Toteutus on siinä pisteessä, että figman havainnollistava kuvaus tuotteesta esitellään asiakkaalle ja hyväksytetään sen kokonaisuus ja ulkoasu. Tämä kun on saatu tehtyä niin toteutus tiimi pääsee viimeistelemään rakenteet sivustolle.
+
+Testaus tiimi pääsee aloittamaan projektin eri "palasien" testauksen tällä viikolla. Projekti tiimin edistymisen mukana testaus tiimi saa tehtävää edistymisen edetessä.
 
 **Mitä on sprintin/viikon aikana saavutettu?**
 
+- Maanantain viikkopalaveri pidetty ja ollaan hyvällä mallilla.
+- Edellisviikko käytiin läpi ja tämän viikon tehtäviä käytiin läpi.
+
 Edellisen viikon aikana on edistetty projektia ja saatu sitä eteenpäin runsaasti.
 
-Tällä viikolla on saatu selvyyttä aikataulutukseen ja sprinttien deadlaineihin. Nyt ollaan enemmän selvillä mitä tehdään ja milloin ja mitä täytyy olla valmiina mihinkin aikamääreisiin mennessä. Myös asiakas on toimittanut meille tunnukset, mutta jäi toimittamatta osoite, jossa tunnuksia voi käyttää.
+- Deadlineihin saatiin selvyyttä ja aikataulutusta on käyty läpi tiimin kesken ja ongelmakohtiin löydetty selkeyttä ja saatu ratkaisuja.
 
 **Millaisia haasteita on tullut eteen?**
 
-- Asiakas ei ole toimittanut vieläkään tarvittavia tunnuksia ja salasanoja ja tämä hidastaa edistymistä ja projektin etenemistä.
-- Projektin aikana on käynyt maanantain palaverissa 17.10 ilmi, että sovitut deadlinet on pakko tehdä, jotta päästään eteenpäin.
-- Tiedon kulku ei ehkä toimi odotetulla tavalla.
+- Ei toistaiseksi isompia haasteita.
 
 **Seuraavat askeleet**
 
-Ensisijaisesti lähdetään korjaamaan haasteita ja viedään projektia eteenpäin. Nyt olisi tärkeetä saada projektin tuotanto kunnolla liikkeelle, jotta saadaan testaukseen pikkuhiljaa sisältöä. 
-
-Tiedonkulkua käsitellään ensiviikolla maanantaina kokouksessa.
-
-
-
-
+- Odotetaan asiakkaan vastaus figman esittelyyn.
+- Lyödään toteutuksen viimeiset issuet lukkoon.
+- Testaus alkaa
