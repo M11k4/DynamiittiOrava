@@ -293,6 +293,8 @@ Dokumentointi tapahtuu tänne OPF-kehikkoon ja myös projektiryhmän Teams-kanav
 Teams-kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
 Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitelma jne. dokumentoidaan tänne OPF-kehikkoon omiin kansiorakenteisiinsa.
 
+Projektin toteutukselle on oma reposiorionsa, jonne tallennetaan projektiin liittyvää koodia, kuvia ym!
+
 ## 4.4 Riskien hallinta
 
 <!-- >>Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
@@ -310,7 +312,9 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](http
 
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
+* [Projektisuunnitelma](tiivistetty-projektisuunnitelma.md)
 * [Vaatimusmäärittely](vaatimusmaarittely-tiivis.md)
+* [Toteutussuunnitelma](arkkitehtuuri-ja-tekninentoteutus.md)
 * [Viestintäsuunnitelma](viestintasuunnitelma.md)
 * [Riskihallintasuunnitelma](riskitaulukko.md)
 
