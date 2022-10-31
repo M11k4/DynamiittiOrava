@@ -12,7 +12,7 @@
 
 ## 1.1 Tarkoitus 
 
-Tarkoituksena on luoda päivitetyt verkkosivut, josta yrityksen asiakkaat löytävät tietoa yrityksestä ja voivat jättää yhteydenottopyynnön. Yhteydenotto lähtee sähköpostina (STMP) toimeksiantajan haluamaan sähköpostiosoitteeseen. 
+Tarkoituksena on luoda päivitetyt verkkosivut, josta yrityksen asiakkaat löytävät tietoa yrityksestä ja voivat ottaa yhteyttä yritykseen puhelimitse sekä sähköpostitse.  
 
 ## 1.2 Määritelmä 
 
@@ -22,20 +22,18 @@ Tämä dokumentti on tarkoitettu ensisijaisesti projektista vastaaville yritykse
 
 - Käyttäjä – yrityksen asiakas 
 - Ylläpitäjä – henkilö, jolla on oikeudet luoda, muuttaa ja poistaa järjestelmän tietoja 
-- Asiakas – yrityksen asiakas 
-- SMTP - Simple Mail Transfer Protocol  
+- Asiakas – yrityksen asiakas   
 - Toimeksiantaja – työn tilaaja 
 - Tekijät - Dynamiittioravan henkilöstö 
 - Poweruser - oikeudet antaa käyttöoikeuksia 
 - Ylläpito-oikeus – saa lisätä, poistaa ja muokata sisältöä 
 - Selaaja – ei saa lisätä, poistaa ja muokata sisältöä vain lukuoikeus 
 - SLL - Secure sockets layer 
-- CAPTCHA - Completely Automated Public Turing test to tell Computers and Humans Apart 
 
 
 ## 1.3 Rajaukset  
 
-Koska yhteydenotto käyttää SMTP:tä, ei tietokantaa tarvita. Rajapintoja/liittymiä ei tehdä muihin järjestelmiin. 
+Rajapintoja/liittymiä ei tehdä muihin järjestelmiin. 
 
 ## 1.4 Johtoryhmä 
 
@@ -66,13 +64,10 @@ Koska yhteydenotto käyttää SMTP:tä, ei tietokantaa tarvita. Rajapintoja/liit
 
 **p02.** Yhteystietolomakkeeseen tarvitaan asiakkaan nimi, puhelin, sähköposti ja viesti. 
 
-**p03.** Käytetään SMTP lomakkeentietojen (p02) lähettämiseen.  
 
 ## 2.2 Tärkeät ominaisuudet 
 
 **T01.** Linkit Instagramiin ja Facebookiin, josta näkee yrityksen ottamia kuvia ja saa ajantasaistatietoa.  
-
-**T02.** Lomakkeeseen pyydettävät tieto-otsikot on oltava kentän ulkopuolella. 
 
 
 ## 2.3 Valtuutustietojen tasot 
@@ -89,13 +84,9 @@ SSL Löytyy ja se on Let’s encryptin kautta.
 
 ## 2.6 Vaatimustenmukaisuus-, laki- tai sääntelyvaatimukset 
 
-Evästeet – Ilmoitus sivulle, että se käyttää evästeitä, hyväksyntä ja muokkaukset evästeisiin tai tarjotaan vaihtoehtoa hyväksyä vain pakolliset evästeet. Meillä ei ole tarvetta evästeilmoitukselle, jos ei ole tiedon keräämistä. 
+Evästeet – Ilmoitus sivulle, että se käyttää evästeitä, hyväksyntä ja muokkaukset evästeisiin tai tarjotaan vaihtoehtoa hyväksyä vain pakolliset evästeet.
 
 Vasteaika katso **3.3 Vasteaika **
-
-## 2.7 Varmuuskopiointi ja palautus 
-
-Planeetta.fi:stä löytyy palvelu varmuuskopiointia varten. 
 
 
 # 3 Ei-toiminnallinen määrittely 
@@ -122,17 +113,12 @@ Vasteaika saa olla korkeintaan 2 sekuntia sivuston valinnan jälkeen.
 
 Sivun sisällön tulisi olla saavutettavissa ainakin yhden käyttäjän aistin avulla. Kuvat ja ei-tekstisisältöiset kuvailtaisiin vaihtoehtoisesti tekstillä näkövammaisia käyttäjiä varten. Sivun tulisi olla ymmärrettävää ja selkeää kieltä. Verkkosivun tulisi toimia eri alustoilla, selaimilla ja laitteilla, mukaan lukien avustava teknologia. Tekstin ja taustavärin konstraktin pitää olla selkeä ja olla vähintään saatavuusvaatimuksen tasoa 4,5-1 vaatimustaso AA. 
 
-Lomakekentät on oltava selkeästi rajatut. 
 
-## 3.5 Palautuvuus 
-
-Palautettavuus hyvä. Planeetta.fi:n palvelu hoitaa. 
-
-## 3.6 Kapasiteetti 
+## 3.5 Kapasiteetti 
 
 Planeetta.fi:stä tulee tieto. Tämä ominaisuus ilmaisee järjestelmän tallennuskapasiteetin, joka riippuu sen tyypistä ja ominaisuuksista.  
 
-## 3.7 Ympäristö 
+## 3.6 Ympäristö 
 
 ### Asiat, jotka vaikuttavat käytettävyyteen: 
 
@@ -140,11 +126,11 @@ Planeetta.fi:stä tulee tieto. Tämä ominaisuus ilmaisee järjestelmän tallenn
 - Luonnonkatastrofit, ilmastonmuutos 
 - Tietomurto/ kyberhyökkäys
 
-## 3.8 Yhteensopivuus 
+## 3.7 Yhteensopivuus 
 
-Pitää toimia "browser which supports React/JavaScript", backend: Flask.
+Pitää toimia selaimella, joka tukee Reactia ja JavaScriptiä.
 
-## 3.9 Käytettävyys 
+## 3.8 Käytettävyys 
 
 Käytettävyys sisältää osia **3.4 Saavutettavuus. ** 
 
@@ -154,11 +140,10 @@ Sivun tulisi olla ymmärrettävää ja selkeää kieltä. Sivua tulisi pystyä k
 
 Käytettävyystestaus on suoritettava ennen sivuston julkaisua. 
 
-## 3.10 Tietoturva 
+## 3.9 Tietoturva 
 
 SSL-sertifikaatti löytyy asiakkaan käyttämästä web hosting -palvelusta. Katso kohta **2.6 Sertifiointivaatimukset.**  
 
-Sähköpostin lähettämistä varten tulee Captcha tai jokin vastaava. 
 
 # 4 Kohderyhmät
 
@@ -178,13 +163,5 @@ Yritysasiakkaat hankkivat palveluita pääsääntöisesti oman yritystoimintansa
 ## 4.3 Yksityiset asiakkaat
 
 Yksityiset asiakkaat hankkivat palveluita yksityiselämään esimerkiksi koristeellisista syistä, kuten erilaiset kutsukortit, veneiden teippaukset jne. Voi löytyä tottakai poikkeuksia. 
-
-## 4.4 Ikä profilointi
-
-### Yritysasiakkaiden ikä arvio
-- 25 - 64 vuotta
-
-### Yksityisasiakkaiden ikä arvio
-- 18 - 74 vuotta
 
 
