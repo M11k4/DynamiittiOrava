@@ -5,7 +5,7 @@
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko |
 | Versio: | 0.5 |
-| Päivämäärä: | 4.10.2022 |
+| Päivämäärä: | 2.11.2022 |
 
 
 ## 1. Toimeksianto 
@@ -13,15 +13,6 @@
 Grafiteam Oy:lle tuotamme uudet nettisivut Dynamiittiorava-tiimin toimesta. Nettisivujen toteutukseen annettiin tiimille avoimet kädet ja tällä tavalla sivut myös lähdemme toteuttamaan.
 
 ## 1.1 Tausta ja lähtökohdat
-
-<!--Kuvataan toimeksiantoa lyhyesti johdannon muodossa. Tarpeen mukaan ohjataan lukijaa tutustumaan tarvittaessa tarkemmin vaatimusmäärittelydokumenttiin.
->Projektin tavoitteena on pyrkiä yhdistämään .... on tarve kehittää” < kohdetta>… 
->Projekti toteutetaan Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS2070> ‑opintojakson puitteissa. 
->Kohde on usein laajempi käsite kuin varsinainen projektille määriteltävä tehtävä. Kohde kuvaa selkeällä tavalla, usein graafiseen esitykseen tukeutuen,
->millaisesta järjestelmäkokonaisuudesta tai toiminnasta on kyse, johon ollaan tekemässä nyt projektissa jotain osakokonaisuutta/täydennystä. 
->Tässä siis kuvataan nykyjärjestelmää ja asiakkaan nykyistä toimintatapaa.-->
-
-<!--https://ttc2070.pages.labranet.jamk.fi/fi/5-Harjoitusteht%C3%A4v%C3%A4t/toimeksianto0/-->
 
 Dynamiittiorava-tiimi lähtee luomaan ja kehittämään asiakastyönä [**Grafiteam Oy**](https://www.grafiteam.fi/):lle uusia ja parempia nettisivuja. Projekti toteutetaan TE-palveluiden sekä JAMK:in järjestämän opintokokonaisuuden harjoittelujaksolla.
 Projektin tarkoituksena on saada asiakkaan nettisivut toimimaan paremmin ja tehtyä ne asiakasta miellyttäväksi kokonaisuudeksi. Nettisivut toteutetaan asiakkaan haluamalla tavalla, mutta olemme saaneet vapaat kädet toteuttamiseen. Tässä tarkoitamme sitä, että kuuntelemme kaikkia asiakkaan toiveita ja vaatimuksia, mutta saamme silti tehdä sivun haluamallamme tavalla.
@@ -38,21 +29,10 @@ Lähtökohtamme on siis se, että meillä on valmis sivu, josta saamme paljon vi
 
 ## 1.2 Tavoitteet ja tehtävät
 
-<!-- ”Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.”
-> Tähän voi liittää lähteeksi vaatimusmäärittelyn sisältöä
-> Määritellään työn keskeisin sisältö tässä projektissa; projektin tehtävä liittyy projektin kohteessa kuvattuun kokonaisuuteen. 
-> Mitä toimintaa aiotaan kehittää ja miten?>
-> Visio tulevasta tilasta
-> Mikä on tuotettava lopputulos (konkreettinen)?
-> Mitkä ovat osa- tai välitulokset?
-> Mitä henkilöitä, toimijoita tai ryhmiä liittyy projektiin projektin 
-> Tähän voi liittää Sidosryhmäkuvauksen tai käyttää lähteenä vaatimusmäärittelyä ?
-> Esitellään palvelukuvaus ja sen mahdollinen muutoskohteet projektin myötä-->
-
 Tavoitteena on saada yleinen ilme kotisivuilla paremmaksi toiminnaltaan, selkeäksi ja ammattimaiseksi. Sieltä täytyy löytyä kohderyhmille suunnattu sisältö visuaalisesti näyttävällä tavalla, oli kyseessä yritys tai yksityinen asiakas. Tällä hetkellä nettisivut kaipaavat paljonkin ehostusta ja muutoksia, koska sen toiminta sisältää mm. virheitä ja toimimattomuutta Instagram-päivitysten näkyvyydessä.
-Keskiössä voisi oikeastaan pitää käytettävyyttä sekä kohdennettua tarjontaa, mutta ei liian pitkälle vietynä. Lähinnä tarkastellessa asiakkaan näkökulmasta toivoisi sivulle selkeyttä ja ammattimaisten painotuotteiden tuottavan yrityksen ammattimaista olemusta ja ilmettä. Sivulle mentäessä täytyisi tulla sellainen olo, että se tarjoaa sinulle sen, mitä sieltä lähdit etsimään, ja sitten puhelinnumero ja/tai sähköposti sekä yhteydenotto kenttä/lomake.
+Keskiössä voisi oikeastaan pitää käytettävyyttä sekä kohdennettua tarjontaa, mutta ei liian pitkälle vietynä. Lähinnä tarkastellessa asiakkaan näkökulmasta toivoisi sivulle selkeyttä ja ammattimaisten painotuotteiden tuottavan yrityksen ammattimaista olemusta ja ilmettä. Sivulle mentäessä täytyisi tulla sellainen olo, että se tarjoaa sinulle sen, mitä sieltä lähdit etsimään. Yhdeydenotto lomakkeesta on luovuttu toimeksiantajan pyynnöstä ja yhteystiedot tulevat näkyviin selkeästi.
 
-Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä ja olemusta. Paremmin ilmaistuna tutustua vain yrityksen toimintaan, josta tuossa ylempänä jo aika kattava ja riittävä tietopankki onkin. Tämän kautta päästään määrittelyyn. Määrittelyssä määritetään koko projekti siihen pisteeseen mitä nyt pystyy edes määrittämään vielä tässä vaiheessa. Seuraavana hypätään suunnitteluun. Suunnittelussa otetaan huomioon yrityksen asiakaskunta ja kohderyhmät. Suunnittelussa on myös huomioitava sivuston toteutukseen liittyviä teknisiä toteutuksellisia menetelmiä. Näistä laaditaan mahdollisesti myös oma toteutuksellinen suunnitelma. Seuraavana vuorossa alkaa olemaan itse tuotannollinen vaihe. Suunnittelu elää vielä tässä vaiheessa, kun tuotetta ollaan asiakkaalle toteuttamassa. Sisältö tuotetaan ilmeisesti HTML-koodilla ja CSS-tyylimäärityksillä. Tuotannossa on kuitenkin paljon eri työvaiheita ja en niitä ala tässä erikseen käymään läpi. Lopussa testataan tuotteen toiminnallisuus ja korjataan mahdollisesti korjattavat asiat. Tämän jälkeen työn luovutus asiakkaalle ja sitten loppupalaveri.
+Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä ja olemusta. Paremmin ilmaistuna tutustua vain yrityksen toimintaan, josta tuossa ylempänä jo aika kattava ja riittävä tietopankki onkin. Tämän kautta päästään määrittelyyn. Määrittelyssä määritetään koko projekti siihen pisteeseen mitä nyt pystyy edes määrittämään vielä tässä vaiheessa. Seuraavana hypätään suunnitteluun. Suunnittelussa otetaan huomioon yrityksen asiakaskunta ja kohderyhmät. Suunnittelussa on myös huomioitava sivuston toteutukseen liittyviä teknisiä toteutuksellisia menetelmiä. Näistä laaditaan mahdollisesti myös oma toteutuksellinen suunnitelma. Seuraavana vuorossa alkaa olemaan itse tuotannollinen vaihe. Suunnittelu elää vielä tässä vaiheessa, kun tuotetta ollaan asiakkaalle toteuttamassa. Sisältö tuotetaan täysin itse koodaamalla. Tuotannossa on kuitenkin paljon eri työvaiheita ja en niitä ala tässä erikseen käymään läpi. Lopussa testataan tuotteen toiminnallisuus ja korjataan mahdollisesti korjattavat asiat. Tämän jälkeen työn luovutus asiakkaalle ja sitten loppupalaveri.
 
 
 
@@ -103,8 +83,6 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 ## 2. Projektiorganisaatio
 
 ## 2.1 Organisaation esittely
-
-<!-- Kuka kuuluu projektiorganisaatioon? Onko projektiryhmän/tiimin lisäksi muita toimijoita?-->
 
 Pyrimme toteuttamaan projektin täysin projektitiimillä. Jos tulee tilanteita, missä emme osaa mennä eteenpäin tai muita ongelmia, olemme ongelmasta riippuen yhteydessä yritykseen tai opettajiin.
 
@@ -170,7 +148,7 @@ Työstä emme veloita mitään asiakkaalta, koska teemme kouluprojektia ja täm�
 
 ## 2.4. Laadun varmistus
 
->menetelmät, standardit, hyväksymismenettely, muutosten hallinta, dokumentointi, katselmoinnit, riskien hallinta, muut täydentävät suunnitelmat
+Ylläpitääksemme tiettyä laatua ja linjaa olemme laatineet tietyt pelisäännöt projektiin, joita noudatamme. Tähän liittyen olemme tehneet erilaiset dokumentit, kuten vaatimusmäärittely, dokumentaation pelisäännö, viestintäsuunnitelma jne. Näiden avulla projekti etenee johdonmukaisesti ja projektiin liittyvillä tiedostoilla ja dokumentaatiolla on selkeät paikat mistä ne löytyy.
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
@@ -216,27 +194,11 @@ Projektin etenemisen rakenne ja etapit.
 * [Etappi 5 - Hyväksyntätestaus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
 * [Etappi 6 - Luovutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
 
-<!-- >>Projektin osittamisella tarkoitetaan projektin jakamista selkeisiin osakokonaisuuksiin ja niitä vastaaviin toteutuskokonaisuuksiin (osaprojekteihin, vaiheisiin, tehtäväkokonaisuuksiin ja tehtäviin). >Tutkimus- ja kehitysprojektien etenemiselle on tyypillistä lopputuloksen muodostuminen ja tavoitteen tarkentuminen vaihe vaiheelta. Projektin osituksen tulee perustua tähän lähtökohtaan (koskee myös >IT-instituutin opiskelijaprojekteja). 
->Projektin elinkaari voidaan jakaa erityyppisiin vaiheisiin. Kussakin vaiheessa tuotetaan määrätyt tuotteet, kuten selvitys, suunnitelmat, prototyyppi, laite jne. Kunkin vaiheen loppuun sovitaan arviointi, hyväksyntä tai katselmointi. Ohjelmistoprojekti jakautuu tyypillisesti seitsemään vaiheeseen: perustaminen, esitutkimus, analyysi, suunnittelu, toteutus, testaus ja lopettaminen. Joskus esitutkimus on oma projektinsa, joskus analyysi sisällytetään suunnitteluun jne. Testaus ei välttämättä ole oma vaiheensa, vaan se sisältyy kaikkiin vaiheisiin. Usein edetään inkrementaalisesti eli ensin suunnitellaan ja toteutetaan yksi asia kokonaisuudessaan ennen kuin edetään seuraavaan asiakokonaisuuteen. Ei ole yhtä ainutta ”oikeaa” vaihejakoa, mutta jos toimeksiantajalla on oma menetelmänsä ja siihen liittyvät mallipohjat, niin opiskelijaprojekteissa käytetään ensisijaisesti niitä. Yhä useammin käytetään ketterää sovelluskehitystä eli ohjelmisto tehdään 1-4 viikon sprinteissä.
-
->Mitä tavoitteita  / vaiheita projekti sisältää? (Lyhyt kuvaus kustakin)> <Mitä tuloksia kustakin vaiheesta syntyy? >
-
-Seuraavassa käydään jokainen vaihe, niiden vaatimat aikaresurssit ja tulokset läpi lyhyesti. Vaiheet ja niiden tehtävät kuvataan tarkemmin vaihesuunnitelmissa. Parhaillaan meneillään olevasta vaiheesta tulee olla tiedossa tarkasti kuka tekee ja kuinka paljon työtä tämän vaiheen tehtävien suorittamiseksi. Myöhempien vaiheiden työmääräarviot voidaan esittää alkuvaiheessa karkealla tasolla, jota sitten projektin edetessä tarkennetaan yksityiskohtaiselle tasolle. Tämä tapahtuu jokaisen vaiheen lopussa, jolloin suunnitellaan tarkemmin seuraava vaihe.
-
-Huom.: Seuraavassa on esitetty käynnistys- ja lopetusvaiheet. Kaikista projektin vaiheista, niiden kestoista ja työmääristä laaditaan myös nk. Gantt-kaavio (liitteenä), jossa näkyy myös vaiheiden väliset riippuvuudet ja tärkeimmät etapit (esim. johtoryhmän kokouspäivämäärät).
-
->Projektin eteneminen kannataa jakaa ns. tavoitteisiin/etappeihin. Näiden tehtävän on osoittaa ajanhetkeä, jollon jokin oleellinen projektin vaihe on tarkoitus saavuttaa. Projektille määritellyt etapit voidaan linkittää dokumentaation kanssa yhteen käyttäen apuna Issue/Milestone linkkejä avulla. *Katso esimerkit alla* -->
-
-
-
 
 * [Etappi 0 - Aloitus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/2#tab-issues)
 
 Projektin aloitusetappi. Aloituksessa käytiin työnjakoa, pienryhmien perustamista läpi. Pohdittiin yhteispalaveri aikataulutusta ja työaikoja. Sovittiin, että tehdään OPF kehikkoa hyödyntäen projektille ns hallintapaneeli ja myös toinen repositorio projektin kehitykselle. Määrittely aloitettiin myös jo tämän etapin aikana.
 
-<!--esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
->Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään
->Etappiin mennessä muodostetaan johtoryhmä, pidetään johtoryhmän kokous sekä allekirjoitetaan projektisopimus.-->
 
 * [Etappi 1 - Määrittely](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/3#tab-issues)
 
@@ -293,12 +255,9 @@ Dokumentointi tapahtuu tänne OPF-kehikkoon ja myös projektiryhmän Teams-kanav
 Teams-kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
 Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitelma jne. dokumentoidaan tänne OPF-kehikkoon omiin kansiorakenteisiinsa.
 
-Projektin toteutukselle on oma reposiorionsa, jonne tallennetaan projektiin liittyvää koodia, kuvia ym!
+Projektin toteutukselle on oma reposiorionsa, jonne tallennetaan projektiin liittyvää koodia, kuvia yms projektin toteutukseen liittyvää sisältöä. Tämä helpottaa eri työvaiheiden toteuttajien toimimista ja kaikki on samalla dokumentoitu ja tallennettu useampaan eri paikkaan.
 
 ## 4.4 Riskien hallinta
-
-<!-- >>Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, jos riski toteutuu.
->Kirjataan alla olevaan taulukkoon projektiin kohdistuvat riskit ja pidetään niitä yllä tarpeen mukaan. Jokaiselle riskille annetaan yksilöllinen tunniste esim. RIS007, koska tämä helpottaa niiden käsittelyä eri tilanteissa. -->
 
 Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niin sanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym. suuremmat ja todella epätodennäköiset riskit.
 
@@ -321,11 +280,9 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](http
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
->Projektisuunnitelman avulla reagoidaan poikkeamiin ja ympäristömuutoksiin, joten sitä päivitetään projektin aikana. Tähän kohtaan kirjataan ne ajankohdat, jolloin suunnitelman ajantasaisuus ainakin on tarkistettava.
+Projektin suunnitelmien tarkistus tehdään joka viikon maanantaina viikon aloitus palaverissa. Palaverissa tarkastellaan alkavan viikon sprinttiä ja onko aikataulussa ilmennyt mahdollisia muutoksia.
 
 ## 4.8 Projektin keskeyttämiskriteerit
-
-<!--Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä, koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa. -->
 
 Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan asiakkaalle sellaisena, kuin se koulutuksen päättymishetkellä on. Jatkokehityssuunnitelma laaditaan, jos näyttää siltä, että projekti ei valmistu harjoittelujakson aikana. 
 
@@ -350,15 +307,13 @@ Projektin toteutuksessa olevia työtiloja
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
 
->”Projektiryhmien dokumentaatiosta jäävä osa tallennetaan X-järjestelmään” 
->Toimeksiantajan kanssa tulee tarvittaessa voida sopia, mitkä dokumentit voidaan jättää opiksi seuraaville projekteille. 
->Tyypillisesti eri suunnitelmat ja loppuraportti sopivin osin ovat tällaisia dokumentteja. 
+Projektiin liittyvät dokumentaatiot jää projektin osapuolille itselleen talteen työllistymistä edistäväksi mareiaaliksi osapuolien niin halutessaan. Projektin kaikki dokumentit ja ja sisältö on projektin päättyessä mahdollista ladata itselleen talteen esimerkiksi github palvelujen alle.
 
 ## 6.3 Projektin virallinen päättäminen
 
->On tärkeää määritellä milloin, mihin tai miten projekti päättyy. Projektin päätös voi olla tietty päivämäärä, tietty tuotteen valmiusaste, tietty työtuntimäärä, tietty kulutettu rahasumma, kun asiakas ottaa tuotteen käyttöön, takuuaika on umpeutunut tai kun asiakas hyväksyy tuotteen.
+Projektin viimeinen virallinen ajankohta on 9.12.2022, kun työvoimakoulutus virallisesti päättyy. Tätä ennen on deadline ajankohdat projektille. Jos projekti ei pysy asetettujen aikataulujen ja aikamäärityksien sisällä tulee tällöin projekti päättymään edellämainittuna ajankohtana.
 
->”Projekti päättyy p.k.vvvv, jolloin projektisopimuksen voimassaoloaika päättyy.”
+Projektin aikamääreissä määritetty ajankohta, kun projekti on päätetty on 20.11.2022. Tälle päättämis ajankohdalle on annettu liukumavaraa noin viikon verran lisää ajankohdasta eteenpäin. Käytäntö on tämä, koska kyseessä on harjoittelu ja kouluprojekti, jossa ei ole kustannuksia projektiin liittyvillä osapuolilla.
 
 ## 6.4 Lopetustilaisuus
 
