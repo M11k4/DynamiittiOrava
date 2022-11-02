@@ -66,7 +66,3 @@ Viestintä ulkopuolisten toimijoiden tai tahojen kanssa on aina tilanne, johon e
 
 Viestinnän onnistumista arvioidaan projektin aikana jatkuvasti ja erityisesti viikkopalavereissa.  Mahdollisiin epäkohtiin puututaan välittömästi ja viestintäsuunnitelmaa muutetaan tarpeen niin vaatiessa.
 
-
-# Lähteet
-
-Alkuperäinen dokumentti http://homes.jamk.fi/~huojo/opetus/IIZP2010/
