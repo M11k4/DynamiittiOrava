@@ -170,7 +170,23 @@ Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.
 * Testaus
 * Luovutus
 
-**Yksittäiset vaiheet GANTT diagrammin avulla**
+## Yksittäiset vaiheet GANTT diagrammin avulla
+
+**Alkuperäinen aikataulutus suunnitelma**
+
+```plantuml
+Project starts the 2022-9-12
+[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-2
+[Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
+[Suunittelu] Starts 2022-9-26 and ends 2022-10-3
+[Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-10-31
+[Testaus+korjaus] Starts 2022-10-17 and ends 2022-11-7
+[Hyväksyntätestaus] Starts 2022-11-7 and ends 2022-11-14
+[Luovutus] Starts 2022-11-14 and ends 2022-11-20
+```
+
+**Lopullinen aikataulutus**
+
 
 ```plantuml
 Project starts the 2022-9-12
