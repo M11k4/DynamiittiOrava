@@ -35,5 +35,26 @@ _____________________________________________
 
 ____________________________________________
 
+**RESPONSIIVISUUS**
+
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_iphoneSE.jpg)
+
+8. Silmät skaalautuvat tarpeeksi hyvin eri mobiililaitteilla. Osassa näyttöjä, kuten iPhone SE, silmät ovat aika pienet.
+
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_iphone12Pro.jpg)
+
+9. iPhone 12 Pro:ssa ne ovat sopivan kokoiset.
+
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_samsungGalaxyS8.jpg)
+
+10. Samsungin laitteilla silmät seilaavat ihan yläosan alareunaan. Miettikää onko ongelma.
+11. Palvelumme-osio ei skaalaudu vielä kaikilla mobiililaitteilla, erityisesti Samsung.
+
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_menuiPhone12.jpg)
+
+12. Menu toimii hyvin kaikilla laitteilla. Koko vaihtelee, mutta sillä ei ole käyttökokemuksen kannalta merkitystä.
+
+Hyvällä mallilla on! 🦄
+
 
 
