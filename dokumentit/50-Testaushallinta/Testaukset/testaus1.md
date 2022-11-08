@@ -4,8 +4,7 @@ Testataan tämänhetkinen sivusto sellaisena kuin se on. Tällä ensimmäisellä
 
 YLÄOSA
 
-![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/blob/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_ylaosa.jpg)
-
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_ylaosa.jpg)
 
 1.
 2.
