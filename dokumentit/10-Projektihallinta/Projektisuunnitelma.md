@@ -5,7 +5,7 @@
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko |
 | Versio: | 0.5 |
-| Päivämäärä: | 2.11.2022 |
+| Päivämäärä: | 7.11.2022 |
 
 
 ## 1. Toimeksianto 
@@ -39,21 +39,19 @@ Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä 
 
 ## 1.3 Rajaus ja liittymät
 
-> Täsmennetään projektin tehtävää rajaamalla ulkopuolelle jäävät osat kohteena olevasta järjestelmästä tai kokonaishankkeesta. 
-> Erikseen on syytä kuvata myös tehtävän suorittamista merkittävästi rajoittavat ulkoiset tekijät. Tässä myös täsmennetään ne 
-> tehtäväkokonaisuudet, jotka nyt tehtävään osioon tulevat vielä todennäköisesti jossain vaiheessa liittymään, mutta joita ei 
-> tämän projektin puitteissa kuitenkaan tulla toteuttamaan. Tyypillisiä tällaisia tehtäviä voisivat olla mm. käyttöympäristön
-> rakentaminen ja koulutus. Muina rajauksina voisi olla esim. ohjelmiston käyttöliittymässä käytettävä kieli.
+Tähän on listattuna alle asioita, jotka rajattiin toteutuksesta pois, mutta jotka olisi mahdollista ollut projektissa toteuttaa. Alla listatut kohdat on riisuttu pois erinäisistä syistä, kuten kustannukseen ja asiakkaan toiveisiin liittyvistä syistä.
+
+- Nettisivut toisella kielellä
+- Yhteydenotto lomakkeesta
+- Tietokanta
 
 ## 1.4 Oikeudet
 
->"Eri osapuolten oikeudet on määritelty projektisopimuksessa.” Ellei erillisessä sopimuksessa ole kerrottu oikeuksista työn tuloksiin, tulee ne ilmaista esim. tässä projektisuunnitelmassa. 
+Verkkosivujen luonnin ajaksi projektipäälliköllä on poweruser-käyttöoikeudet. Dynamiittioravan muulla henkilöstöllä on ylläpito-oikeudet.
+katso [vaatimusmäärittely](Vaatimusmaarittely.md)
 
-## 1.5 Termit ja määritelmät
 
->Tässä kappaleessa esitellään projektisuunnitelmassa esiintyvät määritelmät, termit ja lyhenteet. 
-
-## 1.6 Projektiin liittyvät haasteet ja vahvuudet
+## 1.5 Projektiin liittyvät haasteet ja vahvuudet
 
 ### SWOT analyysi
 
@@ -152,13 +150,20 @@ Ylläpitääksemme tiettyä laatua ja linjaa olemme laatineet tietyt pelisäänn
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
-Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](viestintasuunnitelma.md). Palavereita pidetään yksi suurempi viikossa, jossa on koko projektitiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
+Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](Viestintasuunnitelma.md). Palavereita pidetään yksi suurempi viikossa, jossa on koko projektitiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
 Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveritiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
 Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä alla olevan GANTT diagrammin avulla.
 
 ## 2.6. Projektin päättyminen
 
->luovutus, käyttöönotto, ylläpito, projektin aineiston taltiointi, arkistointi, loppuraportti, projektin virallinen päättäminen
+Projektin päättyminen sisältää seuraavia toimenpiteitä.
+
+- Projektin tuotoksen luovutus
+- Käyttöönotto 
+- Projektin aineiston taltiointi
+- Arkistointi 
+- Loppuraportti 
+- Projektin virallinen päättäminen
 
 ## 3. Projektin ajalliset tavoitteet	
 
@@ -259,13 +264,9 @@ Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydää
 
 ## 4.1 Väli- ja lopputulosten hyväksymismenettely
 
->Tähän kirjataan se hyväksymismenettely, mikä projektissa on sovittu.
+Projektista esiteltiin havainnoiva figma luonnos toimeksiantajalle toteutuksen suunnittelun loppuvaiheessa, toteutuksen alkutaipaleella. Tilaisuudessa toimeksiantaja antoi kommentteja luonnoksesta millaisia muutoksia suunnitelmiin tehdään ja muokkaamme toteutuksen suunnitleman sen pohjalta.
 
-## 4.2 Muutosten hallinta
-
->Kuvataan muutosten hallintaproseduuri projektinkäytäntöihin tai projektin tuloksiin liittyvien muutosten osalta.
-
-## 4.3 Dokumentointi
+## 4.2 Dokumentointi
 
 Dokumentointi tapahtuu tänne OPF-kehikkoon ja myös projektiryhmän Teams-kanavalle.
 Teams-kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
@@ -273,32 +274,32 @@ Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitel
 
 Projektin toteutukselle on oma reposiorionsa, jonne tallennetaan projektiin liittyvää koodia, kuvia yms projektin toteutukseen liittyvää sisältöä. Tämä helpottaa eri työvaiheiden toteuttajien toimimista ja kaikki on samalla dokumentoitu ja tallennettu useampaan eri paikkaan.
 
-## 4.4 Riskien hallinta
+## 4.3 Riskien hallinta
 
 Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niin sanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym. suuremmat ja todella epätodennäköiset riskit.
 
-Tarkemmin riskien hallinnasta löydät täältä: [Riskienhallintataulukko](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/riskitaulukko/)
+Tarkemmin riskien hallinnasta löydät täältä: [Riskihallintasuunnitelma.](Riskitaulukko.md)
 
-## 4.5 Katselmointikäytäntö
+## 4.4 Katselmointikäytäntö
 
 >Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).
 
-## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
+## 4.5 Projektisuunnitelmaa täydentävät suunnitelmat
 
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* [Projektisuunnitelma](tiivistetty-projektisuunnitelma.md)
-* [Vaatimusmäärittely](vaatimusmaarittely-tiivis.md)
+* [Projektisuunnitelma](Projektisuunnitelma.md)
+* [Vaatimusmäärittely](Vaatimusmaarittely.md)
 * [Toteutussuunnitelma](arkkitehtuuri-ja-tekninentoteutus.md)
-* [Viestintäsuunnitelma](viestintasuunnitelma.md)
-* [Riskihallintasuunnitelma](riskitaulukko.md)
+* [Viestintäsuunnitelma](Viestintasuunnitelma.md)
+* [Riskihallintasuunnitelma](Riskitaulukko.md)
 
 
-## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
+## 4.6 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
 Projektin suunnitelmien tarkistus tehdään joka viikon maanantaina viikon aloitus palaverissa. Palaverissa tarkastellaan alkavan viikon sprinttiä ja onko aikataulussa ilmennyt mahdollisia muutoksia.
 
-## 4.8 Projektin keskeyttämiskriteerit
+## 4.7 Projektin keskeyttämiskriteerit
 
 Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan asiakkaalle sellaisena, kuin se koulutuksen päättymishetkellä on. Jatkokehityssuunnitelma laaditaan, jos näyttää siltä, että projekti ei valmistu harjoittelujakson aikana. 
 
@@ -308,7 +309,7 @@ Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan 
 
 Projektissa työskentelevälle tiimille on laadittu viestintäsuunnitelma. Prohjektiin liittyvä viestintä tapahtuu viestintäsuunnitelman mukaisesti aina samalla kanavalla. Kanavalla on eri tehtäväalueille omat kanavat.
 
-[Viestintäsuunnitelma](viestintasuunnitelma.md)
+[Viestintäsuunnitelma](Viestintasuunnitelma.md)
 
 Projektin toteutuksessa olevia työtiloja
 - Etätyö
