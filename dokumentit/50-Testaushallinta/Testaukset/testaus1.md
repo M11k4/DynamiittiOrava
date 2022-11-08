@@ -21,7 +21,7 @@ ____________________________________________
 1. Grafiteam-logo puuttuu!!
 2. Slogan ja infolause liukuvat hienosti paikalleen. Slogan on serif ja infolause sans-serif: onko erilaisuus tarkoituksella?
 3. Contact-nappi voisi olla jo tässä vaiheessa "ota yhteyttä", koska kahtena sanana reilusti pidempänä se vaikuttaa responsiivisuuteen.
-4. Menu-osio istuu hyvin ja on todella tyylikäs.
+4. Menu-osio toimii ja Instagram/Facebook-linkit toimivat hyvin. Kokonaisuus istuu hyvin ja on todella tyylikäs.
 
 
 _____________________________________________
