@@ -20,4 +20,18 @@ ____________________________________________
 4. Menu-osio istuu hyvin ja on todella tyylikäs.
 
 
+_____________________________________________
+
+**PALVELUMME**
+
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_palvelumme.jpg)
+
+5. Ikoni on venynyt sivusuunnassa.
+6. Ikoni on venynyt sivusuunnassa.
+7. Ikoni on venynyt sivusuunnassa (tämä erityisen paljon).
+
+
+____________________________________________
+
+
 
