@@ -1,4 +1,4 @@
-Testaus 1, 8.11.2022, functional testing.
+Testaus 1, Daniela, 8.11.2022, functional testing.
 
 Testataan tämänhetkinen sivusto sellaisena kuin se on. 
 
@@ -12,7 +12,9 @@ Testattavat osiot:
 
 ____________________________________________
 
+
 **YLÄOSA**
+
 
 ![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_ylaosa.jpg)
 
@@ -24,7 +26,9 @@ ____________________________________________
 
 _____________________________________________
 
+
 **PALVELUMME**
+
 
 ![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_palvelumme.jpg)
 
@@ -35,7 +39,9 @@ _____________________________________________
 
 ____________________________________________
 
+
 **RESPONSIIVISUUS**
+
 
 ![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/dokumentit/50-Testaushallinta/testauskuvat/grafiteam_testaus_iphoneSE.jpg)
 
