@@ -48,7 +48,7 @@ Tähän on listattuna alle asioita, jotka rajattiin toteutuksesta pois, mutta jo
 ## 1.4 Oikeudet
 
 Verkkosivujen luonnin ajaksi projektipäälliköllä on poweruser-käyttöoikeudet. Dynamiittioravan muulla henkilöstöllä on ylläpito-oikeudet.
-katso [vaatimusmäärittely](Vaatimusmaarittely.md)
+katso [vaatimusmäärittely](vaatimusmaarittely.md)
 
 
 ## 1.5 Projektiin liittyvät haasteet ja vahvuudet
@@ -103,7 +103,7 @@ Pyrimme toteuttamaan projektin täysin projektitiimillä. Jos tulee tilanteita, 
 | Mika Kuurne | Yrityksen yhteyshenkilö / tilaaja | Grafiteam Oy |
 
 
-[**Tiimin esittely.**](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
+[**Tiimin esittely.**](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Esittely/)
 
 
 **Projektiorganisaation rakenne MindMap-muodossa**
