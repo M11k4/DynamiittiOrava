@@ -48,7 +48,7 @@ Tähän on listattuna alle asioita, jotka rajattiin toteutuksesta pois, mutta jo
 ## 1.4 Oikeudet
 
 Verkkosivujen luonnin ajaksi projektipäälliköllä on poweruser-käyttöoikeudet. Dynamiittioravan muulla henkilöstöllä on ylläpito-oikeudet.
-katso [vaatimusmäärittely](vaatimusmaarittely.md)
+katso [vaatimusmäärittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/20-Vaatimustenhallinta/Vaatimusmaaritely/)
 
 
 ## 1.5 Projektiin liittyvät haasteet ja vahvuudet
