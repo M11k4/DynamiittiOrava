@@ -8,24 +8,19 @@
 
 ## Projektitilanne sprint/viikolla 8,  31.10.2022 - 7.11.2022**
 
-Tämän viikon sprintti: [Sprintti 8](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/9#tab-issues)
+Tämän viikon sprintti: [Sprintti 8](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
 
-Maanantaina palaverissa meillä oli Maarit mukana tarkastelemassa projektin etenemistä ja vastaamassa päätä vaivaaviin kysymyksiin.
-
-Viime viikolla hyväksynnässä käynyt figma esitelmä ei mennyt läpi ja loi meille ison läjän uutta tehtävää, kun muokkaamme sivustoa ja tarvitsee luoda paljon kaikkea uutta osaa sivustolle. Muokkaukset vaikuttavat paljon suunnitelluihin rakennelmiin ja ulkoasuun. Valokuvista, isoista teksteistä ja yhteydenotto lomakkeesta mm luovutaan.
+Sivut alkavat olla todella hyvällä mallilla ja enää ei paljoa puutu lopputuloksesta. Sivulle ollaan odotettu asiakkaalta omia tekstejä, mutta saatetaan joutua tekemään omat tekstit varulta aikatualun kiristyessä näin loppua kohden. Testaus tiimi on päässyt testailemaan projektin osien toiminnallisuutta.
 
 **Mitä on sprintin/viikon aikana saavutettu?**
 
 - Maanantain viikkopalaveri pidetty
-- Alettu tekemään vaadittuja muokkauskia toteutukseen
-- Iconien suunnittelu ja luonti on aloitettu
-- Vaatimusmäärittelyä muokattu
+
 
 **Millaisia haasteita on tullut eteen?**
 
-- Aikataulu alkaa painamaan päälle
-- Asiakkaan vaatimukset sivustosta aiheuttaa paljon toimenpiteitä
+- Täytyy tuottaa omat tekstit sivulle, mikä luo haasteita sivun asettelussa ja eri palikoiden kokojen toteutuksessa, koska ei ole mitään hajua, kuinka pitkiä asiakkaan tekstit ovat.
 
 **Seuraavat askeleet**
 
-- Rakennetaan sivua pikkuhiljaa eteenpäin.
+- Lopullinen tuote alkaa olla varmaan pitkälti valmis ensiviikon aikana.
