@@ -1,6 +1,8 @@
 Testaus 1, 8.11.2022, functional testing.
 
-Testataan tämänhetkinen sivusto sellaisena kuin se on. Tällä ensimmäisellä testauskerralla testataan toiminnot ja responsiivisuus.
+Testataan tämänhetkinen sivusto sellaisena kuin se on. 
+
+Tällä ensimmäisellä testauskerralla testataan **toiminnot ja responsiivisuus**.
 
 Testattavat osiot:
 - Yläosa
