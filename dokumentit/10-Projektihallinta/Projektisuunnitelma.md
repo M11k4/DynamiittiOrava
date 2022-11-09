@@ -289,8 +289,8 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskihallintasuunnitelma.](Ri
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
 * [Projektisuunnitelma](Projektisuunnitelma.md)
-* [Vaatimusmäärittely](Vaatimusmaarittely.md)
-* [Toteutussuunnitelma](arkkitehtuuri-ja-tekninentoteutus.md)
+* [Vaatimusmäärittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/20-Vaatimustenhallinta/Vaatimusmaarittely/)
+* [Toteutussuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus/)
 * [Viestintäsuunnitelma](Viestintasuunnitelma.md)
 * [Riskihallintasuunnitelma](Riskitaulukko.md)
 
