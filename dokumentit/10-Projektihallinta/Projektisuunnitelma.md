@@ -180,7 +180,7 @@ Projektin päättyminen sisältää seuraavia toimenpiteitä.
 **Alkuperäinen aikataulutus suunnitelma**
 
 ```plantuml
-Project starts the 2022-9-12
+Project starts 2022-9-12
 [Projekti aktiivinen] Starts 2022-9-12 and ends 2022-11-20
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
 [Suunittelu] Starts 2022-9-26 and ends 2022-10-3
@@ -194,7 +194,7 @@ Project starts the 2022-9-12
 
 
 ```plantuml
-Project starts the 2022-9-12
+Project starts 2022-9-12
 [Projekti aktiivinen] Starts 2022-9-12 and ends 2022-11-20
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
 [Suunittelu] Starts 2022-9-26 and ends 2022-10-3
