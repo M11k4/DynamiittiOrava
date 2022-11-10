@@ -8,11 +8,11 @@ Tuote on Grafiteam Oy:n päivitetyt nettisivut. Nettisivut toteutetaan koodaamal
 
 # Kohderyhmä
 
-Kohderyhmät jaetaan kahteen ryhmään, yksityisiin asiakkaisiin ja yritysasiakkaisiin. Lisää kohderyhmistä löytyy [vaatimusmäärittelystä.](vaatimusmaarittely-tiivis.md)
+Kohderyhmät jaetaan kahteen ryhmään, yksityisiin asiakkaisiin ja yritysasiakkaisiin. Lisää kohderyhmistä löytyy [vaatimusmäärittelystä.](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/20-Vaatimustenhallinta/Vaatimusmaarittely/)
 
 # Perustoiminnot
 
-Perustoimintoja voi tarkastella myös [vaatimusmäärittelystä.](vaatimusmaarittely-tiivis.md)
+Perustoimintoja voi tarkastella myös [vaatimusmäärittelystä.](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/20-Vaatimustenhallinta/Vaatimusmaarittely/)
 
 # Huomioitavaa
 
