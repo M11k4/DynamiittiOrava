@@ -5,7 +5,7 @@
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko |
 | Versio: | 0.5 |
-| Päivämäärä: | 7.11.2022 |
+| Päivämäärä: | 10.11.2022 |
 
 
 ## 1. Toimeksianto 
@@ -198,7 +198,7 @@ Project starts 2022-9-12
 ```plantuml
 @startgantt
 Project starts 2022-9-12
-[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-11-20
+[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-11-28
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
 [Suunittelu] Starts 2022-9-26 and ends 2022-10-3
 [Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-10-31
