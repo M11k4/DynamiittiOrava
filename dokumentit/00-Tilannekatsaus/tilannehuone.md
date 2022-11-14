@@ -6,21 +6,23 @@
 * [Tiimin esittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/esittely/)
 * [Issue lista](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues)
 
-## Projektitilanne sprint/viikolla 8,  31.10.2022 - 7.11.2022**
+## Projektitilanne sprint/viikolla 9,  14.11.2022 - 21.11.2022**
 
-Tämän viikon sprintti: [Sprintti 8](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/10#tab-issues)
+Tämän viikon sprintti: [Sprintti 9](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/11#tab-issues)
 
-Sivut alkavat olla todella hyvällä mallilla ja enää ei paljoa puutu lopputuloksesta. Sivulle ollaan odotettu asiakkaalta omia tekstejä, mutta saatetaan joutua tekemään omat tekstit varulta aikatualun kiristyessä näin loppua kohden. Testaus tiimi on päässyt testailemaan projektin osien toiminnallisuutta.
+Sivut ovat melkolailla valmiit. Enää toiminnallisuuksien korjauksi sekä pientä hiomista ulkoasussa. Testaus on siis päässyt hyvin hommiin ja testailemaan sivuston eri palasia ja frontend tiimi tekee viimeisiä loppusilauksia ennen lopputestauksia, jonka jälkeen päästään luovuttamaan työ.
 
 **Mitä on sprintin/viikon aikana saavutettu?**
 
 - Maanantain viikkopalaveri pidetty
-
+- Käyty läpi aikataulutus
+- Käyty työnjakoa läpi
+- Viimeistelyjä sivutolle on alettu heti tekemään
 
 **Millaisia haasteita on tullut eteen?**
 
-- Täytyy tuottaa omat tekstit sivulle, mikä luo haasteita sivun asettelussa ja eri palikoiden kokojen toteutuksessa, koska ei ole mitään hajua, kuinka pitkiä asiakkaan tekstit ovat.
+- Aikataulutuksen kanssa on ollut ongelmia ja aikataulussa on ollut haastavaa pysyä. Tähän on monta syytä miksi tähän ollaan päädytty, mutta ne eivät tulleet täysin yllätyksenä.
 
 **Seuraavat askeleet**
 
-- Lopullinen tuote alkaa olla varmaan pitkälti valmis ensiviikon aikana.
+- Kun kaikki viimeistelyt tuotteelle on saatu tehtyä ja korjattavaa ei enää löydy niin päästään esittelemään sivusto ja mahdollisesti luovuttamaan sivusto. Parhaimillaan ensiviikolla, mutta realistisuuden nimissä menee vielä pidempään.
