@@ -1,11 +1,15 @@
 # Projektin loppuraportti
 
-> Käytä tarvittaessa tätä pohjaa, jos ryhmältäsi edellytetään projektin loppuraportointia OPF-kehikon varaan toteutetuissa opintojaksoissa! Tarvittaessa ohjaaja antaa lisätietoja!
-
 
 # 1.	JOHDANTO	
-Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.
-Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö.
+
+Tämä dokumentti liittyy koulutuksessa olleen ryhmän harjoittelujaksossa toteutettuun projektiin. Harjoittelun aikana tiimin tehtävänä oli toteuttaa Grafiteam Oy:lle nettisivut haluamallaan tavalla. Sivusto toteutettiin koodaamalla täysin itse käyttämättä mitään valmiita pohjia tai editoreita, kuten wordpress.
+
+Projektin mahdollistajan toimi JAMK yhteistyöss TE-Palveluiden kanssa. Tiimimme Dynamiittiorava perustettiin koulutuksen harjoittelujakson alkaessa. Projektissa toimeksiantajana toimi Grafiteam Oy, jolle nettisivut toteutettiin.
+Tämän dokumentin tarkoitus on presentoida meidän harjoittelujakso kokonaisuudessaan projektin osalta.
+
+<!--Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin. -->
+
 
 # 2.	TEHTÄVÄ, TAVOITE, TULOKSET
 
