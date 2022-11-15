@@ -1,5 +1,12 @@
 # Projektin loppuraportti
 
+|  |  |
+|:-:|:-:|
+| Dokumentti | Projektin loppuraportti |
+| Laatija: | Dynamiittiorava tiimi |
+| Versio: | 0.1 |
+| Päivämäärä: | 15.11.2022 |
+
 
 # 1.	JOHDANTO	
 
