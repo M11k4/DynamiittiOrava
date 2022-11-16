@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Vaatimusmääritelmä |
 | Laatija: | *Taru* |
-| Versio: | *0.2* |
+| Versio: | *0.4* |
 | Päivämäärä: | 21.9.2022 |
 
 
@@ -84,7 +84,7 @@ SSL Löytyy ja se on Let’s encryptin kautta.
 
 ## 2.6 Vaatimustenmukaisuus-, laki- tai sääntelyvaatimukset 
 
-Evästeet – Ilmoitus sivulle, että se käyttää evästeitä, hyväksyntä ja muokkaukset evästeisiin tai tarjotaan vaihtoehtoa hyväksyä vain pakolliset evästeet.
+Evästeet – Ilmoitus sivulle ei tarvita. Sivulla ei ole evästeitä.
 
 Vasteaika katso **3.3 Vasteaika **
 
