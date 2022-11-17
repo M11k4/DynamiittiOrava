@@ -24,9 +24,8 @@ Tämän dokumentin tarkoitus on presentoida meidän harjoittelujakso kokonaisuud
 
 ## 2.1.	Yhteenveto projektin toteumasta
 
-* Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): 
-* mitä piti tehdä (eli kertokaa ensin lyhyesti projektin tavoite/tarkoitus), 
-* mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto), 
+* Projektin tarkoituksena oli luoda asiakkaalle uudet ja paremmat nettisivut. Tavoitteena oli pysyä aikamääreissä ja saada lopputulos luovutettua asiakkaalle ennenkö koulutus loppuu. Tavoiteltiin myös sitä, että asiakkaalle ei tulisi yhtään lisää kuluja sivuihin liittyen. 
+* mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto)
 * miten onnistuttiin
 
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
@@ -41,7 +40,13 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ## 3.1.	Ongelmat suunnittelussa
 
+* Suunnittelussa ei varsinaisia ongelmia ollut. Kun projekti oli saatu luonnosteltua ja suunniteltua asiakkaan toiveiden mukaisesti ja esiteltiin tämä asiakkaalle niin tuli täys käännös ja jouduimme käytännössä suunnittelemaan koko sivuston uudestaan.
+
+* Tämän olisi voinut ehkä välttää, mutta koko projetin ollessa kaikille ensisijaisesti harjoittelua eikä työpohjaista suorittamista niin tämä oli ihan hyvä oppi tulevaa ajatellen.
+
 ## 3.2.	Ongelmat toteutuksessa
+
+* Tänne voi lisätä kohtia jos niitä on ilmennyt ja onhan jotakin ongelmia aina ilmennyt
 
 ## 3.3.	Muut ongelmat tai toteutuneet riskit ja niiden käsittely
 
