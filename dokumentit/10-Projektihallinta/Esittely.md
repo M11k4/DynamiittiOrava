@@ -1,13 +1,13 @@
 # Tiimiesittely
 
-Tässä sivulla pääset tutustumaan tiimiimme ja heidän rooleihin yrityksessä.
+Tässä sivulla pääset tutustumaan tiimiimme ja meidän rooleihin projektissa.
 
 ## Tiimin jäsenet
 
 | Nimi | Rooli | Yritys | Gitlab-tunnus |
 |:-:|:-:|:-:|:-:|
 | Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiitti Orava | AC8403 | 
-| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiitti Orava | AC8393 |
+| Niko Kauppinen | Projektihallinta ja ohjaus, dokumentaatio, GitLab | Dynamiitti Orava | AC8393 |
 | Miika Toukola | UI Suunnittelu, Frontend | Dynamiitti Orava | AC8450 | 
 | Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiitti Orava | AB5122 | 
 | Joni Peltomäki | Frontend | Dynamiitti Orava | AC8442 | 
