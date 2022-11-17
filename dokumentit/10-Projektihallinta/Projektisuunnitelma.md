@@ -345,5 +345,11 @@ Projektin aikamääreissä määritetty ajankohta, kun projekti on päätetty on
 
 ## 6.5 Projektin loppuraportti
 
+Projektin loppuraporttia on ollut laatimassa koko dynamiittiorava henkilöstö.
+
+Loppuraporttiin alla olevasta linkistä.
+
+[Projentin loppuraportti](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Projektin-loppuraportti/)
+
 >Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
 
