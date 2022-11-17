@@ -21,7 +21,7 @@ Tässä sivulla pääset tutustumaan tiimiimme ja heidän rooleihin yrityksessä
 ## Kuva tiimistä
 
 
-![](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-AC8393-/core/-/raw/master/assets/tiimikuva.png?inline=false)
+![](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-AC8393-/core/-/raw/master/assets/dynamiittiorava.jpg?inline=false)
 
 
 ## Kotisivut
