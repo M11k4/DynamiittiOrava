@@ -18,10 +18,10 @@ Tässä sivulla pääset tutustumaan tiimiimme ja heidän rooleihin yrityksessä
 
 
 
-## Kuva tiimistä
+## Tiimin logo
 
 
-![](https://gitlab.labranet.jamk.fi/fi-a2022-ttc2070/ht1-AC8393-/core/-/raw/master/assets/dynamiittiorava.jpg?inline=false)
+![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/assets/dynamiittiorava.jpg)
 
 
 ## Kotisivut
