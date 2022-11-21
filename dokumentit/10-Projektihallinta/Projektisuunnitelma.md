@@ -198,13 +198,12 @@ Project starts 2022-9-12
 ```plantuml
 @startgantt
 Project starts 2022-9-12
-[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-2
+[Projekti aktiivinen] Starts 2022-9-12 and ends 2022-12-4
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
 [Suunittelu] Starts 2022-9-26 and ends 2022-10-3
-[Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-11-25
-[Testaus+korjaus] Starts 2022-10-24 and ends 2022-11-25
-[Hyv.testaus] Starts 2022-11-24 and ends 2022-11-28
-[Luovutus] Starts 2022-11-28 and ends 2022-12-2
+[Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-11-28
+[Testaus+korjaus] Starts 2022-10-24 and ends 2022-11-28
+[Luovutus] Starts 2022-11-28 and ends 2022-12-4
 @endgantt
 ```
 
