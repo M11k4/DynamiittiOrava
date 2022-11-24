@@ -24,11 +24,16 @@ Tämän dokumentin tarkoitus on presentoida meidän harjoittelujakso kokonaisuud
 
 ## 2.1.	Yhteenveto projektin toteumasta
 
-* Projektin tarkoituksena oli luoda asiakkaalle uudet ja paremmat nettisivut. Tavoitteena oli pysyä aikamääreissä ja saada lopputulos luovutettua asiakkaalle ennenkö koulutus loppuu. Tavoiteltiin myös sitä, että asiakkaalle ei tulisi yhtään lisää kuluja sivuihin liittyen. 
+* Projektin tarkoituksena oli luoda asiakkaalle uudet ja paremmat nettisivut. Tavoitteena oli pysyä aikamääreissä ja saada lopputulos luovutettua asiakkaalle ennenkö koulutus loppuu. Tavoiteltiin myös sitä, että asiakkaalle ei tulisi yhtään lisää kuluja sivuihin liittyen.
+Kuitenkin ehkä suurimpana tavoitteena oli, että kaikki tiimiläiset oppii ryhmätyö taitoja ja voivat kehittää itseään ja omaa osaamistaan niissä osa-alueissa missä on päässyt harjoittelun aikana tuotantoon osallistumaan.
+
 * mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto)
 * miten onnistuttiin
 
-## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
+## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutus)
+
+
+
 Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
 *	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
 *	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoittain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
@@ -40,9 +45,11 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ## 3.1.	Ongelmat suunnittelussa
 
-* Suunnittelussa ei varsinaisia ongelmia ollut. Kun projekti oli saatu luonnosteltua ja suunniteltua asiakkaan toiveiden mukaisesti ja esiteltiin tämä asiakkaalle niin tuli täys käännös ja jouduimme käytännössä suunnittelemaan koko sivuston uudestaan.
+* Suunnittelussa ei varsinaisia ongelmia ollut. Kun projekti oli saatu luonnosteltua ja suunniteltua asiakkaan toiveiden mukaisesti ja esiteltiin tämä asiakkaalle niin tuli täys käännös ja jouduimme käytännössä suunnittelemaan koko sivuston uudestaan. Ei kokonaan uudestaan, mutta todella paljon tuli uutta mitä täytyi alkaa toteuttamaan.
 
-* Tämän olisi voinut ehkä välttää, mutta koko projetin ollessa kaikille ensisijaisesti harjoittelua eikä työpohjaista suorittamista niin tämä oli ihan hyvä oppi tulevaa ajatellen.
+* Tämän olisi voinut ehkä välttää, mutta koko projektin ollessa kaikille ensisijaisesti harjoittelua eikä työpohjaista suorittamista niin tämä oli ihan hyvä oppi tulevaa ajatellen. Tässä nimenomaa opittiin, että täytyy olla selkeämmät suunnitelmat ja esitellä toimeksiantajalle raaka versioita enemmän.
+
+* "Vapaat kädet" toi paljon ongelmia.
 
 ## 3.2.	Ongelmat toteutuksessa
 
