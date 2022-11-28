@@ -7,9 +7,9 @@
 * [Issue lista](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues)
 * [Tiimin Kotisivut]()
 
-## Projektitilanne sprint/viikolla 11,  28.11.2022 - 4.12.2022**
+## Projektitilanne sprint/viikolla 12,  28.11.2022 - 4.12.2022**
 
-Tämän viikon sprintti: [Sprintti 11](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/12#tab-issues)
+Tämän viikon sprintti: [Sprintti 12](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/14#tab-issues)
 
 Projekti on tullut pisteeseen, että sivustoa alettiin maanantaina palaverin päätteeksi työntämään serverille.
 
