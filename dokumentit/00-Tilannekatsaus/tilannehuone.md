@@ -11,7 +11,7 @@
 
 Tämän viikon sprintti: [Sprintti 12](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/14#tab-issues)
 
-Projekti on tullut pisteeseen, että sivustoa alettiin maanantaina palaverin päätteeksi työntämään serverille.
+Projekti on tullut pisteeseen, että sivustoa alettiin maanantaina palaverin päätteeksi työntämään serverille. Sovittiin myös loppuviikolle aikatauluja viimeisten raporttien ja dokumenttien laatimiseen. Viikon aikana sovitaan vielä lisää aikataulua.
 
 **Mitä on sprintin/viikon aikana saavutettu?**
 
@@ -20,12 +20,10 @@ Projekti on tullut pisteeseen, että sivustoa alettiin maanantaina palaverin pä
 
 **Millaisia haasteita on tullut eteen?**
 
-- Ei stressiä kummempia haasteita.
+- Sivuston serverille julkaisussa on pientä ongelmata
 
 **Seuraavat askeleet**
 
 - Projektin loppuraportin laatiminen
-- Esitellään tuote toimeksiantajalle
 - Viimeistellään tuote
 - Hyväksyntätarkastetaan tuote
-- Luovutetaan tuote
