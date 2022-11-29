@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Projektin loppuraportti |
 | Laatija: | Dynamiittiorava tiimi |
-| Versio: | 0.4 |
+| Versio: | 0.5 |
 | Päivämäärä: | 29.11.2022 |
 
 
@@ -111,62 +111,24 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ### 4.2.3.	Vuorovaikutus
 
-*	yhteydenpito sidosryhmiin (ketkä ovat sidosryhmiä?)
+*	Tiedonhankinta toimeksiantajalta oli haasteellista toimeksiantajan passiivisuuden takia. Tiimissä oli määritetty yhteyshenkilö, joka oli yhteydessä toimeksiantajan kanssa ja hoiti kaiken yhteydenpidon heidän kanssaan. Muuten kaikki yhteydenpito toimi mutkitta.
 
-*	tiedonhankinta (toimeksiantajalta tiedon saaminen)
+*	Otimme projektin alussa aikaisempien sivujen toteuttajaan yhteyttä ja valmistelimme kysymyslistan. Haastattelussa selvisi paljon ja tulimme lopputulokseen, että koodaamme sivuston kokonaan itse, koska hän oli toteuttanut aikasemmat sivustot valmiilla editorilla.
 
-*	haastattelut ja niiden valmistelu, toteutus ja tiedon jalostus
+*	Tiedottaminen toimi hyvin sekä sisäisesti tiimin kesken, että toimeksiantajan ja projektiryhmän välillä. 
 
-*	tiedottaminen
+*	Toimeksiantajan toimesta vuorovaikutus oli takkuilevaa, jonka kyllä ymmärrämme kiireisen yksityisyrittäjän kohdalla. Tiedon saannissa oli hankaluuksia ja viivästyksiä, joka viivästytti projektin etenemistä.
 
-*	asiakasorganisaatiossa
-
-*	erityiskohderyhmät
-
-*	ammattikorkeakoululle
-
-*	muut kohteet ja mediat (jos näkynyt esim. lehdissä, messuilla tms.)
-
-*	johtoryhmätyöskentely (valmistautuminen, tavoitteiden saavuttaminen, läpivienti)
-
-*	tehtävän kehittäminen ja rajaukset 
-
-*	miten tehty?
+*	Vuorovaikutus johtoryhmätyöskentelyn kohdalla toimi hyvin. Tiedotus ja kaikki projektiin liittyvä käsiteltiin aina palavereissa ja daily palavereissa asioiden ilmettyä.
 
 *	kenen esityksestä ja millä tiedoilla?
 
-*	tukiryhmätoiminta (tiedon saaminen, asiantuntijoiden hyödyntäminen)
-
-*	”fiilis” ja sen syyt (jos ”alavireinen”, niin kuinka parannettu?)
-
-*	toisten työkiireiden huomioiminen yhteydenpidossa (ennakointi, matkat ym.)
-
-*	yhteydenpitovälineiden käyttö (mikä on järkevä väline eri tilanteisiin, palaverit kallista ajankäyttöä)
-
-*	vuorovaikutuksen tuloksellisuus (Jory, sähköposti, muut)
+*	Tiedonhankinta tapahtui itsenäisesti erilaisia internetin hakukanavia selaten ja hyödyntäen, kuten youtube videot ja muut ammattilaisten tuottamat media sisällöt.
 
 ### 4.2.4.	Asenne
 
-*	tehtävään 
+*	tehtävään oli hyvä asenne
 *	oppimiseen 
 *	ongelmiin
 *	ote projektista sen eri vaiheissa
 *	palautehakuisuus
-
-### 4.2.5.	Tulos
-
-* Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuolisten hyödyksi
-*	mitkä ovat projektin tulokset? 
-*	kuinka hyviä tuotokset ovat?
-*	onko projektilla ”aineettomia” tuloksia? (esim. asennemuutos)
-*	tulosten arvo organisaatiolle ja muille tahoille
-*	jatkotoimenpiteet
-
-## 4.3.	Arvosanaehdotukset
-
-* Mikä on mielestänne arvosana, jonka ansaitsemme em. kriteerien perusteella?
-* Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan (tai työhön vähäisesti osallistunut huonomman).
-
-# LÄHTEET
-
-# LIITTEET
