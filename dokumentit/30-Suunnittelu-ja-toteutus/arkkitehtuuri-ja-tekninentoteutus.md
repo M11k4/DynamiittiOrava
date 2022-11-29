@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Ohjelmiston arkkitehtuuri kuvaus-pohja |
 | Laatija: | DynamiittiOrava |
-| Versio: | 3.3 |
+| Versio: | 3.4 |
 | Päivämäärä: | 29.11.2022 |
 
 Tämä dokumentin pohjana käytetään alkuperäistä http://www.cs.tut.fi/ohj/dokumenttipohjat/pohjat/suunnittelu/hytt_drsuunnittelu.doc
@@ -15,7 +15,8 @@ Tämä dokumentin pohjana käytetään alkuperäistä http://www.cs.tut.fi/ohj/d
 
 ### 1.1		Tarkoitus ja kattavuus
 
->Tällä sivulla avataan Dynamiitti Oravan syksyn 2022 projektin teknistä suunnitelmaa ja toteutusta, keskittymällä tuotoksen ominaisuuksiin. Dokumentin tarkoitus on kirjata projektin teknista tavoitetta ja kuvata tuotoksen ominaisuuksia. Tämä kuvaus on tarkoitettu DynamiittiOravan jäsenille viitteeksi ja sen kattavuus on suhteutettuna siihen tuntemukseen joka tiimin jäsenille muodostui projektin aikana.
+>Tällä sivulla avataan Dynamiitti Oravan syksyn 2022 projektin teknistä suunnitelmaa ja toteutusta, keskittymällä tuotoksen ominaisuuksiin. Tämän asiakirjan tarkoitus on kirjata projektin teknista tavoitetta ja kuvata tuotoksen ominaisuuksia. Tämä kuvaus on tarkoitettu DynamiittiOravan jäsenille viitteeksi ja sen kattavuus on suhteutettuna siihen tuntemukseen joka tiimin jäsenille muodostui projektin aikana.
+>Luvuista 1,5-7 löytyy yleisiä ja sekalaisia huomioita projektin teknisestä puolesta. Luku 3 on asiakirjan ydin, jossa käydään läpi teknistä suunnitelmaa, eli sitä millaista sivustoa oikein rakennamme. Luku 4 kirjaa lopullisen sivuston ulkoasua, ominaisuuksia ja toiminnallisuutta.
 
 ### 1.2		Tuote ja ympäristö
 
@@ -72,107 +73,36 @@ Tämä dokumentin pohjana käytetään alkuperäistä http://www.cs.tut.fi/ohj/d
 
 ## 3.		ARKKITEHTUURIN KUVAUS
 
->Tämä on suunnitteludokumentin tärkein kohta. Luku sisältää asiat, jotka kaikkien järjestelmän toteutusta tekevien täytyy tietää ja ymmärtää. Luvussa kuvataan (perusteluineen) mm. suunnittelu¬periaatteet, teknologiavalinnat ja ohjelmiston arkkitehtuuri yleisesti.  Jaottelua alilukuihin ei välttämättä kannata tehdä tässä esitetyllä tavalla, vaan kannattaa miettiä, mikä on kulloisessakin tapauksessa järkevin esitysjärjestys luvun asioille. Esimerkiksi kohdat 3.1 ja 3.2 kannattaa joskus yhdistää.
+>Nettisivusto rakennetaan DynamiittiOravan osaamisen rajoissa, joka alkaa muttei rajoitu nettiteknologiohin HTML, JavaScript, React ja Node.js.
 
 ### 3.1		Suunnitteluperiaatteet
 
->Tässä kohdassa esitetään kehitettävän järjestelmän toteutuksen  ”perusfilosofia”. Filosofia määrittelee mahdollisimman suppean ja yksinkertaisen joukon peruskäsitteitä ja sääntöjä, joiden mukaan suunnittelupäätöksiä nyt ja tulevaisuudessa tehdään. Peruskäsitteet ja säännöt voivat liittyä kohdan 3.2 arkkitehtuurikuvauksen joihinkin keskeisiin moduuleihin niin kiinteästi, että niiden kuvaus kannattaa siirtää tähän (tai jopa yhdistää kohdat 3.1 ja 3.2). Myös tehdyt teknologiavalinnat voivat olla osa ”sääntöjä”. Filosofian voi ajatella sisältävän järjestelmän toteutuksesta sellaiset asiat, jotka säilyvät (todennäköisesti) muuttumattomina koko elinkaaren ajan. Filosofia helpottaa toteuttajien keskinäistä kommunikointia ja yhdenmukaistaa suunnitteluratkaisuja järjestelmän eri osissa. Esimerkkejä:
-
-
-  * Ohjausjärjestelmä toteutetaan mikrokontrollerissa ilman käyttöjärjestelmätukea.
-  * Järjestelmä jakaantuu osiin seuraavasti: laitteisto¬abstraktiokerros, käyttöjärjestelmäkerros ja sovellusmoduulikerros.
-  * Laitteistoabstraktiokerroksen tarkoituksena on piilottaa käytettävän piirikortin ominaisuudet, jotta toteutusalusta on myöhemmin tarvittaessa vaihdettavissa.
-  * Käyttöjärjestelmä toteuttaa sovellusmoduulikerroksen prosessien skeduloinnin ja keskeytyskäsittelyn ohjauksen sovellusmoduulikerrokselle.
-  * Sovellusmoduulikerroksen moduulit ovat joko passiivisia (kirjastoja) tai aktiivisia (prosesseja). Molempien tyyppien koodirungoista on esimerkki liitteessä x.
-  * Kutakin ulkoista keskeytyslähdettä kohti määritellään ko. keskeytyksen käsittelevä aktiivinen sovellusmoduuli.
-Esimerkiksi luokka ja tapahtumasekvenssikaavioita voi käyttää kuvauksen selkeyttämiseksi.
+>Nettisivustosta laaditaan design-luonnoksia käyttäen Figma-työkalua. Sivuston osien tulee olla selkeät ja painoitus on uuden asiakkaan kokemuksessa. Sivujen tavoite on herättää uuden kävijän luottamus ja mielenkiinto ottaa yhteyttä GrafiTreamiin tilausta varten. Sivustolla esitelty tieto tulee olla totuudenmukaista ja selkeästi esittää GrafiTeamin toimintaa. Samalla DynamiittiOrava haluaa myös oppia jotain uutta käytetysta teknologiasta, eli emme vain tyydy kulkemaan sitä tuttua ja turvallisinta reittiä jos ideoimme jotain joka sopivassa määrin haastaa meitä ja muuten tähtää parempaan lopputulokseen sivun suhteen.
 
 ### 3.2	 	Ohjelmistoarkkitehtuuri, moduulit ja prosessit
 
+(Work In Progress)
 >Tässä kohdassa esitetään yksityiskohtaisesti ohjelmiston jako osajärjestelmiin, ohjelmiin, prosesseihin, moduuleihin, pakkauksiin ja/tai luokkiin. Lisäksi kuvataan moduulinen välistä kommunikointia esimerkiksi tapahtumasekvenssikaavioiden avulla.
 Moduuleista erotellaan "valmisosat", eli muualta sellaisenaan tai muokaten napatut osat. Nämä seikat voi kuvata esim. moduulikaaviossa erilaisilla korostuskeinoilla.  
 Tässä voidaan myös esittää nimeämiskäytäntöjä, viittauksia tyylioppaisiin yms. kaikkien moduulien toteutukseen liittyviä asioita.
 
 ## Suoritysympäristön (tuotanto) kuvaus
 
-  * Miten tuote ajetaan tuotannossa 
-  * Sijoittelunäkymä (Depoyment diagram)
+Käyttäjäkokemus:
+1. Käyttäjä avaa sivuston GrafiTeam.fi.
+2. Käyttäjä selaa sivustoa.
+3. Käyttäjä ottaa yhteyttä GraTeamiin ja tilaa jotain.
 
-```plantuml
-@startuml
-actor User
-node "Client_Host" as WIN10{
-node "Browser"{
-}
-}
-
-cloud "Network" as net{
-queue "https"{
-}
-}
-
-node "Uno Server / Ubuntu 20.04" as AWS{ 
-node "Frontend_Container"{ 
-}
-node "Backend_Container" {
-}
-database "MariaDB_Container" {
-}
-node "Logger_Container" {
-}
-
-}
-User -- Browser
-Browser -- https
-https -- Frontend_Container
-Frontend_Container -- Backend_Container
-Backend_Container -- MariaDB_Container
-Logger_Container -- Frontend_Container
-Logger_Container -- Backend_Container
-Logger_Container -- MariaDB_Container
-
-@enduml
-```
-
-
-
+Tekninen puoli käyttäjäkokemuksesta:
+1. Sivusto latautuu palveluntarjoajalta käyttäjän laitteeseen.
 
 ### 3.3		Tietokantaarkkitehtuuri
 
->Tässä kohdassa kuvataan tiedostot ja tietokannat, mm. jako tiedostoihin ja/tai tietokantoihin, tiedostojen ja tietokantojen väliset liittymät, tiedostojen ja tietokantojen organisointi, käytettävät tietokantaohjelmistot (jos on), suojaukset, toipuminen, varmistukset, huolto, ylläpito. 
-Tiedostoista ja tietokannoista esitetään rakenne (esim. taulut eli relaatiokuvaukset, mikäli toteutus tehdään relaatiotietokannalla). Suunnitteludokumentissa määrittelydokumentin tietosisältökuvaukset muunnetaan fyysisen tietokannan kuvauksiksi. Esimerkiksi relaatio¬tieto¬kantaa käytettäessä määrittelydokumentin tietosisältökuvauksessa mahdollisesti olevat periytymissuhteet ja montamoneen –yhteydet puretaan. Lisäksi määritellään navigointia varten tarvittavat indeksit. Kuvauksen perusteella pitäisi pystyä kirjoittamaan tietokantaa luotaessa tarvittavat SQLkielen create table ja create index lauseet. Tietokantaratkaisusta ja tiedostoista kuvataan:
+>Nettisivulle ei tulekaan tietokantatoiminnallisuutta.
 
-  * ratkaisun yleiskuva, tietokannat, tiedostot ja niiden väliset liittymät
-  * tietokantaa käyttävät muut ohjelmistot tai järjestelmät
-  * tietokannan tukiohjelmisto (esim. varmistukset, toipuminen, testaus)
-  * tietokannoista ja tiedostoista
-  * tietokannan rakenne (luokkakaavio selityksineen)
-  * tiedoston tietueiden kenttien ja tietokannan taulujen sarakkeiden kuvaukset:
-  * kentän nimi tai tunniste
-  * kentän merkitys
-  * kentän pituus ja muoto
-  * sallitut arvot tyyppi
-  * käsittely tai laskentasäännöt
-  * suhteet muihin tietoihin
-  * päivityskriteerit ja tavat
-  * tilavaatimukset
-  * ylläpitonäkökohdat
-  * varmistusnäkökohdat
-  * suojausnäkökohdat.
-	
 ### 3.4	Virhe ja poikkeusmenettelyt
 
->Virhe ja poikkeusmenettelyt yleisellä (arkkitehtuuri) tasolla. Luvussa 4 kuvataan tarkemmin moduulitasolla. 
-Virheilmoitusten tekstit tulee kiinnittää viimeistään suunnittelussa (olisi parempi miettiä ne jo määrittelyvaiheessa). Virheenkäsittelystä otetaan huomioon seuraavanlaisia asioita:
-
-  * yleiset virhekäsittelysäännöt
-  * yleiset moduulit virheiden käsittelemiseksi
-  * virheilmoitusten tunnistaminen
-  * virheilmoitusten tallettaminen (muistiin, levylle)
-  * virheilmoitusten ryhmittely (vakavuus, käyttäjän vai järjestelmän)
-  * virheilmoitustekstit.
-
-Toiminta epänormaaleissa tilanteissa kuuluu määrittelydokumenttiin, mutta viimeistään suunnittelussa on asiaan otettava kantaa. Esimerkiksi miten järjestelmä käyttäytyy virtakatkoksissa: "nouseeko itse pystyyn" vai "jääkö jumiin".
+>Nettisivuilla ei ole implementoitu virheilmoituksia DynamiittiOravan puolesta.
 
 ### 3.5 Tuotekehitysympäristön kuvaus
 
@@ -187,6 +117,7 @@ Toiminta epänormaaleissa tilanteissa kuuluu määrittelydokumenttiin, mutta vii
 
 ## Käytetyt työvälineet ja niiden versionumerot
 
+(WORK IN PROGRESS)
 * Kääntäjä xyz v1.0.1
 * debuggeri zky v2.05
 * Firefox 123
@@ -235,37 +166,24 @@ Tarvittaessa voidaan antaa ohjeita toteutusta varten, esimerkiksi:
 
 ## 5.		VALMISOSAT JA ERITYISET TEKNISET RATKAISUT
 
->Mikäli on valmisosia eli ulkopuolisia komponentteja, niin sellaisista selostetaan:
+>Nettisivut pääasiassa rakennettiin itse suhteellisen pohjalta. Toki hyödynsimme esimerkiksi Reactia ja sen kirjastoja. Näistä selkein palikka joka tuli käyttöön, on gallerian karuselli. (Katso tarkemmin linkkiä yllä, luvusta 2.)
 
-  * mistä ne saadaan 
-  * mihin ne sijoitetaan 
-  * käyttö 
-  * muuta olennaista (jotta joku toinen osaisi koota sovelluksen tai lisätä ne mukaan). 
-
->Mikäli jotkin asiat poikkeavat projektin tavanomaisista työtavoista. "Alan tavanomaisista käytännöistä poikkeavat ratkaisut", joita alan työntekijä ei ehkä heti arvaisi. 
->Esimerkiksi seuraavia asioita, mikäli tarpeellista:
-  * suojaukset, turvallisuus
-  * varmistukset
-  * toipumiset
-  * ylläpidettävyys
-  * joustavuus
-  * siirrettävyys tai kannettavuus.
-
->Varsinkin jos on jokin erityinen tai poikkeava tapa tehdä jotakin. 
-Myös toteutusvälineet voidaan mainita tässä, mikäli se on todellakin oleellista kertoa jo tässä (suunnittelu) vaiheessa (harvinaista eikä suositeltavaa, esimerkiksi Bkääntäjän versio 2.77 joka tukee Dkirjastoa 4.56). Projektisuunnitelmassahan on tarkat tiedot toteutusvälineistä. 
-Esimerkiksi pystyykö ohjelma toipumaan automaattisesti sähkökatkoista tai käyttöjärjestelmän "kaatumisista"?
-
+>Nettisivulla ei poiketa silmäänpistävästi tavanomaisista nettisivujen toimintatavoista tai teknisistä ratkaisuista. Suojaukset, varmistukset, toipumiset ja siirrettävyys riippuvat sivuston nykyisestä palveluntarjoajasta. Sivuston ylläpito jää toimeksiantajan harteille ja heillä itsellään on back-end puoleen tarvittavat tunnukset.
 	
 ## 6.	HYLÄTYT RATKAISUVAIHTOEHDOT
 
->Mietityt, mutta hylätyt, ratkaisuvaihtoehdot kannattaa kirjata perusteluineen johonkin sopivaan lukuun tai kohtaan päivämäärineen. Siten seuraava dokumentin lukija näkee, että tuotakin asiaa on mietitty. Samoin jos itse lukee suunnitteludokumenttia puolen vuoden päästä, voi olla vaikea muistaa, mitä asioita on mietitty järjestelmää tehtäessä. Projektin lopussa hylätyt ratkaisuvaihtoehdot kerätään projektisuunnitelman loppuun.
+>Nettisivun ensimmäisiä design versioita ei toteutettu kun DynamiittiOrava ei saanut ehdotelman vaatimia materiaaleja toimeksiantajalta. Sivustolla ei täten ole suuressa visuaalisessa roolissa kuvia toimeksiantajan tuotteista ja toteutuksista.
+
+>Google Analytics oli käytössä (evästeiden kera) sivuston aikaisemmilla versioilla, joten tutkimme kuinka tätä halutaan hyödyntää uudessa toteutuksessa. Toimeksiantaja kuitenkin priorisoi myös itselleen helppoa ylläpitoa joten GA-päivityksiä ja ilmaisen käytön muuttumista ennakoiden, tehtiin päätös jättää tämä työkalu pois sivustolta.
+
+>Nettisivuista on vain suomenkielinen toteutus kun toimeksiantaja ei halunnut vetää puoleensa ulkomaalaisia tilaajia tässä vaiheessa.
 
 ## 7.	JATKOKEHITYSAJATUKSIA
 
->Kerätään matkan varrella mieleen tulleita hyödyllisiä ajatuksia, joita ei tämän projektin puitteissa kuitenkaan suunnitella tarkemmin tai toteuteta; esimerkiksi ajan puutteen, rahan puutteen, resurssien puutteen tai taitojen ja osaamisen takia.
-Jatkokehitysajatukset kannattaa esimerkiksi numeroida, jotta niihin viittaaminen olisi helpompaa myöhemmin. Päiväys ja ehdottajan nimi(kirjaimet) auttavat jälkitarkastelussa, varsinkin jos lähde on projektin ulkopuolinen, jos vuoden kuluttua projekti saa yllättäen rahoitusta jatkokehitystä varten.
-Projektin lopussa tämä luku kerätään projektisuunnitelman loppuun. Jatkokehitysajatukset voi esittää myös omana liitteenään, joka voi tarvittaessa kulkea muidenkin projektin dokumenttien liitteenä. 
-
+>Nettisivuston lataamisajan parantamiseen voisi paneutua.
+>Nettisivun värimaailma voisi vaihdella juhlapyhien mukaan.
+>Nettisivun hakukoneoptimointia voisi kehittää.
+>Nettisivulla voisi olla sarjakuvia.
 
 
 
