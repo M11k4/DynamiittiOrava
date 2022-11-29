@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Projektin loppuraportti |
 | Laatija: | Dynamiittiorava tiimi |
-| Versio: | 0.3 |
-| Päivämäärä: | 15.11.2022 |
+| Versio: | 0.4 |
+| Päivämäärä: | 29.11.2022 |
 
 
 # 1.	JOHDANTO	
@@ -95,46 +95,54 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ### 4.2.2.	Suunnitelmallisuus (projektityöskentely) 
 
-*	suunnitelmat
+*	Suunnitelmana oli luoda uudet ja paremmat päivitetyt nettisivut toimeksiantajalle.
 
-*	mitä tehty?
+*	Mitä tehty? "Me tehtiin ne!" :D
 
-*	mitä käytetty/valvottu (miten näkynyt projektin arjessa)?
+*	Projektia valvottiin pitämällä daily palavereja jokaisena arkipäivänä projektin aikana ja maanantiasin sprintti kohtaiset palaverit.
 
-*	mitä päivitetty ja miksi?
+*	Suunnitelma oli tehty niin hyvin, kuin ensikertalaisina pystyttiin tekemään. Otettiin mielestämme kaikki asiat huomioon mitä pystyttiin ottamaan. 
 
-*	miten hyvin tehty?
+*	Suunnitelma ei toteutunut täysin alkuperäisen suunnitelmien mukaisesti vaan matkalla tuli paljon muuttujia. Lähinnä versiokohtaiset määritteet ja suunnitelmat eivät täysin pitäneet vaan ne vaihtuivat tai osa-alueet jäivät kokonaan pois. Osittain tämä johtui siitä, että toimeksiantajalle ei ollut meidän suunnitelmiin mätsääviä resursseja tai materiaaleja.
 
-*	resurssien hallinta
+*	Projektiprosessin dokumentointi sujui viestintäsuunnitelman mukaisesti teamssiin luodulla projektikohtaisella kanavalla ja gitlab repositorioissa. Kaikki keskustelut ja dokumentointi on tallella mitä projektiin liittyi.
 
-*	suunniteltu
-
-*	valvonta
-
-*	toteutuminen
-
-*	projektiprosessin dokumentointi (mm. muistiot eri palavereista)
-
-*	projektiprosessin hallinta
+*	Projektiprosessin hallinta.
 
 ### 4.2.3.	Vuorovaikutus
 
 *	yhteydenpito sidosryhmiin (ketkä ovat sidosryhmiä?)
+
 *	tiedonhankinta (toimeksiantajalta tiedon saaminen)
+
 *	haastattelut ja niiden valmistelu, toteutus ja tiedon jalostus
+
 *	tiedottaminen
+
 *	asiakasorganisaatiossa
+
 *	erityiskohderyhmät
+
 *	ammattikorkeakoululle
+
 *	muut kohteet ja mediat (jos näkynyt esim. lehdissä, messuilla tms.)
+
 *	johtoryhmätyöskentely (valmistautuminen, tavoitteiden saavuttaminen, läpivienti)
+
 *	tehtävän kehittäminen ja rajaukset 
+
 *	miten tehty?
+
 *	kenen esityksestä ja millä tiedoilla?
+
 *	tukiryhmätoiminta (tiedon saaminen, asiantuntijoiden hyödyntäminen)
+
 *	”fiilis” ja sen syyt (jos ”alavireinen”, niin kuinka parannettu?)
+
 *	toisten työkiireiden huomioiminen yhteydenpidossa (ennakointi, matkat ym.)
+
 *	yhteydenpitovälineiden käyttö (mikä on järkevä väline eri tilanteisiin, palaverit kallista ajankäyttöä)
+
 *	vuorovaikutuksen tuloksellisuus (Jory, sähköposti, muut)
 
 ### 4.2.4.	Asenne
