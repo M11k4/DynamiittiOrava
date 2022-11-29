@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Projektin loppuraportti |
 | Laatija: | Dynamiittiorava tiimi |
-| Versio: | 0.1 |
+| Versio: | 0.3 |
 | Päivämäärä: | 15.11.2022 |
 
 
@@ -67,7 +67,7 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ## 4.1.	Keskeiset opit
 
-* Listatkaa opitut asiat esim. henkilöittäin ja/tai vaiheittain. Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises).
+* Pienryhmissä työskentely ja työnjako ryhmän sisällä. Kirjoitappa Niilo tähän nyt jotain jännää ja pätevän kuulosta.
 
 ## 4.2.	Itsearviointi
 
@@ -75,30 +75,46 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ### 4.2.1.	Ryhmätyö
 
-*	projektipäällikkyys (ei henkilöön kohdistuvaa, vaan yleisemmällä tasolla)
-*	erilaisuuden hyödyntäminen
-*	ongelmanratkaisu (ei pelkästään teknisten ongelmien ratkaisemista, viestintä ym.)
-*	työnjako ja tehtävien hallinta
-*	ryhmän oma työ 
-*	toisten työ (esim. tukiryhmätoiminta)
-*	resurssien hyödyntäminen (mitkä ovat teidän resurssinne?)
-*	ohjaus ja sen käyttö (mitä muutakin kuin oma ohjaaja?)
-*	ryhmäprosessi (ryhmällä eri kehitysvaiheita (joukko, klikki, ME, tiimi), miten kehittynyt?)
-*	kriisit ja niistä selviäminen 
-*	oman työn kriittinen kehittäminen	
+*	Projektipäällikkyys toteutui ehkä parhaiten dailyjen kohdalla, jossa käsiteltiin pienryhmien toteutuksen etenemistä ja seuraavien työvaiheiden alkua. Viikon alkupalaverissa käsiteltiin mitä tehtiin edellisellä viikolla ja mitä tullaan seuraavalla viikolla tekemään.
+
+*	Erilaisuuden hyödyntäminen toteutui lähinnä siinä, että kaikki pääsi tekemään toteutusta sillä osa-alueella missä halusikin saada lisää oppia. Myös siinä tätä hyödynnettiin, että ne joilla oli jo ennnestään tieätmystä tai osaamista pääsi hyödyntämään osaamistaan projektin toteutuksessa.
+
+*	Ongelmanratkaisu toteutui ehkä parhaiten daily palavereissa tiimin kesken spekuloiden. Ongelmat saatiin siis ratkaistua tiimin sisäisesti kysymällä tiimiläisiltä neuvoa.
+
+*	Työnjako ja tehtävien hallinta meni pitkälti omalla painollaan. Työnjako ja tehtävien jako toteutui pitkälti teams palavereissa.
+
+*	Ryhmät hoitivat kaikki itse pienryhmien sisäisesti issueiden hallintaa jokaisen sprintin/milestonen kohdalla.
+
+*	Ohjaus ja sen käyttö olisi ollut mahdollista hyödyntää, mutta ratkaistiin kaikki ongelmat sisäisesti paria kertaa lukuunottamatta.
+
+*	Ryhmäytyminen alkoi kehittymään jo ennen harjoittelua, kun koko tiimi koostui lähinnä opiskelijoista, jotka olivat koululla läsnä opiskelemassa. Läsnäolo palavereissa ja projektin aikan edisti ryhmäytymistä ja tiivisti porukkaa.
+
+*	Kriisejä ei pahemmin tuntunut olevan ja ne pienet vastoinkäymiset mitä jouduimme kohtaamaan selvitettiin ja käsiteltiin ryhmänä. Aikamääreet toi pientä kriiseilyä, mutta se osattiin kääntää vahvuudeksi ja ryhmänä selvittää ongelmat.
+
+*	Oman työn kriittinen kehittäminen: Aika ja sen käyttö. Aikaa olisi voinut käyttää paremmin ja kiristää aikataulua, mutta toisaalta taas annettiin reilusti tilaa oppimiselle ja ei oltu liian ankaria toteutuksen edistymiselle.
 
 ### 4.2.2.	Suunnitelmallisuus (projektityöskentely) 
 
 *	suunnitelmat
+
 *	mitä tehty?
+
 *	mitä käytetty/valvottu (miten näkynyt projektin arjessa)?
+
 *	mitä päivitetty ja miksi?
+
 *	miten hyvin tehty?
+
 *	resurssien hallinta
+
 *	suunniteltu
+
 *	valvonta
+
 *	toteutuminen
+
 *	projektiprosessin dokumentointi (mm. muistiot eri palavereista)
+
 *	projektiprosessin hallinta
 
 ### 4.2.3.	Vuorovaikutus
