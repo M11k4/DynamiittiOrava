@@ -3,82 +3,72 @@
 |  |  |
 |:-:|:-:|
 | Dokumentti | Ohjelmiston arkkitehtuuri kuvaus-pohja |
-| Laatija: | *nimi* |
-| Versio: | *0.0?* |
-| Päivämäärä: | 1.x.202y |
-
-
-![](https://openclipart.org/image/400px/svg_to_png/290580/dogskeleton.png)
+| Laatija: | DynamiittiOrava |
+| Versio: | 3.3 |
+| Päivämäärä: | 29.11.2022 |
 
 Tämä dokumentin pohjana käytetään alkuperäistä http://www.cs.tut.fi/ohj/dokumenttipohjat/pohjat/suunnittelu/hytt_drsuunnittelu.doc
 
-*Nöyrin kiitos alkuperäisen tekijöille!*
+*Kiitos alkuperäisen rungon laatijoille.*
 
 # 1.JOHDANTO
 
 ### 1.1		Tarkoitus ja kattavuus
 
-
->Esitetään dokumentin tarkoitus, miksi se on tehty ja mihin tarkoitukseen ja kenelle se on tarkoitettu (oman firman toteutusporukka vai alihankkija vai kuka).
-Luetellaan, mitä asioita dokumentissa kuvataan; varsinkin jos lukija ei ole tottunut lukemaan suunnitteludokumentteja.
-Määritetään suunnittelun kattavuus suhteessa määrittelyyn. Mikäli suunnittelu ei kata koko määrittelyä tulee se mainita tässä (eli mitä muita suunnitteluvaiheen dokumentteja on olemassa, esim. jos käyttöliittymän tai tietokannan suunnittelu on irrotettu omiksi dokumenteikseen).
+>Tällä sivulla avataan Dynamiitti Oravan syksyn 2022 projektin teknistä suunnitelmaa ja toteutusta, keskittymällä tuotoksen ominaisuuksiin. Dokumentin tarkoitus on kirjata projektin teknista tavoitetta ja kuvata tuotoksen ominaisuuksia. Tämä kuvaus on tarkoitettu DynamiittiOravan jäsenille viitteeksi ja sen kattavuus on suhteutettuna siihen tuntemukseen joka tiimin jäsenille muodostui projektin aikana.
 
 ### 1.2		Tuote ja ympäristö
 
-> Mainitaan tuotteen nimi, tarkoitus ja tavoitteet. Tuotteen toimintaympäristö yleisesti: esimerkiksi PC, Windows98 ja lähiverkko.
+>Tuotamme verkkosivuston toimeksiantajalle. GrafiTeam Oy haluaa selkeät sivut jolla heidän asiakkaat saavat tietoa yrityksestä ja tilattavista tuotteista. Sivuston tulee toimia yleisimmillä nettiselaimilla internetissä.
 
 ### 1.3		Määritelmät, merkintätavat ja lyhenteet 
 
->Selitetään aakkosjärjestyksessä sanat ja käsitteet, jotka eivät ole lukijalle tuttuja, tai joiden voidaan ajatella tuottavan sekaannuksia erikoisella käytöllään tai jotka eivät yleisesti ole tiedossa. Nämä kannattaa esittää aakkosjärjestyksessä. Esim. ASCIImerkistöstä ilmoitetaan, onko se 7bittinen (esim. ISO 10646) tai 8bittinen (esim. ISO 88591).
+>evästeet - verkkosivun lokaalisti tallentama tieto kävijän laitteelle.
+>nettisivu - tuottamamme verkkosivusto joka lopulta tarjotaan toimeksiantajalle.
+>palikka - viittaa Reactissa toteutettuihin verkkosivun osiin.
+>palvelin - jokin osa jota jonkun pitäisi ymmärtää sivuston julkaisemiseksi.
+>printti - sana jota toimeksiantaja suosi tuotteestaan, vrt painatus/painotuote/tulostus.
+>turbiini - rakennuksen nimi jossa tiimimme pystyi tavata Jamkin Lutakon kampuksella.
 
 ### 1.4		Viitteet
 
->Luetellaan viittaukset muihin lähteisiin (dokumentit, standardit, käsikirjat, tyyliohjeet, jne.) viitteen mukaan aakkosjärjestyksessä. Viitteistä ilmoitetaan nimi, versio, päiväys ja mistä ne ovat löydettävissä. Viitteiksi voidaan laittaa esimerkiksi:
+>Ulkopuolisia dokumentteja joita hyödynsimme projektin aikana.
 
-  * dokumentit, joihin on viitattu (esim. määrittely)
-  * dokumentit, jotka liittyvät systeemiin tai sen rakentamiseen
-  * lisätiedot
-  * (koodaus)tyyliohjeet. 
-  * Mikäli suunnittelu ei kata koko määrittelyä, se mainitaan tässä. Samalla selvitetään, mitä muita suunnitteluvaiheen dokumentteja on olemassa. 
-  * Esimerkiksi tietokannan tai käyttöliittymän suunnittelu on voitu irrottaa omaksi dokumentikseen).
+ * https://www.npmjs.com/package/react-responsive-carousel
 
-### 1.5		Yleiskatsaus dokumenttiin 
-
->Kohdassa kuvataan dokumentin rakenne, sisältö ja organisointi; mitä missäkin luvussa käsitellään. Tämä on tärkeää varsinkin jos lukija ei ole tottunut lukemaan suunnitteludokumentteja.
->Mikäli ensimmäinen luku on kokonaisuudessaan samalla sivulla kuin tämä kohta (1.5 yleiskatsaus) tai se on kovin lyhyt, ei sitä tarvitse tässä kohdassa mainita, vaan voidaan aloittaa >luvun 2 asioista.
->Kunkin luvun sisältöä kuvataan enemmän kuin mitä pelkkä sisällysluettelon selaaminen kertoo.
->Myös mahdolliset liitteet kuvaillaan tässä, esim. liitteet 14 sisältävät järjestelmän pääosien luokkakaaviot.
+>Testasimme lukuisia muita mahdollisia valmiita osia joita voisi hyödyntää sivustoa kootessa, mutta suurin osa jäi tien varteen. (Valmisosista tarkemmin alla, luvussa 5.)
 
 ## 2.		JÄRJESTELMÄN YLEISKUVAUS
 
->Luvussa esitetään toteutettavan järjestelmän yleiskuvaus, johdatus asiakkaan ympäristöön ja sovellusalueeseen.
+>Nettisivu mainostaa ja julkistaa toimeksiantajan yhteystiedot ja tuotteita.
 
 ### 2.1		Sovellusalueen kuvaus
 
->Kuvataan ympäristö, johon tuote tai järjestelmä liittyy. Esimerkiksi TUT:n opintotoimiston salivarausjärjestelmä.
+>Nettisivu julkaistaan julkisella palvelimella.
 
 ### 2.2		Järjestelmän liittyminen ympäristöönsä
 
->Määritetään, mitä järjestelmä tässä ympäristössä tekee, ja käyttääkö kuvattu järjestelmä muita ohjelmia tai järjestelmiä, eli onko se jonkin suuremman järjestelmän osa.
+>Nettisivu on itsenäinen kokonaisuus, vaikka toki sieltä on linkitys toimeksiantajan sosiaalisen median profiileihin.
 
 ### 2.3		Laitteistoympäristö
 
->Kuvataan laitteistoympäristö, jossa järjestelmä toimii. Esimerkiksi mitä oheislaitteita tarvitaan, mitä keskusyksiköltä odotetaan, mitä laitteiden ominaisuuksia ohjelma hyödyntää, mitkä laitteiston ominaisuudet rajoittavat teknisiä ratkaisuja ja millaiset ovat liittymät muihin tietokoneisiin.
+>Nettisivu toimii yleisimmillä ajantasaisilla internetselaimilla. Tämän lisäksi käyttäjällä tulee olla toimiva internetyhteys. Sivusto on kevyt eikä vaadi laitteilta merkittävää toimintakykyä. 
 
 ### 2.4		Ohjelmistoympäristö
 
->Esitetään järjestelmän ohjelmistoympäristö tarkkoine versioineen: käyttöjärjestelmä, kääntäjä, muut apuvälineet, tietokantaohjelmisto, tietoliikenneohjelmisto, wwwselain, liittymät muihin ohjelmistoihin ja sovelluksiin sekä muut laitteistossa yhtä aikaa ajettavat ohjelmat. Tarvittaessa voidaan selittää myös kehitys ja testausympäristö. 
+>Nettisivu on rakennettu hajoitetulla kehitysprosessilla jakaen projektin eri versioita git-järjestelmän avulla. Kukin kehittäjä toimi omilla alustoillaan, esimerkiksi editorina käytettiin Visual Studio Code (ver. 1.73.1) Windows alustalla. Osana tätä kokonaisuutta toimi Node.js, josta oli myös höytyä automaattisen testauksen puolella.
 
 ### 2.5		Toteutuksen keskeiset reunaehdot
 
->Mainitaan tärkeät reunaehdot. Ne ovat usein asiakkaalta vaatimuksia.  Niitä voivat olla esimerkiksi toteutuslaitteisto, ohjelmisto, lait tai asetukset, vasteajat, kriittisyys, oikeellisuus, turvallisuus ja ohjelmointikieli.
-Tässä voidaan mainita myös ohje dokumentin sekä koodin kommenttien, muuttujien ja funktioiden yms. kielisyydestä.
+>Nettisivun tulee toimia vähintään 20 yhtäaikaisella kävijällä. Nettisivulla ei ole juurikaan interaktiivista sisältöä, niin tämä vaatimus ei ole raskas ja toteutuu palveluntarjoajan sopimuksesta. Nettisivulla ei ole suuria teknisiä turvallisuusriskejä. (Toimeksiantaja kuitenkin toivoi yhteystietonsa olevan selkeästi, mutkattomasti ja salauksetta näkyvillä sivuilla.)
 
 ### 2.6		Sopimukset ja standardit
 
->Jos käytetään standardien ja/tai eri sopimusten mukaisia suunnittelumenetelmiä, kuvaustapoja, dokumentointimalleja tms., niin ne mainitaan. Kuvataan myös mahdollisesti valmisosien käyttö ja niiden nimeämissäännöt (tarvittaessa viittaus liitteeseen tai omaan dokumenttiinsa).
-Myös erilaiset direktiivit, viranomaismääräykset ja ohjeistot mainitaan, mikäli ne vaikuttavat suunnitteluun. Tässä ne voi mainita nimeltä ja kohdassa 1.5 esitetään koko lähde tarkasti.
-Otetaan kantaa myös projektin aineiston luottamuksellisuuteen mikäli siitä on aiheellista mainita. Luottamuksellisuuteen liittyviä asioita ovat esimerkiksi: jakelu, säilytys, vanhojen versioiden hävittäminen jne.
+>GrafiTeam Oy:n ja DynamiittiOravan välillä oli sanallainen ystävyyssopimus ilman suurempia vaatimuksia puolin tai toisin. DynamiittiOrava tarjoutui valmistamaan GrafiTeamille uudet nettisivut jotka GrafiTeam saisi käyttöönsä halutessaan.
+
+>Nettisivua rakentaessa otimmi huomioon viranomaisten laatimia sääntöjä ja direktiivejä. Esimerkiksi evästevaatimukset tuottivat paljon keskustelua, vaikka lopulliselle sivulle päädyttiin olla käyttämättä evästeitä.
+
+>DynamiittiOravan jäsenet saavat käyttää projektin jälkeen projektia omissa portfolioissaan, ainakin siltä osin kun tämä ei loukkaa tiimin jäsenten yksityissuojaa tai muuten esitä jäseniä huonossa valossa.
 
 ## 3.		ARKKITEHTUURIN KUVAUS
 
@@ -276,9 +266,6 @@ Esimerkiksi pystyykö ohjelma toipumaan automaattisesti sähkökatkoista tai kä
 Jatkokehitysajatukset kannattaa esimerkiksi numeroida, jotta niihin viittaaminen olisi helpompaa myöhemmin. Päiväys ja ehdottajan nimi(kirjaimet) auttavat jälkitarkastelussa, varsinkin jos lähde on projektin ulkopuolinen, jos vuoden kuluttua projekti saa yllättäen rahoitusta jatkokehitystä varten.
 Projektin lopussa tämä luku kerätään projektisuunnitelman loppuun. Jatkokehitysajatukset voi esittää myös omana liitteenään, joka voi tarvittaessa kulkea muidenkin projektin dokumenttien liitteenä. 
 
-## 8.	VIELÄ AVOIMET ASIAT
-
->Luku on epävirallinen ja sitä ei pitäisi olla enää projektin lopussa. Tähän voidaan merkitä dokumentin elinkaaren aikana avoinna olevia eli ratkaisua vaativia asioita, jotta ne muistettaisiin selvittää ennen dokumentin lopullista valmistumista.
 
 
 
