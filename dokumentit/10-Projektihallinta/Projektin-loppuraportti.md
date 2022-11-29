@@ -27,12 +27,8 @@ Tämän dokumentin tarkoitus on presentoida meidän harjoittelujakso kokonaisuud
 * Projektin tarkoituksena oli luoda asiakkaalle uudet ja paremmat nettisivut. Tavoitteena oli pysyä aikamääreissä ja saada lopputulos luovutettua asiakkaalle ennenkö koulutus loppuu. Tavoiteltiin myös sitä, että asiakkaalle ei tulisi yhtään lisää kuluja sivuihin liittyen.
 Kuitenkin ehkä suurimpana tavoitteena oli, että kaikki tiimiläiset oppii ryhmätyö taitoja ja voivat kehittää itseään ja omaa osaamistaan niissä osa-alueissa missä on päässyt harjoittelun aikana tuotantoon osallistumaan.
 
-* mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto)
-* miten onnistuttiin
 
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutus)
-
-
 
 Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
 *	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
@@ -53,9 +49,19 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ## 3.2.	Ongelmat toteutuksessa
 
-* Tänne voi lisätä kohtia jos niitä on ilmennyt ja onhan jotakin ongelmia aina ilmennyt
+* Toimeksiantajan passiivisuus vuorovaikutuksessa projektin aikana.
+* Viivästykset materiaalien ja informaatioiden toimituksessa toimeksiantajalta meille.
+* Projektin toteutus oli täysin opettelua, joten se toi mukanaan paljon hankaluuksia esimerkiksi korjauksien reaktioajoissa.
+* Ensikertalaisuus toi mukanaan omat haasteensa toteutuksen aika-arvioinneissa.
+* Aikataulutus oli haasteellista.
 
-## 3.3.	Muut ongelmat tai toteutuneet riskit ja niiden käsittely
+## 3.3.	Onnistumiset toteutuksessa
+
+* Sivusto saatiin valmiiksi ja asennettua palvelimelle pyörimään.
+* Suunnitelmassa pysyttiin suurrpiirteisesti.
+* Aikamääritykset oli pielessä, mutta toteutus onnistui harjoittelun aikana.
+* Palaverien pitäminen ja toteutus onnistui erinomaisesti.
+* Kommunikointi tiimin sisällä onnistui hyvin.
 
 # 4.	YHTEENVETO
 
