@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko |
-| Versio: | 5.5 |
+| Versio: | 5.6 |
 | Päivämäärä: | 1.12.2022 |
 
 
@@ -35,15 +35,14 @@ Keskiössä voisi oikeastaan pitää käytettävyyttä sekä kohdennettua tarjon
 Tehtävälistana on aluksi ymmärtää asiakkaan yritystä ja sen yleisilmettä ja olemusta. Paremmin ilmaistuna tutustua vain yrityksen toimintaan, josta tuossa ylempänä jo aika kattava ja riittävä tietopankki onkin. Tämän kautta päästään määrittelyyn. Määrittelyssä määritetään koko projekti siihen pisteeseen mitä nyt pystyy edes määrittämään vielä tässä vaiheessa. Seuraavana hypätään suunnitteluun. Suunnittelussa otetaan huomioon yrityksen asiakaskunta ja kohderyhmät. Suunnittelussa on myös huomioitava sivuston toteutukseen liittyviä teknisiä toteutuksellisia menetelmiä. Näistä laaditaan mahdollisesti myös oma toteutuksellinen suunnitelma. Seuraavana vuorossa alkaa olemaan itse tuotannollinen vaihe. Suunnittelu elää vielä tässä vaiheessa, kun tuotetta ollaan asiakkaalle toteuttamassa. Sisältö tuotetaan täysin itse koodaamalla. Tuotannossa on kuitenkin paljon eri työvaiheita ja en niitä ala tässä erikseen käymään läpi. Lopussa testataan tuotteen toiminnallisuus ja korjataan mahdollisesti korjattavat asiat. Tämän jälkeen työn luovutus asiakkaalle ja sitten loppupalaveri.
 
 
-
-
 ## 1.3 Rajaus ja liittymät
 
 Tähän on listattuna alle asioita, jotka rajattiin toteutuksesta pois, mutta jotka olisi mahdollista ollut projektissa toteuttaa. Alla listatut kohdat on riisuttu pois erinäisistä syistä, kuten kustannukseen ja asiakkaan toiveisiin liittyvistä syistä.
 
 - Nettisivut toisella kielellä
-- Yhteydenotto lomakkeesta
+- Yhteydenotto lomakke 
 - Tietokanta
+- Erilaisia visuaalisia muutoksia esim värimaailma teemojen mukaan.
 
 ## 1.4 Oikeudet
 
@@ -53,7 +52,7 @@ katso [vaatimusmäärittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-pro
 
 ## 1.5 Projektiin liittyvät haasteet ja vahvuudet
 
-### SWOT analyysi
+### SWOT analyysi projektiin lähdettäessä
 
 ```plantuml
 @startmindmap
@@ -89,7 +88,7 @@ Pyrimme toteuttamaan projektin täysin projektitiimillä. Jos tulee tilanteita, 
 | Nimi | Vastuu | Organisaatio |
 |:-:|:-:|:-:|
 | Taru Vuori | Projektipäällikkö, Yhteyshenkilö, Backend | Dynamiittiorava |
-| Niko Kauppinen | Projektihallinta ja ohjaus, GitLab | Dynamiittiorava |
+| Niko Kauppinen | Projektihallinta, ohjaus ja dokumentointi, GitLab | Dynamiittiorava |
 | Miika Toukola | UI Suunnittelu, Frontend | Dynamiittiorava |
 | Beatrice Raitio | UI Suunnittelu, Frontend | Dynamiittiorava |
 | Joni Peltomäki | Frontend | Dynamiittiorava |
@@ -114,7 +113,7 @@ Pyrimme toteuttamaan projektin täysin projektitiimillä. Jos tulee tilanteita, 
 ** Nettisivut
 *** Dynamiittiorava; Projektitiimi
 **** Määrittely
-***** Niko, Projektin hallinnointi
+***** Niko, Projektin hallinnointi, dokumentointi
 ***** Taru, Projektipäällikkö
 **** Suunnittelu
 ***** Miika, UI
@@ -140,9 +139,9 @@ Projektia koskevat päätökset tehdään koko tiimin kesken demokraattisesti. K
 
 ## 2.3. Taloudelliset tavoitteet
 
-Projektin taloudellisiin tavoitteisiin kuuluu keskeisesti se, että toteutus ei tuota ylimääräisiä kustannuksia tuotteen tilaajalle. Tilaajalla on jo olemassa olevat nettisivut ja pyritään pitämään kustannukset samoissa raameissa, kuin nykyiset sivujen kustannukset ovat. Kaikki niinsanotusti uudet kuluerät neuvotellaan ja keskustellaan asiakkaan kanssa niiden ilmetessä. 
+Projektin taloudellisiin tavoitteisiin kuuluu keskeisesti se, että toteutus ei tuota ylimääräisiä kustannuksia toimeksiantajalle. Toimeksiantajalla on jo olemassa olevat nettisivut ja pyritään pitämään kustannukset samoissa raameissa, kuin nykyiset sivujen kustannukset ovat. Kaikki niinsanotusti uudet kuluerät neuvotellaan ja keskustellaan toimeksiantajan kanssa niiden ilmetessä. 
 
-Työstä emme veloita mitään asiakkaalta, koska teemme kouluprojektia ja tämä on palkaton työharjoittelu kokonaisuus. 
+Työstä emme veloita mitään toimeksiantajalta, koska teemme kouluprojektia ja tämä on palkaton työharjoittelu kokonaisuus. 
 
 ## 2.4. Laadun varmistus
 
@@ -151,6 +150,7 @@ Ylläpitääksemme tiettyä laatua ja linjaa olemme laatineet tietyt pelisäänn
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
 Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Viestintasuunnitelma/). Palavereita pidetään yksi suurempi viikossa, jossa on koko projektitiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
+Daily palaverit muuttuivat projektin puolivälissä yhteen daily palaveriin tiistai - perjantai klo 13:00.
 Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveritiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
 Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä alla olevan GANTT diagrammin avulla.
 
@@ -192,7 +192,7 @@ Project starts 2022-9-12
 @endgantt
 ```
 
-### Lopullinen aikataulutus(keskeneräinen)
+### Lopullinen aikataulutus
 
 
 ```plantuml
@@ -231,7 +231,7 @@ Varsinainen määrittelyetappi. Tässä etapissa käytiin yleisesti määrityksi
 
 * [Etappi 2 - Suunnittelu](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/4#tab-issues)
 
-Projektin suunnittelussa on otettu huomioon monta erilaista vaikuttavaa tekijää. Suunnitteluun vaikuttaa niin tilaajan asettamat vaatimukset, kuin arvioidut kävijämäärätkin. Myös kuntannusten huomiointi on tärkeässä osassa suunnittelun kannalta. Tämän suunnitteluetapin tavoitteena on olla perillä mitä lähdetään toteuttamaan ja mitä se ryhmältä vaatii. Samalla suunnitellaan toteutuksen aikataulutusta. Suunnittelu jatkuu vielä etapista riippumatta. Etapin tarkoitus on kertoa suurpiirteisesti millä tuotantoperiaatteilla mennään. Toteutetaanko sivut helposti editorin avulla vai toteutetaanko ne alusta loppuun itse koodaamalla.
+Projektin suunnittelussa on otettu huomioon monta erilaista vaikuttavaa tekijää. Suunnitteluun vaikuttaa niin toimeksiantajan asettamat vaatimukset, kuin arvioidut kävijämäärätkin. Myös kuntannusten huomiointi on tärkeässä osassa suunnittelun kannalta. Tämän suunnitteluetapin tavoitteena on olla perillä mitä lähdetään toteuttamaan ja mitä se ryhmältä vaatii. Samalla suunnitellaan toteutuksen aikataulutusta. Suunnittelu jatkuu vielä etapista riippumatta. Etapin tarkoitus on kertoa suurpiirteisesti millä tuotantoperiaatteilla mennään. Toteutetaanko sivut helposti editorin avulla vai toteutetaanko ne alusta loppuun itse koodaamalla.
 
 * [Etappi 3 - Toteutus](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/milestones/8#tab-issues)
 
@@ -250,22 +250,13 @@ Hyväksyntätestaus on toiminnallisuuden kriteereihin liittyvä etappi. Tässä 
 Tuote luovutetaan toimeksiantajalle.
 Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydään projekti kokonaisuudessaan läpi.
 
->”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
-
 
 ## 4. Laadunvarmistus
 
->Projektissa sovellettavat työmenetelmät, välineet, ohjeet ja standardit
-
->Tässä kappaleessa luetellaan kaikki käytettävät menetelmät, työkalut ja standardit versionumeroineen. Usein toimeksiantajalla on jokin menetelmä, jota projektiryhmän olisi syytä noudattaa. Toimeksiantaja voi määrittää myös noudatettavat dokumenttien ulkoasustandardit. Muussa tapauksessa projektiryhmä räätälöi IT-instituutin tarjoamista mallipohjista itselleen soveltuvan ja toimeksiantajan hyväksymän mallin.
-
->Opintojakso asettaa siis tietyt vaatimukset projektin seurantatyökaluille ja raportoinnille, jotka tulee ottaa huomioon. Opintojaksolla ei kuitenkaan pakoteta tiettyä tapaa käyttää työkaluja, joten niiden käytöstä on syytä tehdä suunnitelma tähän kohtaan.
-
->Projektin tiedon- ja versionhallinnan perusteet tulee selvittää, jotta kaikki projektin sidosryhmät tietävät dokumenttien uusimpien versioiden sijainnin. Projektisuunnitelmasta ja kaikista muistakin projektin keskeisistä dokumenteista tulee useita versioita, joihin pitää lisätä versiohistoria, jotta projektin kehityksen seuraaminen jälkikäteen on mahdollista. Mikäli jokin yksittäinen laite tai ohjelmisto nousee projektin toteutuksen kannalta kriittiseen asemaan, on tälle hyvä nimetä vastuuhenkilö, joka tuntee ko. laitteen tai ohjelmiston ryhmästä parhaiten. Ohessa on lista asioista, jotka kannattaa suunnitella ja dokumentoida: 
 
 ## 4.1 Väli- ja lopputulosten hyväksymismenettely
 
-Projektista esiteltiin havainnoiva figma luonnos toimeksiantajalle toteutuksen suunnittelun loppuvaiheessa, toteutuksen alkutaipaleella. Tilaisuudessa toimeksiantaja antoi kommentteja luonnoksesta millaisia muutoksia suunnitelmiin tehdään ja muokkaamme toteutuksen suunnitleman sen pohjalta.
+Projektista esiteltiin havainnoiva figma luonnos toimeksiantajalle toteutuksen suunnittelun loppuvaiheessa, toteutuksen alkutaipaleella. Tilaisuudessa toimeksiantaja antoi kommentteja luonnoksesta millaisia muutoksia suunnitelmiin tehdään ja muokkaamme toteutuksen suunnitleman sen pohjalta. Tämän jälkeen päivitetty figma luonnos esiteltiin myös toimeksiantajalle ja saatiin vihreätä valoa ja pääsimme etenemään varsinaiseen tuotantoon.
 
 ## 4.2 Dokumentointi
 
@@ -273,21 +264,21 @@ Dokumentointi tapahtuu tänne OPF-kehikkoon ja myös projektiryhmän Teams-kanav
 Teams-kanavalle tallennetaan palavereiden muistiinpanot ja keskustelut projektiin liittyen käydään sen kautta, jotta kaikki on tallessa.
 Projektisuunnitelma, riskien hallinta, vaatimusmäärittely, viestintäsuunnitelma jne. dokumentoidaan tänne OPF-kehikkoon omiin kansiorakenteisiinsa.
 
-Projektin toteutukselle on oma reposiorionsa, jonne tallennetaan projektiin liittyvää koodia, kuvia yms projektin toteutukseen liittyvää sisältöä. Tämä helpottaa eri työvaiheiden toteuttajien toimimista ja kaikki on samalla dokumentoitu ja tallennettu useampaan eri paikkaan.
+Projektin toteutukselle on oma reposiorionsa, jonne tallennetaan projektiin liittyvää koodia, kuvia yms projektin toteutukseen liittyvää sisältöä. Tämä helpottaa eri työvaiheiden toteuttajien toimimista ja kaikki on samalla dokumentoitu ja tallennettu useampaan eri paikkaan. Myös erinäiset vaiheet koodissa ja edelliset versiot on tallennettu commmit ketjuihin.
 
 ## 4.3 Riskien hallinta
 
 Projektiin liittyvistä riskeistä on kirjattu taulukkoon vain todennäköisiä niin sanotusti lähellä olevia uhkia. Olemme jättäneet pois luonnon katastrofit ym. suuremmat ja todella epätodennäköiset riskit.
 
-Tarkemmin riskien hallinnasta löydät täältä: [Riskihallintasuunnitelma.](Riskitaulukko.md)
+Tarkemmin riskien hallinnasta löydät täältä: [Riskihallintasuunnitelma.](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Riskitaulukko/)
 
 ## 4.4 Katselmointikäytäntö
 
->Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).
+Jokaisen viikon viikkopalaverissa käydään läpi mitä alkavalla viikolla ollaan tekemässä ja missä mennään. Työvaiheen vaihtuessa tai toisen työvaiheen alkaessa palaverissa käydään tulevia työvaiheita läpi. Palaverissa selvitetään myös työnjako ja kuka kerkeää tekemään mitä milloinkin. Katselmointia toteutettiin viikottain.
 
 ## 4.5 Projektisuunnitelmaa täydentävät suunnitelmat
 
->Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
+>Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia.
 
 * [Projektisuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Projektisuunnitelma/)
 * [Vaatimusmäärittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/20-Vaatimustenhallinta/Vaatimusmaarittely/)
@@ -299,11 +290,12 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskihallintasuunnitelma.](Ri
 
 ## 4.6 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
-Projektin suunnitelmien tarkistus tehdään joka viikon maanantaina viikon aloitus palaverissa. Palaverissa tarkastellaan alkavan viikon sprinttiä ja onko aikataulussa ilmennyt mahdollisia muutoksia.
+Projektin suunnitelmien tarkistus tehdään joka viikon maanantaina viikon aloitus palaverissa. Palaverissa tarkastellaan alkavan viikon sprinttiä ja onko aikataulussa ilmennyt mahdollisia muutoksia. Palaveri päätetään vasta, kun kaikki on perillä siitä mitä tapahtuu, missä ja milloin.
 
 ## 4.7 Projektin keskeyttämiskriteerit
 
-Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan asiakkaalle sellaisena, kuin se koulutuksen päättymishetkellä on. Jatkokehityssuunnitelma laaditaan, jos näyttää siltä, että projekti ei valmistu harjoittelujakson aikana. 
+Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan asiakkaalle sellaisena, kuin se koulutuksen päättymishetkellä on. Jatkokehityssuunnitelma laaditaan, jos näyttää siltä, että projekti ei valmistu harjoittelujakson aikana.
+
 
 ## 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
 
