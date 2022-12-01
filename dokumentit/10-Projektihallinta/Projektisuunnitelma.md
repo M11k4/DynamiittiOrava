@@ -315,11 +315,13 @@ Projektin toteutuksessa olevia työtiloja
 
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
 
->Projektin lopputuote tulee myös dokumentoida järkevällä tasolla. Osana lopputuotetta saattaa olla asiakkaalle tarjottavaa käyttöönottokoulutusta ja mahdollisesti asennus- tai käyttöönotto­palvelua. Mikäli koulutuksen rooli projektin kannalta on huomattava (esimerkiksi ohjelmiston käyttäjät eivät ole olleet mukana projektissa ja eivät tiedä miten järjestelmä toimii) tulee projektisuunnitelmaan liittää suunnitelma asiakkaalle tarjottavasta koulutuksesta. Lisäksi jos on tarpeen, tulee projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma.
+Projektin luovutuksessa ja käyttöönotossa pystytimme valmiin tuotteen toimeksiantajan vanhojen sivujen tilalle. Vanhat sivut tallennettiin ja uudet sivut saatiin palvelimelle pyörimään ongelmitta. Samalla tapahtui siis käyttöönotto. Asiakasta ei ohjeisteta sivun ylläpidollisissa asioissa, kuin ottamaan ongelmatilanteiden ilmetessä yhteyttä ammattilaisiin ja hankkimaan sieltä kautta apua tilanteeseen. 
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
 
 Projektiin liittyvät dokumentaatiot jää projektin osapuolille itselleen talteen työllistymistä edistäväksi mareiaaliksi osapuolien niin halutessaan. Projektin kaikki dokumentit ja ja sisältö on projektin päättyessä mahdollista ladata itselleen talteen esimerkiksi github palvelujen alle.
+
+Kaikki dokumentaatio löytyy tästä kyseisestä OPF kehikosta ja projektin tuotantoon liittyvää materiaalia on tallennettuna toiseen erilliseen repositorioon.
 
 ## 6.3 Projektin virallinen päättäminen
 
@@ -327,12 +329,11 @@ Projektin viimeinen virallinen ajankohta on 9.12.2022, kun työvoimakoulutus vir
 
 Projektin aikamääreissä määritetty ajankohta, kun projekti on päätetty on 20.11.2022. Tälle päättämis ajankohdalle on annettu liukumavaraa noin viikon verran lisää ajankohdasta eteenpäin. Käytäntö on tämä, koska kyseessä on harjoittelu ja kouluprojekti, jossa ei ole kustannuksia projektiin liittyvillä osapuolilla.
 
+Liukumavara viikko käytettiin tuotantoon.
+
 ## 6.4 Lopetustilaisuus
 
->Yleensä projektit päätetään yhteiseen päätösseminaariin. Tähän kirjataan osallistujat ja ajankohta. 
-
-* Saunailta :)?
-
+Viimeinen projektitiimin kesken pidettävä lopetustilaisuus on 2.12.2022.
 
 ## 6.5 Projektin loppuraportti
 
@@ -341,6 +342,4 @@ Projektin loppuraporttia on ollut laatimassa koko dynamiittiorava henkilöstö.
 Loppuraporttiin alla olevasta linkistä.
 
 [Projentin loppuraportti](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Projektin-loppuraportti/)
-
->Projektin loppuraportti laaditaan viimeiseen johtoryhmän kokoukseen mennessä.
 
