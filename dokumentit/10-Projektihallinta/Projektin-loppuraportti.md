@@ -143,8 +143,13 @@ Eniten aikaa kului suunnittelussa ja se venyi todella pitkälle alkuperäisestä
 
 ### 4.2.4.	Asenne
 
-*	tehtävään oli hyvä asenne
-*	oppimiseen 
-*	ongelmiin
-*	ote projektista sen eri vaiheissa
-*	palautehakuisuus
+*	Projektin toteuttamisen kannalta tiimin asenne oli mielestämme hyvä. Kaikki tekivät heille annettuja hommia hyvällä meiningillä.
+
+*	Oppimisen suhteen asenne oli kaikilla tilanteesta riippuvaa. Suurin osa kaikille oli projektissa työskentelyssä ja alassa muutenkin täysin uutta ja haasteet selätettiin ja se kertoo asenteesta oppimiseen jo jotakin. 
+
+*	Ongelmat kohdattiin ja niistä uskallettiin kertoa tiimin kesken ja pyytää apua tilanteen niin vaatiessa. Ongelmien kohdalla toimittiin sen sallimissa rajoissa ja kaikki kääntyi lopulta aina parhain päin.
+
+*	Projektin eri osa-alueissa ote tekemiseen ja toteutuksen etenemiseen oli mielestämme myös hyvä. Alussa projektia alettiin heti täysillä suunnittelemaan. Toteutus aloitettiin heti, kun sille aika oli kypsä jne jne. Kaikista suurin motivaattori taisi olla lähenevä harjoittelun loppu ja saatiin tehtyä projektille mahtava loppurutistus!
+
+*	Palautetta annettiin palavereissa ja dailyissä ja tsempattiin toisiamme tai kehuttiin hyvistä onnistumisista.
+
