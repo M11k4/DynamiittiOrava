@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Projektin loppuraportti |
 | Laatija: | Dynamiittiorava tiimi |
-| Versio: | 0.5 |
-| Päivämäärä: | 29.11.2022 |
+| Versio: | 0.6 |
+| Päivämäärä: | 1.12.2022 |
 
 
 # 1.	JOHDANTO	
@@ -14,8 +14,6 @@ Tämä dokumentti liittyy koulutuksessa olleen ryhmän harjoittelujaksossa toteu
 
 Projektin mahdollistajan toimi JAMK yhteistyöss TE-Palveluiden kanssa. Tiimimme Dynamiittiorava perustettiin koulutuksen harjoittelujakson alkaessa. Projektissa toimeksiantajana toimi Grafiteam Oy, jolle nettisivut toteutettiin.
 Tämän dokumentin tarkoitus on presentoida meidän harjoittelujakso kokonaisuudessaan projektin osalta.
-
-<!--Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin. -->
 
 
 # 2.	TEHTÄVÄ, TAVOITE, TULOKSET
@@ -30,14 +28,33 @@ Kuitenkin ehkä suurimpana tavoitteena oli, että kaikki tiimiläiset oppii ryhm
 
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutus)
 
-Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
-*	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
-*	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoittain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
-*	projektin ulkopuoliset resurssit: konsultaatiot, koulutus, katselmoinnit, testaukset jne.
+Projektin edistymisessä tuli hiukan suunnitelmasta poikkeavaa viivästystä. Onneksi olimme ennakoineet tämän ja jättäneet loppuun tyhjää, jos tulee tarve jatkaa aikatualutusta. Suurimmat viivästykset tulivät pääosin toimeksiantajan toimesta. Projektin kannalta olennaisia tietoja ja materiaaleja odoteltiin välillä pitkiäkin aikoja, joka aiheutti sen, että ei pystytty välttämättä etenemään ollenkaan hetkellisesti.
+
+Suunnitelmana oli toteuttaa projektikokonaisuus seuraavanlaisella vaiheistuksella:
+
+* Aloitus
+* Suunnittelu 
+* Toteutus + Suunnittelu 
+* Testaus + korjaus 
+* Hyväksyntätestaus
+* Luovutus
+
+Lopullinen toteutuksen kulku oli seuraava:
+
+* Aloitus 
+* Suunnittelu 
+* Toteutus + Suunnittelu 
+* Testaus + Toteutus + Suunnittelu 
+* Luovutus
+
+Kaikkiaan onnistuimme pääpiirteittäin kokonaisuudessa todella mallikkaasti ja saimme tuotteen valmiiksi ja kaikki toimii ongelmitta. Projektissa suurimpia erehdyksiä aikataulutuksessa oli toimeksiantajan tuomat muuttujat. Jos olisimme osanneet ottaa paremmin huomioon mahdolliset muuttujat toimeksiantajan puolelta niin ei olisi tarvinnut tehdä joitakin työvaiheita suunnittelussa ja toteutuksessa useampaan kertaan. 
+
+Eniten aikaa kului suunnittelussa ja se venyi todella pitkälle alkuperäisestä suunnitelmasta. Taas testaukselle ja korjauksille varattu aikaikkuna oli todella suuri siihen nähen mitä siihen aikaa tämän kokoluokan projektissa oikeasti kuluu.
+
+
 
 # 3.	ONGELMAT JA NIIDEN RATKAISUT
 
-* Kuvatkaa ongelmat projektin suunnittelussa ja toteutuksessa (mistä johtui, miten ratkaistiin, mitä olisi pitänyt tehdä toisin ja miten)
 
 ## 3.1.	Ongelmat suunnittelussa
 
@@ -45,7 +62,7 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 * Tämän olisi voinut ehkä välttää, mutta koko projektin ollessa kaikille ensisijaisesti harjoittelua eikä työpohjaista suorittamista niin tämä oli ihan hyvä oppi tulevaa ajatellen. Tässä nimenomaa opittiin, että täytyy olla selkeämmät suunnitelmat ja esitellä toimeksiantajalle raaka versioita enemmän.
 
-* "Vapaat kädet" toi paljon ongelmia.
+* "Vapaat kädet" toi paljon ongelmia, joka oli toimeksiantajan ohjeistus meille nettisivujen toteuttamiseen. Todella paljon vei aikaa alussa etsiä pelkästään erinäistä tietoa siitä, missä palvelimella sivusto toimii, millä se on toteutettu, missä domain on jne. Nämä oli osittain otettu huomioon, mutta vastausten valjetessa tuli hiukan hankaluuksia, kuinka edetä seuraavaksi.
 
 ## 3.2.	Ongelmat toteutuksessa
 
@@ -67,11 +84,10 @@ Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisu
 
 ## 4.1.	Keskeiset opit
 
-* Pienryhmissä työskentely ja työnjako ryhmän sisällä. Kirjoitappa Niilo tähän nyt jotain jännää ja pätevän kuulosta.
+* Pienryhmissä työskentely ja työnjako ryhmän sisällä. Koko projektitiimi oli jaettu eri osa-alueissiin ja jokainen pääsi tekemään toiveittensa mukaista hommaa ja työvaihetta. Kaikki sai siis oppia niihin asioihin mihin halusikin. Jokaisen työryhmän sisällä ryhmäläisillä oli oma työnjakonsa ja tehtävistä keskusteltiin ja päätettiin pienryhmien sisällä.
 
 ## 4.2.	Itsearviointi
 
-* Arvioikaa seuraavia:
 
 ### 4.2.1.	Ryhmätyö
 
