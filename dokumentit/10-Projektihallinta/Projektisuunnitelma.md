@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko |
-| Versio: | 5.6 |
+| Versio: | 6.0 |
 | Päivämäärä: | 1.12.2022 |
 
 
@@ -202,8 +202,8 @@ Project starts 2022-9-12
 [Määrittely vaihe] Starts 2022-9-12 and ends 2022-9-26
 [Suunittelu] Starts 2022-9-26 and ends 2022-10-3
 [Toteutus+suunnittelu] Starts 2022-10-3 and ends 2022-11-28
-[Testaus+korjaus] Starts 2022-10-24 and ends 2022-11-28
-[Luovutus] Starts 2022-11-28 and ends 2022-12-4
+[Testaus+korjaus] Starts 2022-10-24 and ends 2022-11-30
+[Luovutus] Starts 2022-11-28 and ends 2022-11-30
 @endgantt
 ```
 
