@@ -1,8 +1,8 @@
-# Ohjelmistoarkkitehtuuri (pohja)
+# Ohjelmistoarkkitehtuuri
 
 |  |  |
 |:-:|:-:|
-| Dokumentti | Ohjelmiston arkkitehtuuri kuvaus-pohja |
+| Dokumentti | Ohjelmiston arkkitehtuuri kuvaus |
 | Laatija: | DynamiittiOrava |
 | Versio: | 3.4 |
 | Päivämäärä: | 29.11.2022 |
