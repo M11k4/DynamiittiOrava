@@ -4,8 +4,8 @@
 |:-:|:-:|
 | Dokumentti | Projektisuunnitelma |
 | Laatija: | Niko |
-| Versio: | 0.5 |
-| Päivämäärä: | 10.11.2022 |
+| Versio: | 5.5 |
+| Päivämäärä: | 1.12.2022 |
 
 
 ## 1. Toimeksianto 
@@ -252,8 +252,6 @@ Projekti käydään tiimin kesken läpi ja pidetään loppupalaveri ja käydää
 
 >”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
 
-## 3.2 Projektin alustavat kustannusarviot
-
 
 ## 4. Laadunvarmistus
 
@@ -291,11 +289,12 @@ Tarkemmin riskien hallinnasta löydät täältä: [Riskihallintasuunnitelma.](Ri
 
 >Tässä kohdassa mainitaan, mitä täydentäviä suunnitelmia on käytettävissä tai aiotaan projektin kuluessa laatia (esim. viestintä-, riskienhallinta-, testaus- ja käyttöönottosuunnitelma).
 
-* [Projektisuunnitelma](Projektisuunnitelma.md)
+* [Projektisuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Projektisuunnitelma/)
 * [Vaatimusmäärittely](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/20-Vaatimustenhallinta/Vaatimusmaarittely/)
 * [Toteutussuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/30-Suunnittelu-ja-toteutus/arkkitehtuuri-ja-tekninentoteutus/)
-* [Viestintäsuunnitelma](Viestintasuunnitelma.md)
-* [Riskihallintasuunnitelma](Riskitaulukko.md)
+* [Viestintäsuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Viestintasuunnitelma/)
+* [Riskihallintasuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Riskitaulukko/)
+* [Projektin loppuraportti](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Projektin-loppuraportti/)
 
 
 ## 4.6 Suunnitelmien tarkistus- ja päivitysajankohdat 
@@ -315,6 +314,7 @@ Projektissa työskentelevälle tiimille on laadittu viestintäsuunnitelma. Prohj
 [Viestintäsuunnitelma](Viestintasuunnitelma.md)
 
 Projektin toteutuksessa olevia työtiloja
+
 - Etätyö
 - Koululla oleva työtila 
 - Koululla oleva kokoustila
