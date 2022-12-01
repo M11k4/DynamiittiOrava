@@ -16,14 +16,12 @@ Tässä sivulla pääset tutustumaan tiimiimme ja meidän rooleihin projektissa.
 | Daniela Ferretti | QA Testaus | Dynamiitti Orava | AC8418 | 
 | Kaikki | Tiedonhankinta | _ | _ |
 
+## Kotisivut
+
+* [Tiimin kotisivut](https://ac8442.pages.labranet.jamk.fi/dynamiittiorava-tiimiesittely/)
 
 
 ## Tiimin logo
 
 
 ![](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/raw/master/assets/dynamiittiorava.jpg)
-
-
-## Kotisivut
-
-* [Tiimin kotisivut]()
