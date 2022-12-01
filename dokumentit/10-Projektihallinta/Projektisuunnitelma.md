@@ -150,7 +150,7 @@ Ylläpitääksemme tiettyä laatua ja linjaa olemme laatineet tietyt pelisäänn
 
 ## 2.5. Tiedonvälitys ja projektin etenemisen seuranta
 
-Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](Viestintasuunnitelma.md). Palavereita pidetään yksi suurempi viikossa, jossa on koko projektitiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
+Projektin yhteydenpito selviää paremmin [Viestintäsuunnitelmasta](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Viestintasuunnitelma/). Palavereita pidetään yksi suurempi viikossa, jossa on koko projektitiimi paikalla. Tämä palaveri järjestetään joka maanantai klo 10:00. Paikalla voi olla myös etänä. Lisäksi meillä on viisi lyhyttä daily palaveria jokaisena arkipäivänä aamuisin ja viisi lyhyttä daily palaveria iltapäivisin. 
 Projektin työtiloina meillä on projektia varten varattuna työtiloja sekä palaveritiloja jamkilla. Pääsääntöisesti projektia toteutetaan kuitenkin etänä kotoa käsin.
 Projektia ja sen etenemistä voi seurata meidän [issue sivulta](https://gitlab.labranet.jamk.fi/AC8393/grafiteam-projekti/-/issues) sekä alla olevan GANTT diagrammin avulla.
 
@@ -311,7 +311,7 @@ Projekti toteutetaan koulutuksen harjoittelujakson aikana. Projekti palautetaan 
 
 Projektissa työskentelevälle tiimille on laadittu viestintäsuunnitelma. Prohjektiin liittyvä viestintä tapahtuu viestintäsuunnitelman mukaisesti aina samalla kanavalla. Kanavalla on eri tehtäväalueille omat kanavat.
 
-[Viestintäsuunnitelma](Viestintasuunnitelma.md)
+[Viestintäsuunnitelma](https://ac8393.pages.labranet.jamk.fi/grafiteam-projekti/10-Projektihallinta/Viestintasuunnitelma/)
 
 Projektin toteutuksessa olevia työtiloja
 
