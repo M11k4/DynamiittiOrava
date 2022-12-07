@@ -4,7 +4,7 @@
 |:-:|:-:|
 | Dokumentti | Ohjelmiston arkkitehtuuri kuvaus |
 | Laatija: | DynamiittiOrava |
-| Versio: | 3.4 |
+| Versio: | 3.5 |
 | Päivämäärä: | 29.11.2022 |
 
 Tämä dokumentin pohjana käytetään alkuperäistä http://www.cs.tut.fi/ohj/dokumenttipohjat/pohjat/suunnittelu/hytt_drsuunnittelu.doc
@@ -36,6 +36,7 @@ Tämä dokumentin pohjana käytetään alkuperäistä http://www.cs.tut.fi/ohj/d
 >Ulkopuolisia dokumentteja joita hyödynsimme projektin aikana.
 
  * https://www.npmjs.com/package/react-responsive-carousel
+ * https://www.framer.com/motion/
 
 >Testasimme lukuisia muita mahdollisia valmiita osia joita voisi hyödyntää sivustoa kootessa, mutta suurin osa jäi tien varteen. (Valmisosista tarkemmin alla, luvussa 5.)
 
@@ -106,67 +107,70 @@ Tekninen puoli käyttäjäkokemuksesta:
 
 ### 3.5 Tuotekehitysympäristön kuvaus
 
->Kuvaa ainakin seuraavat:
+> Kukin kehittäjä käytti omalla koneellaan sopivia kehitystyökaluja, erityisesti Visual Studio Code.
 
-* Kehitysympäristö
-* Testiympäristö
-* Ajo/suoritusympäristö
-* Demoympäristö
+## 4.		MODUULI/LUOKKA/PROSESSIKUVAUKSET
 
->Eli miten nuo eri ympäristöt on toteutettu ko. projektissa
+> Projektimme pyrki olemaan selkeä ja helppokäyttöinen nettisivusto. Tässä luvussa kuvaillaan sivuston toimintaa ja kosketetaan myös visuaaliseen ilmeeseen. Nämä asiathan ovat myös selkeästi ja nopeasti nähtävissä ja koettavissa kun menee katsomaan sivua, joten tämä kuvaus pyrkii tukemaan tuota kokemusta ja vahvistamaan, että mahdolliset huomiot sivusta ovat tarkoituksellisia.
+> Kommentoiti visuaaliseen puoleen voisi vielä kehittää, mutta sanottakoon tässä, että sivulla on panostettu responsiivisuuteen tämän aspektin kohdalla.
 
-## Käytetyt työvälineet ja niiden versionumerot
+### 4.1		React-komponentit
 
-(WORK IN PROGRESS)
-* Kääntäjä xyz v1.0.1
-* debuggeri zky v2.05
-* Firefox 123
+### 4.1.1	 Yleiskuvaus
 
-## 4.		MODUULI /LUOKKA/PROSESSIKUVAUKSET
+>Sivusto koostuu useammasta komponentista jotka tuodaan yhteen luomaan koko sivusto. Vaikka lopputulos on suhteellisen yksinkertainen, on taustalla käytetty monenlaista ja yleistä metodologiaa.
 
->Tämän luvun lukurakenne suunnitellaan ohjelman arkkitehtuurin mukaiseksi: Jos yksitasoinen jaottelu riittää, käytetään tässä esitettyä tapaa (4.1 Moduuli X, 4.2 Moduuli Y…). Jos ohjelma jakaantuu esimerkiksi pakkauksiin, joiden sisällä on useita luokkia, kannattaa kullekin pakkaukselle tehdä oma kohtansa, jonka alakohdissa kukin luokka kuvataan. Pakkauksen kaikille luokille yhteiset asiat kuvataan luvun alussa, ja jos pakkauksella on rajapinta, myös se kuvataan tässä. Laajoissa hankkeissa kunkin pakkauksen tai osajärjestelmän sisäisestä rakenteesta kirjoitetaan erillinen suunnitteludokumentti.
-Jokaisesta moduulista kuvataan sen tehtävä, liittymät muihin osiin, rajapinta sekä toteutusnäkökohdat. Tekniset yksityiskohdat täytyy selittää niin tarkasti, että kuvauksen perusteella pystytään suorittamaan moduulin testaus mustalaatikkotestauksena.
+### 4.1.2 Frontpage
 
-### 4.1		Moduuli X (kustakin moduulista oma alakohtansa 4.i)
+>Tämän komponentin kävijä kohtaa ensimmäisenä sivulla. Erityisesti täältä löytyy myös nappi jolla kävijä voi suoraan navigoida Ota Yhteyttä osioon.
 
-### 4.1.1		Yleiskuvaus 
+### 4.1.3 Nav-valikko
 
->Moduulin nimi:
-Moduulin tyyppi: (luokka, funktio, prosessi, pakkaus, alijärjestelmä, kirjasto)
-Yleiskuvaus: Lyhyt kuvaus moduulista – miksi se on olemassa, mitä se tekee.
-Asiakkaat: mitkä/minkä tyyppiset osat järjestelmästä tarvitsevat tämän osan palveluita (yleiskäyttöisen komponentin tapauksessa tämä kohta puuttuu).
-Riippuvuudet ja liittymät muihin moduuleihin: Kuvataan lyhyesti, miten moduuli käyttää hyväkseen muita moduuleita ja palveluita ympäristössään (voi usein yhdistää yleiskuvaukseen).
+>Tästä komponentista käyttäjä voi nopeasti navigoida sivun osien välillä. Osiot joihin on linkit ovat Palvelumme, Yrityksemme sekä Ota Yhteyttä -osio. Näiden lisäksi on kuvakkeet toimeksiantajan sosiaalisen median tileille Instagramiin ja Facebookiin.
+
+### 4.1.4 Palvelumme
+
+>Tässä osiossa näkyy toimeksiantajan tarjoamia palveluita nopeallakin katsastuksella.
+>Teknisellä puolella tästä osiosta voisi irroittaa omaksi komponentiksi Tuotteet-osion, ja tähän olemassa olevaan komponenttiin jäisi näiden alle jäävien komponenttien järjestely tai hallinnointi.
+>Osion alaosassa on nappi joka paljastaa Gallerian näkyviin, tai piilottaa sen jos se on jo näkyvissä.
+
+### 4.1.5 Galleria
+
+>Tämä palikka näyttää kävijälle kuvia toimeksiantajan aikaisemmista tuotoksista. Galleria pyörii automaattisesti kuvien välillä. Kuvat ovat järjestetty aakkosjärjestykseen tiedostonimen perusteella.
+
+### 4.1.6 Asiakkaitamme
+
+>Tässä kappaleessa on useampi toimeksiantajan asiakkaita listattuna.
+
+### 4.1.7 Yrityksemme
+
+>Tässä pykälässä kuvaillaan toimeksiantajan yritystä ja toimintaa.
+
+### 4.1.8 Ota Yhteyttä
+
+>Täällä näkyy toimeksiantajan yhteystiedot.
 
 ### 4.1.2		Rajapinta yleisesti
 
->Kuvataan yleisesti moduulin tarjoamat palvelut ja rajapintafunktioiden yhteiset ominaisuudet (esimerkiksi virhetilanteiden käsittely). Joissain tapauksissa kannattaa antaa esimerkkejä moduulin käytöstä kuvaamalla asiakkaan ja moduulin välinen kommunikointi esimerkiksi tapahtumasekvenssikaaviona. Tässä mainitaan myös rajapinnasta mahdollisesti ulos näkyvät vakiot yms. määrittelyt, mahdolliset kapasiteettirajoitukset ja niiden muuttaminen, moduulin tallettamat tilatiedot jne.
+>Yhteisiä osiota komponenttien välillä löytyy CSS-määrittelyistä ja nappien toiminnallisuudesta. Sivustoa luodessa pyrittiin luomaan yhtenevä tunne eri komponenttien välillä.
 
 ### 4.1.3	 	Rajapintafunktiot
 
->Tässä kuvataan erikseen omassa alakohdassaan jokainen rajapintafunktio:
+>Sivujen taustalla toimii muutama funktio ja React-koukkuja.
 
-  * Funktion nimi
-  * Funktion parametrit ja paluuarvo
-  * Toiminta: mitä funktio tekee
-  * Esiehdot: kuvataan, mikä ohjelman tilan pitää olla ennen funktion kutsua.
-  * Jälkiehdot: kuvataan, mikä ohjelman tila on funktion kutsun jälkeen (mm. sivuvaikutukset).
-  * Virhetilanteet: poikkeukset ja muut virhetilanteet, toiminta kun esiehdot eivät kutsuttaessa pidä paikkaansa
+* handleClick() vuoroin paljastaa ja piilottaa Gallerian. Koukut tässä palikassa pitävät kirjaa siitä, kumpi tila sivustolla on aktiivinen.
 
-### 4.1.4	 	Moduulin toteutus
+### 4.1.4	 	Moduulien toteutus
 
-Tarvittaessa voidaan antaa ohjeita toteutusta varten, esimerkiksi:
-  * Ajatuksia moduulin sisäisten tietorakenteiden toteutuksesta.
-  * Ajatuksia käytettävistä algoritmeista. 
-  * Tiedossa olevat mahdollisesti uudelleenkäytettävät komponentit.
-  * Mikäli moduuli on monimutkainen, voidaan käyttää pseudokoodia, aktiviteettikaavioita yms. Tarvittaessa voidaan tehdä erillinen moduulisuunnitteludokumentti.
+>Komponentit ovat omissa tiedostoissaan ja jokaisella on myös oma CSS-tiedostonsa erityismääritteitään varten. Jaettuja resursseja komponenttien välillä ovat Animations.js ja GlobalStyle.js.
 
 ### 4.1.5	 	Virhekäsittely
 
->Kuvataan virheiden ja poikkeusten käsittely moduulitasolla.
+>Katso luku 3.4.
 
 ## 5.		VALMISOSAT JA ERITYISET TEKNISET RATKAISUT
 
->Nettisivut pääasiassa rakennettiin itse suhteellisen pohjalta. Toki hyödynsimme esimerkiksi Reactia ja sen kirjastoja. Näistä selkein palikka joka tuli käyttöön, on gallerian karuselli. (Katso tarkemmin linkkiä yllä, luvusta 2.)
+>Nettisivut pääasiassa rakennettiin itse suhteellisen pohjalta. Toki hyödynsimme esimerkiksi Reactia ja sen kirjastoja. Näistä selkein palikka joka tuli käyttöön, on gallerian karuselli. (Katso tarkemmin linkkiä yllä, luvusta 2.) Käytimme myös Framer Motion -animaatioita ja Font Awesome -kuvakkeita.
 
 >Nettisivulla ei poiketa silmäänpistävästi tavanomaisista nettisivujen toimintatavoista tai teknisistä ratkaisuista. Suojaukset, varmistukset, toipumiset ja siirrettävyys riippuvat sivuston nykyisestä palveluntarjoajasta. Sivuston ylläpito jää toimeksiantajan harteille ja heillä itsellään on back-end puoleen tarvittavat tunnukset.
 	
